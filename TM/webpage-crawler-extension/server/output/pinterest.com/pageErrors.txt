@@ -1,0 +1,1 @@
+[{'level': 'SEVERE', 'message': 'https://s.pinimg.com/webapp/www/_client-mobile-20d0e7a46cb109cf.mjs 0:158866 Uncaught SyntaxError: Unexpected identifier', 'source': 'javascript', 'timestamp': 1676213112231}]

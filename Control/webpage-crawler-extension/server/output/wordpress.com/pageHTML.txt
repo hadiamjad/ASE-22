@@ -41,13 +41,13 @@
 	<link rel="alternate" type="application/rss+xml" title="WordPress.com Discover" href="//discover.wordpress.com/feed/">
 
 			<link rel="stylesheet" id="noto-sans-font-css" href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&amp;subset=cyrillic,cyrillic-ext,devanagari,greek,greek-ext,latin-ext,vietnamese&amp;display=swap" media="all">
-<link rel="stylesheet" id="07b81d3325cf9460356d6bfc17437bf7-css" href="https://s1.wp.com/_static/??-eJzFVsFOwzAM/SGytGNi2wHxKchr3NaQOFHibuzvcSeBQIIDsNBbFdvvPdtxY0uWo1AXudg+spgeOlx1pdzYUzJ6LMhiZcSAxY4b64Ed8WAD5GeU+SvBoKbHLoYQ2WqkJXb4sgrEf8GJIUXWGPVGcJgNw/ED+ijBX49CSLxaKohPkGHIkMYq6IdJpE7RKailSkGokylXgXZ0NJKxCvaRHMYawHJO6ExP6F2VPgoG46lIlV6q71vkumn3ptfqG5wdMXdohGpNlfpeyBZh7xHmK+zMYvmXEVKd6fyU0bpZsqP/zZ4wl8jgF1SQMdAUlhNwmAoxKvhiCt55FpEgcRh8tcH6UVmv8yLGE/sIzkBK18Ymjc0MQvPMGEeli5OemwMwY67y341RKi+CoLmcdR0u3zLQZU0uNmvrPApcHDdN80sNYzJ6G9Ymdl+80A/hvr3bttt2t9vfPr0CP8Fc+Q==?cssminify=yes" media="all">		
+<link rel="stylesheet" id="9d23c4fce4764e604d81d31dcdf216bd-css" href="https://s1.wp.com/_static/??-eJzFVttOwzAM/SGytNW47AHxKchr3NaQOFHibuzvcSeBQIIHYKFvVWyfc2zHjS1ZjkJ95GKHyGIG6HHTl3Jlj8nosSCLlQkDFjttrQd2xKMNkJ9Rlq8Eo5oe+xhCZKuRltjhyyYQ/wUnhhRZY9QbwWE2DIcP6JMEfzkKIfFqqSA+QYYxQ5qqoO9nkTpFp6CWKgWhXuZcBdrRwUjGKtgHchhrAMspoTMDoXdV+igYjKciVXqpvm+RXdPuzKDVN7g4Yu7RCNWaKvU9k63CPiAsV9iZ1fIvE6Q60/kpo65Zs6P/zZ4wl8jgV1SQMdAc1hOwnwsxKvhqCt55VpEgcRx9tcH6UVkv8yLGI/sIzkBKl8Ymjc0MQsvMGEelj7Oemz0wY67y341RKi+CoLmcdB0u3zLQeU0uNmvrPAqcHbdN80sNUzJ6GzoT+y9e6Idw397cbu/adnfdPb0CP7Nc8g==?cssminify=yes" media="all">		
 	
 	<meta name="generator" content="WordPress.com">
 	<meta name="application-name" content="WordPress.com">
 
 	<meta property="fb:app_id" content="249643311490">
-	<meta name="apple-itunes-app" content="app-id=335703880">
+	<meta name="apple-itunes-app" content="app-id=1565481562">
 	<meta name="apple-mobile-web-app-title" content="WP.com">
 
 	<meta property="og:type" content="website">
@@ -76,19 +76,9 @@
 	<link rel="shortcut icon" type="image/x-icon" href="//s1.wp.com/i/favicon.ico?v=1447321881" sizes="16x16 24x24 32x32 48x48">
 	<link rel="apple-touch-icon" type="image/png" href="//0.gravatar.com/blavatar/653166773dc88127bd3afe0b6dfe5ea7?s=114&amp;d=https%3A%2F%2Fs1.wp.com%2Fi%2Fwebclip.png" sizes="114x114">
 
-			<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="//s1.wp.com/wp-includes/wlwmanifest.xml">
-		<meta name="msapplication-window" content="width=device-width;height=device-height">
-		<meta name="msapplication-task" content="name=Subscribe;action-uri=https://wordpress.com/blog/feed/;icon-uri=https://0.gravatar.com/blavatar/4e21d703d81809d215ceaabbf07efbc6?s=16">
-		<meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=https://wordpress.com/start;icon-uri=https://s1.wp.com/i/favicon.ico">
-		<meta name="msapplication-task" content="name=WordPress.com Support;action-uri=https://wordpress.com/support/;icon-uri=https://s1.wp.com/i/favicon.ico">
-		<meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=https://wordpress.com/forums/;icon-uri=https://s1.wp.com/i/favicon.ico">
-		<meta name="msapplication-TileImage" content="https://wordpress.com/wp-content/themes/h4/tabs/images/wpcom-logo-144.png">
-		<meta name="msapplication-TileColor" content="#0074a2">
-		<meta name="msApplication-PackageFamilyName" content="AutomatticInc.WordPress.com_9ejavqh8rasr8">
-		<meta name="msApplication-ID" content="App">
 	
-			<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-1H4VG5F5JF&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-TWV5V76&amp;cid=1654923885.1673462696&amp;aip=true"></script><script src="//bat.bing.com/bat.js" async=""></script><script src="https://connect.facebook.net/signals/config/823166884443641?v=2.9.91&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">
-{"@context":"https:\/\/schema.org","@graph":[{"@type":"Corporation","@id":"https:\/\/automattic.com\/#organization","url":"https:\/\/automattic.com\/","name":"Automattic","legalName":"Automattic, Inc.","foundingDate":"2005-08-01","slogan":"We don\u2019t make software for free, we make it for freedom.","description":"We are the people behind <a href=\"https:\/\/wordpress.com\/\">WordPress.com<\/a>, <a href=\"https:\/\/woocommerce.com\/\">WooCommerce<\/a>, <a href=\"https:\/\/jetpack.com\/\">Jetpack<\/a>, <a href=\"https:\/\/simplenote.com\/\">Simplenote<\/a>, <a href=\"https:\/\/longreads.com\/\">Longreads<\/a>, <a href=\"https:\/\/vaultpress.com\/\">VaultPress<\/a>, <a href=\"https:\/\/akismet.com\/\">Akismet<\/a>, <a href=\"https:\/\/gravatar.com\/\">Gravatar<\/a>, <a href=\"\">Crowdsignal<\/a>, <a href=\"https:\/\/cloudup.com\/\">Cloudup<\/a>, and more. We believe in making the web a better place, and <a href=\"https:\/\/github.com\/Automattic\">we believe in Open Source<\/a>. The vast majority of our work is available under the GPL.","logo":{"@type":"ImageObject","@id":"https:\/\/automattic.com\/#logo","url":"https:\/\/automattic.com\/wp-content\/themes\/a8c\/automattic-2011\/images\/automattic-logo-2x.png","width":552,"height":60,"caption":"Automattic"},"image":{"@id":"https:\/\/automattic.com\/#logo"},"address":{"@type":"PostalAddress","streetAddress":"60 29th Street #343","addressLocality":"San Francisco","addressRegion":"CA","postalCode":"94110","addressCountry":"US"},"founder":{"@type":"Person","@id":"https:\/\/wordpress.com\/schema.org\/author\/5#person","name":"Matt Mullenweg","description":"In 2002 I started contributing to Open Source software, and life has just gotten better from there. Co-founder of WordPress, founder Automattic.","image":{"@type":"ImageObject","@id":"https:\/\/wordpress.com\/schema.org\/author\/5#personimage","url":"https:\/\/secure.gravatar.com\/avatar\/767fc9c115a1b989744c755db47feb60?s=96&d=retro&r=g","width":96,"height":96,"caption":"Matt Mullenweg"}},"numberOfEmployees":2032,"sameAs":["https:\/\/twitter.com\/automattic","https:\/\/www.facebook.com\/AutomatticInc","https:\/\/www.linkedin.com\/company\/automattic\/","https:\/\/en.wikipedia.org\/wiki\/Automattic","https:\/\/www.youtube.com\/c\/automattic"],"subOrganization":{"@id":"https:\/\/wordpress.com\/#organization"}},{"@type":"Organization","@id":"https:\/\/wordpress.com\/#organization","url":"https:\/\/wordpress.com\/","name":"WordPress.com","legalName":"Automattic, Inc.","foundingDate":"2005-08-01","slogan":"Build a website, build a movement.","description":"Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.","logo":{"@type":"ImageObject","@id":"https:\/\/wordpress.com\/#logo","url":"https:\/\/s1.wp.com\/home.logged-out\/images\/wpcom-a-website-that-can.jpg","width":1024,"height":512,"caption":"WordPress.com"},"image":{"@id":"https:\/\/wordpress.com\/#logo"},"address":{"@type":"PostalAddress","streetAddress":"60 29th Street #343","addressLocality":"San Francisco","addressRegion":"CA","postalCode":"94110","addressCountry":"US"},"founder":{"@type":"Person","@id":"https:\/\/wordpress.com\/schema.org\/author\/5#person","name":"Matt Mullenweg","description":"In 2002 I started contributing to Open Source software, and life has just gotten better from there. Co-founder of WordPress, founder Automattic.","image":{"@type":"ImageObject","@id":"https:\/\/wordpress.com\/schema.org\/author\/5#personimage","url":"https:\/\/secure.gravatar.com\/avatar\/767fc9c115a1b989744c755db47feb60?s=96&d=retro&r=g","width":96,"height":96,"caption":"Matt Mullenweg"}},"numberOfEmployees":2032,"sameAs":["https:\/\/twitter.com\/wordpressdotcom","https:\/\/www.facebook.com\/WordPresscom","https:\/\/www.instagram.com\/wordpressdotcom\/","https:\/\/www.linkedin.com\/company\/wordpress","https:\/\/www.youtube.com\/WordPressdotcom","https:\/\/www.pinterest.com\/wordpressdotcom\/","https:\/\/en.wikipedia.org\/wiki\/WordPress.com"],"parentOrganization":{"@id":"https:\/\/automattic.com\/#organization"}},{"@type":"WebSite","@id":"https:\/\/wordpress.com\/#website","url":"https:\/\/wordpress.com\/","name":"WordPress.com","description":"WordPress.com is the best place for your personal blog or business site.","potentialAction":{"@type":"SearchAction","target":"https:\/\/wordpress.com\/go\/?s1={search_term_string}","query-input":"required name=search_term_string"},"publisher":{"@id":"https:\/\/wordpress.com\/#organization"},"image":{"@id":"https:\/\/wordpress.com\/#logo"},"sameAs":["https:\/\/twitter.com\/wordpressdotcom","https:\/\/www.facebook.com\/WordPresscom","https:\/\/www.instagram.com\/wordpressdotcom\/","https:\/\/www.linkedin.com\/company\/wordpress","https:\/\/www.youtube.com\/WordPressdotcom","https:\/\/www.pinterest.com\/wordpressdotcom\/","https:\/\/en.wikipedia.org\/wiki\/WordPress.com"]},{"@type":"BreadcrumbList","@id":"https:\/\/wordpress.com\/#breadcrumbs","itemListElement":[{"@type":"ListItem","position":0,"item":{"@type":"WebSite","@id":"https:\/\/wordpress.com\/#website-breadcrumb","url":"https:\/\/wordpress.com\/","name":"Home"}},{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/wordpress.com\/#webpage-breadcrumb","url":"https:\/\/wordpress.com\/","name":"WordPress.com: Build a Site, Sell Your Stuff, Start a Blog & More"}}]},{"@type":"ImageObject","@id":"https:\/\/wordpress.com\/#primaryimage","url":"https:\/\/wpcom.files.wordpress.com\/2017\/11\/cropped-wordpress.png?w=200","width":200,"height":200,"caption":"WordPress.com: Build a Site, Sell Your Stuff, Start a Blog & More"},{"@type":"WebPage","@id":"https:\/\/wordpress.com\/#webpage","url":"https:\/\/wordpress.com\/","name":"WordPress.com: Build a Site, Sell Your Stuff, Start a Blog & More","description":"Create a free website or easily build a blog on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.","inLanguage":"en","isPartOf":{"@id":"https:\/\/wordpress.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/wordpress.com\/#primaryimage"},"breadcrumb":{"@id":"https:\/\/wordpress.com\/#breadcrumbs"},"publisher":{"@id":"https:\/\/wordpress.com\/#organization"},"about":{"@id":"https:\/\/wordpress.com\/#organization"}}]}
+			<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-1H4VG5F5JF&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-TWV5V76&amp;cid=256288861.1676155208&amp;aip=true"></script><script src="//bat.bing.com/bat.js" async=""></script><script src="https://connect.facebook.net/signals/config/823166884443641?v=2.9.95&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Corporation","@id":"https:\/\/automattic.com\/#organization","url":"https:\/\/automattic.com\/","name":"Automattic","legalName":"Automattic, Inc.","foundingDate":"2005-08-01","slogan":"We don\u2019t make software for free, we make it for freedom.","description":"We are the people behind <a href=\"https:\/\/wordpress.com\/\">WordPress.com<\/a>, <a href=\"https:\/\/woocommerce.com\/\">WooCommerce<\/a>, <a href=\"https:\/\/jetpack.com\/\">Jetpack<\/a>, <a href=\"https:\/\/simplenote.com\/\">Simplenote<\/a>, <a href=\"https:\/\/longreads.com\/\">Longreads<\/a>, <a href=\"https:\/\/vaultpress.com\/\">VaultPress<\/a>, <a href=\"https:\/\/akismet.com\/\">Akismet<\/a>, <a href=\"https:\/\/gravatar.com\/\">Gravatar<\/a>, <a href=\"\">Crowdsignal<\/a>, <a href=\"https:\/\/cloudup.com\/\">Cloudup<\/a>, and more. We believe in making the web a better place, and <a href=\"https:\/\/github.com\/Automattic\">we believe in Open Source<\/a>. The vast majority of our work is available under the GPL.","logo":{"@type":"ImageObject","@id":"https:\/\/automattic.com\/#logo","url":"https:\/\/automattic.com\/wp-content\/themes\/a8c\/automattic-2011\/images\/automattic-logo-2x.png","width":552,"height":60,"caption":"Automattic"},"image":{"@id":"https:\/\/automattic.com\/#logo"},"address":{"@type":"PostalAddress","streetAddress":"60 29th Street #343","addressLocality":"San Francisco","addressRegion":"CA","postalCode":"94110","addressCountry":"US"},"founder":{"@type":"Person","@id":"https:\/\/wordpress.com\/schema.org\/author\/5#person","name":"Matt Mullenweg","description":"In 2002 I started contributing to Open Source software, and life has just gotten better from there. Co-founder of WordPress, founder Automattic.","image":{"@type":"ImageObject","@id":"https:\/\/wordpress.com\/schema.org\/author\/5#personimage","url":"https:\/\/secure.gravatar.com\/avatar\/767fc9c115a1b989744c755db47feb60?s=96&d=retro&r=g","width":96,"height":96,"caption":"Matt Mullenweg"}},"numberOfEmployees":2012,"sameAs":["https:\/\/twitter.com\/automattic","https:\/\/www.facebook.com\/AutomatticInc","https:\/\/www.linkedin.com\/company\/automattic\/","https:\/\/en.wikipedia.org\/wiki\/Automattic","https:\/\/www.youtube.com\/c\/automattic"],"subOrganization":{"@id":"https:\/\/wordpress.com\/#organization"}},{"@type":"Organization","@id":"https:\/\/wordpress.com\/#organization","url":"https:\/\/wordpress.com\/","name":"WordPress.com","legalName":"Automattic, Inc.","foundingDate":"2005-08-01","slogan":"Build a website, build a movement.","description":"Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.","logo":{"@type":"ImageObject","@id":"https:\/\/wordpress.com\/#logo","url":"https:\/\/s1.wp.com\/home.logged-out\/images\/wpcom-a-website-that-can.jpg","width":1024,"height":512,"caption":"WordPress.com"},"image":{"@id":"https:\/\/wordpress.com\/#logo"},"address":{"@type":"PostalAddress","streetAddress":"60 29th Street #343","addressLocality":"San Francisco","addressRegion":"CA","postalCode":"94110","addressCountry":"US"},"founder":{"@type":"Person","@id":"https:\/\/wordpress.com\/schema.org\/author\/5#person","name":"Matt Mullenweg","description":"In 2002 I started contributing to Open Source software, and life has just gotten better from there. Co-founder of WordPress, founder Automattic.","image":{"@type":"ImageObject","@id":"https:\/\/wordpress.com\/schema.org\/author\/5#personimage","url":"https:\/\/secure.gravatar.com\/avatar\/767fc9c115a1b989744c755db47feb60?s=96&d=retro&r=g","width":96,"height":96,"caption":"Matt Mullenweg"}},"numberOfEmployees":2012,"sameAs":["https:\/\/twitter.com\/wordpressdotcom","https:\/\/www.facebook.com\/WordPresscom","https:\/\/www.instagram.com\/wordpressdotcom\/","https:\/\/www.linkedin.com\/company\/wordpress","https:\/\/www.youtube.com\/WordPressdotcom","https:\/\/www.pinterest.com\/wordpressdotcom\/","https:\/\/en.wikipedia.org\/wiki\/WordPress.com"],"parentOrganization":{"@id":"https:\/\/automattic.com\/#organization"}},{"@type":"WebSite","@id":"https:\/\/wordpress.com\/#website","url":"https:\/\/wordpress.com\/","name":"WordPress.com","description":"WordPress.com is the best place for your personal blog or business site.","potentialAction":{"@type":"SearchAction","target":"https:\/\/wordpress.com\/go\/?s1={search_term_string}","query-input":"required name=search_term_string"},"publisher":{"@id":"https:\/\/wordpress.com\/#organization"},"image":{"@id":"https:\/\/wordpress.com\/#logo"},"sameAs":["https:\/\/twitter.com\/wordpressdotcom","https:\/\/www.facebook.com\/WordPresscom","https:\/\/www.instagram.com\/wordpressdotcom\/","https:\/\/www.linkedin.com\/company\/wordpress","https:\/\/www.youtube.com\/WordPressdotcom","https:\/\/www.pinterest.com\/wordpressdotcom\/","https:\/\/en.wikipedia.org\/wiki\/WordPress.com"]},{"@type":"BreadcrumbList","@id":"https:\/\/wordpress.com\/#breadcrumbs","itemListElement":[{"@type":"ListItem","position":0,"item":{"@type":"WebSite","@id":"https:\/\/wordpress.com\/#website-breadcrumb","url":"https:\/\/wordpress.com\/","name":"Home"}},{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/wordpress.com\/#webpage-breadcrumb","url":"https:\/\/wordpress.com\/","name":"WordPress.com: Build a Site, Sell Your Stuff, Start a Blog & More"}}]},{"@type":"ImageObject","@id":"https:\/\/wordpress.com\/#primaryimage","url":"https:\/\/wpcom.files.wordpress.com\/2017\/11\/cropped-wordpress.png?w=200","width":200,"height":200,"caption":"WordPress.com: Build a Site, Sell Your Stuff, Start a Blog & More"},{"@type":"WebPage","@id":"https:\/\/wordpress.com\/#webpage","url":"https:\/\/wordpress.com\/","name":"WordPress.com: Build a Site, Sell Your Stuff, Start a Blog & More","description":"Create a free website or easily build a blog on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.","inLanguage":"en","isPartOf":{"@id":"https:\/\/wordpress.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/wordpress.com\/#primaryimage"},"breadcrumb":{"@id":"https:\/\/wordpress.com\/#breadcrumbs"},"publisher":{"@id":"https:\/\/wordpress.com\/#organization"},"about":{"@id":"https:\/\/wordpress.com\/#organization"}}]}
 </script>	
 		
 <script>
@@ -100,11 +90,11 @@
 			'test_mobile_only': '',
 			'variation': '',
 			'personal_variation': '',
-			'platform': 'Windows',
+			'platform': 'Linux',
 			'locale': 'en',
 			'country': 'US',
 			'currency': 'USD',
-			'is_new_participant': false,
+			'is_new_participant': true,
 			'affiliate': "",
 			'locales_available': [{"code":"es","locale_name":"Espa\u00f1ol","href":"https:\/\/wordpress.com\/es\/"},{"code":"pt-br","locale_name":"Portugu\u00eas do Brasil","href":"https:\/\/wordpress.com\/pt-br\/"},{"code":"de","locale_name":"Deutsch","href":"https:\/\/wordpress.com\/de\/"},{"code":"fr","locale_name":"Fran\u00e7ais","href":"https:\/\/wordpress.com\/fr\/"},{"code":"he","locale_name":"\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea","href":"https:\/\/wordpress.com\/he\/"},{"code":"ja","locale_name":"\u65e5\u672c\u8a9e","href":"https:\/\/wordpress.com\/ja\/"},{"code":"it","locale_name":"Italiano","href":"https:\/\/wordpress.com\/it\/"},{"code":"nl","locale_name":"Nederlands","href":"https:\/\/wordpress.com\/nl\/"},{"code":"ru","locale_name":"\u0420\u0443\u0441\u0441\u043a\u0438\u0439","href":"https:\/\/wordpress.com\/ru\/"},{"code":"tr","locale_name":"T\u00fcrk\u00e7e","href":"https:\/\/wordpress.com\/tr\/"},{"code":"id","locale_name":"Bahasa Indonesia","href":"https:\/\/wordpress.com\/id\/"},{"code":"zh-cn","locale_name":"\u7b80\u4f53\u4e2d\u6587","href":"https:\/\/wordpress.com\/zh-cn\/"},{"code":"zh-tw","locale_name":"\u7e41\u9ad4\u4e2d\u6587","href":"https:\/\/wordpress.com\/zh-tw\/"},{"code":"ko","locale_name":"\ud55c\uad6d\uc5b4","href":"https:\/\/wordpress.com\/ko\/"},{"code":"ar","locale_name":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629","href":"https:\/\/wordpress.com\/ar\/"},{"code":"sv","locale_name":"Svenska","href":"https:\/\/wordpress.com\/sv\/"},{"code":"el","locale_name":"\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac","href":"https:\/\/wordpress.com\/el\/"},{"code":"en","locale_name":"English","href":"https:\/\/wordpress.com\/"},{"code":"ro","locale_name":"Rom\u00e2n\u0103","href":"https:\/\/wordpress.com\/ro\/"}],
 			'do_not_track': 0,
@@ -303,7 +293,7 @@
 	} )();
 </script>
 
-	<style>:root{--cookiebanner-height:100%}.a8c-cookie-banner.a8c-cookie-banner-v1{display:flex;justify-content:space-between;max-width:800px}@media only screen and (max-width: 659px){.a8c-cookie-banner.a8c-cookie-banner-v1{flex-direction:column}.a8c-cookie-banner.a8c-cookie-banner-v1 .a8c-cookie-banner__simple-text-description{width:100%}}@media only screen and (max-width: 850px){.a8c-cookie-banner.a8c-cookie-banner-v1{left:25px;right:25px;width:auto;transform:none;gap:10px;align-items:center;max-width:auto}.a8c-cookie-banner.a8c-cookie-banner-v1 .a8c-cookie-banner__simple-text-description{width:100%}}.a8c-cookie-banner{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen-Sans","Ubuntu","Cantarell","Helvetica Neue",sans-serif;display:flex;position:fixed;flex-shrink:0;top:auto;left:50%;transform:translate(-50%);max-width:900px;width:100%;bottom:25px;margin:0;max-height:calc(var(--cookiebanner-height) - 90px);z-index:50001;padding:20px;background-color:#fff;box-shadow:0px 8px 16px rgba(0,0,0,.2),0px 1px 3px rgba(0,0,0,.15),0px 1px 0px rgba(0,0,0,.05);border-radius:6px;animation:fadeIn .6s;box-sizing:border-box;color:#000}@keyframes fadeIn{0%{opacity:0}100%{opacity:1}}.a8c-cookie-banner *{box-sizing:border-box;margin:0;padding:0}.a8c-cookie-banner p{font-size:14px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen-Sans","Ubuntu","Cantarell","Helvetica Neue",sans-serif;font-weight:normal;line-height:18px}.a8c-cookie-banner p .no-wrap{white-space:nowrap}.a8c-cookie-banner p:not(:first-child){margin:18px 0 0 0}.a8c-cookie-banner a{color:#117ac9;font-weight:normal;text-decoration:underline}.a8c-cookie-banner a:hover,.a8c-cookie-banner a:active,.a8c-cookie-banner a:focus{text-decoration:none}.a8c-cookie-banner .a8c-cookie-banner__simple-text-description{color:#000;font-weight:400;font-size:14px;line-height:18px}.a8c-cookie-banner .a8c-cookie-banner__simple-options{display:flex;justify-content:space-between;gap:25px}.a8c-cookie-banner .a8c-cookie-banner__simple-options .a8c-cookie-banner__button-container{display:flex;flex-direction:row;align-items:center;justify-content:flex-end}.a8c-cookie-banner .a8c-cookie-banner__options-selection{display:none;flex-direction:column;overflow-y:auto}.a8c-cookie-banner .a8c-cookie-banner__options-selection .a8c-cookie-banner__options-lead-text{margin-bottom:12px;padding-bottom:12px;flex:1}.a8c-cookie-banner .a8c-cookie-banner__options-selection .a8c-cookie-banner__bucket-container{padding-bottom:10px;display:grid;grid-template-columns:40px 6fr;grid-column-gap:10px}.a8c-cookie-banner .a8c-cookie-banner__options-selection .a8c-cookie-banner__bucket-container .a8c-cookie-banner__option-description{display:flex;flex-direction:column;font-size:14px;line-height:22px}.a8c-cookie-banner .a8c-cookie-banner__options-selection .a8c-cookie-banner__bucket-container .a8c-cookie-banner__checkbox-container{margin-top:3px}.a8c-cookie-banner .a8c-cookie-banner__options-selection .a8c-cookie-banner__bucket-container p{color:#000;margin-top:5px}.a8c-cookie-banner .a8c-cookie-banner__options-selection input[type=checkbox]{appearance:none;-webkit-appearance:none;-moz-appearance:none;position:relative;border:0;outline:0;cursor:pointer;box-sizing:unset;transition:ease .3s;-webkit-transition:ease .3s;-moz-transition:ease .3s;-o-transition:ease .3s;height:24px;width:36px;background:rgba(0,0,0,0)}.a8c-cookie-banner .a8c-cookie-banner__options-selection input[type=checkbox]:after{content:"";width:36px;height:18px;display:block;background:rgba(0,0,0,0);border-radius:18px;border:1px solid #000;clear:both;box-sizing:content-box}.a8c-cookie-banner .a8c-cookie-banner__options-selection input[type=checkbox]:before{content:"";width:12px;height:12px;display:block;position:absolute;left:4px;top:4px;border-radius:50%;background-color:#000;box-sizing:content-box}.a8c-cookie-banner .a8c-cookie-banner__options-selection input[type=checkbox]:checked:before{left:22px;background-color:#fff}.a8c-cookie-banner .a8c-cookie-banner__options-selection input[type=checkbox]:checked:after{background:#117ac9;border-color:#117ac9}.a8c-cookie-banner .a8c-cookie-banner__options-selection input[type=checkbox]:disabled:after{background-color:#aaa;border-color:#aaa}.a8c-cookie-banner a.a8c-cookie-banner__ok-button,.a8c-cookie-banner a.a8c-cookie-banner__accept-all-button,.a8c-cookie-banner a.a8c-cookie-banner__customize-button,.a8c-cookie-banner a.a8c-cookie-banner__accept-selection-button{min-width:110px;max-width:500px;border-radius:4px;padding:10px;text-align:center;text-decoration:none;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen-Sans","Ubuntu","Cantarell","Helvetica Neue",sans-serif;font-style:normal;font-weight:600;font-size:14px;line-height:20px;border-radius:4px}.a8c-cookie-banner a.a8c-cookie-banner__customize-button{color:#000;background-color:#fff}.a8c-cookie-banner a.a8c-cookie-banner__ok-button,.a8c-cookie-banner a.a8c-cookie-banner__accept-all-button,.a8c-cookie-banner a.a8c-cookie-banner__accept-selection-button{color:#fff;background:#117ac9}.a8c-cookie-banner a.a8c-cookie-banner__accept-selection-button{display:block;width:auto;min-width:150px;margin:18px auto 0 auto}@media only screen and (max-width: 900px){.a8c-cookie-banner .a8c-cookie-banner__simple-text-description{width:100%}.a8c-cookie-banner .a8c-cookie-banner__simple-options{flex-direction:column;gap:0}.a8c-cookie-banner .a8c-cookie-banner__simple-options .a8c-cookie-banner__button-container{align-self:flex-end;align-items:baseline}.a8c-cookie-banner .a8c-cookie-banner__simple-text-description{max-width:none;width:auto}.a8c-cookie-banner a.a8c-cookie-banner__ok-button,.a8c-cookie-banner a.a8c-cookie-banner__customize-button,.a8c-cookie-banner a.a8c-cookie-banner__accept-all-button,.a8c-cookie-banner a.a8c-cookie-banner__accept-selection-button{display:block;position:static;transform:none;width:auto;margin:0 auto}.a8c-cookie-banner a.a8c-cookie-banner__accept-all-button{margin:5px auto 0 auto}.a8c-cookie-banner a.a8c-cookie-banner__ok-button,.a8c-cookie-banner a.a8c-cookie-banner__customize-button,.a8c-cookie-banner a.a8c-cookie-banner__accept-selection-button{margin:18px auto 0 auto}.a8c-cookie-banner a.a8c-cookie-banner__accept-selection-button{min-width:150px}}</style><style>.a8c-do-not-sell,.a8c-do-not-sell *{box-sizing:border-box;z-index:50002}.a8c-do-not-sell{display:flex;position:fixed;top:0;left:0;width:100%;height:100%}.a8c-do-not-sell__dialog{position:relative;display:flex;flex-direction:column;position:relative;margin:auto;width:100%;max-width:700px;height:inherit;max-height:800px;background-color:#fff;z-index:1;overflow-y:auto;box-shadow:0px 8px 16px rgba(0,0,0,.2),0px 1px 3px rgba(0,0,0,.15),0px 1px 0px rgba(0,0,0,.05);border-radius:6px}.a8c-do-not-sell__header{display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #e0e0e0;padding:1rem 2rem}.a8c-do-not-sell__close-button{background:none;border:none;margin:0;padding:0}.a8c-do-not-sell__close-button:after{display:inline-block;content:"×";font-size:28px;transform:translateX(1px)}.a8c-do-not-sell__title{font-size:24px;margin:0;font-family:sans-serif}.a8c-do-not-sell__content{display:flex;flex-direction:column;margin:0 2rem 1rem}.a8c-do-not-sell__content p{font-size:15px;font-family:sans-serif;font-weight:normal;line-height:150%;margin:1em 0}.a8c-do-not-sell__footer{display:flex;justify-content:flex-end;border-top:1px solid #e0e0e0;padding:1rem 2rem}.a8c-do-not-sell__preference{display:flex;align-items:center;border-top:1px solid #e0e0e0;padding:1rem 2rem;font-size:18px}#a8c-do-not-sell.a8c-do-not-sell__checkbox{margin-right:1rem;appearance:checkbox;width:18px;height:18px}.a8c-do-not-sell__button{color:#fff;background-color:rgba(0,0,0,.8);border:1px solid #e0e0e0;padding:10px;border-radius:4px;text-align:center}.a8c-do-not-sell__overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.2);z-index:0}</style><script async="" src="//static.hotjar.com/c/hotjar-227769.js?sv=5"></script><script async="" src="https://script.hotjar.com/modules.f7dec5fd5d432709d36e.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><script src="https://bat.bing.com/p/action/4074038.js" type="text/javascript" async="" data-ueto="ueto_3013a75897"></script><meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/946162814/?random=1673462695913&amp;cv=11&amp;fst=1673462695913&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=2oa190&amp;u_w=800&amp;u_h=600&amp;hn=www.googleadservices.com&amp;frm=0&amp;url=https%3A%2F%2Fwordpress.com%2F&amp;tiba=WordPress.com%3A%20Build%20a%20Site%2C%20Sell%20Your%20Stuff%2C%20Start%20a%20Blog%20%26%20More&amp;us_privacy=1YNN&amp;auid=1471825433.1673462696&amp;uaa=x86&amp;uab=64&amp;uafvl=Chromium%3B104.0.5112.79%7C%2520Not%2520A%253BBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B104.0.5112.79&amp;uap=Linux&amp;uapv=3.10.0&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/946162814/?random=1673462696636&amp;cv=11&amp;fst=1673462696636&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=2oa190&amp;u_w=800&amp;u_h=600&amp;hn=www.googleadservices.com&amp;frm=0&amp;url=https%3A%2F%2Fwordpress.com%2F&amp;tiba=WordPress.com%3A%20Build%20a%20Site%2C%20Sell%20Your%20Stuff%2C%20Start%20a%20Blog%20%26%20More&amp;us_privacy=1YNN&amp;auid=1471825433.1673462696&amp;uaa=x86&amp;uab=64&amp;uafvl=Chromium%3B104.0.5112.79%7C%2520Not%2520A%253BBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B104.0.5112.79&amp;uap=Linux&amp;uapv=3.10.0&amp;uaw=0&amp;data=event%3Dform_start&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/946162814/?random=1673462696642&amp;cv=11&amp;fst=1673462696642&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=2oa190&amp;u_w=800&amp;u_h=600&amp;hn=www.googleadservices.com&amp;frm=0&amp;url=https%3A%2F%2Fwordpress.com%2F&amp;tiba=WordPress.com%3A%20Build%20a%20Site%2C%20Sell%20Your%20Stuff%2C%20Start%20a%20Blog%20%26%20More&amp;us_privacy=1YNN&amp;auid=1471825433.1673462696&amp;uaa=x86&amp;uab=64&amp;uafvl=Chromium%3B104.0.5112.79%7C%2520Not%2520A%253BBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B104.0.5112.79&amp;uap=Linux&amp;uapv=3.10.0&amp;uaw=0&amp;data=event%3Dform_submit&amp;rfmt=3&amp;fmt=4"></script></head>
+	<style>:root{--cookiebanner-height:100%}.a8c-cookie-banner.a8c-cookie-banner-v1{display:flex;justify-content:space-between;max-width:800px}@media only screen and (max-width: 659px){.a8c-cookie-banner.a8c-cookie-banner-v1{flex-direction:column}.a8c-cookie-banner.a8c-cookie-banner-v1 .a8c-cookie-banner__simple-text-description{width:100%}}@media only screen and (max-width: 850px){.a8c-cookie-banner.a8c-cookie-banner-v1{left:25px;right:25px;width:auto;transform:none;gap:10px;align-items:center;max-width:auto}.a8c-cookie-banner.a8c-cookie-banner-v1 .a8c-cookie-banner__simple-text-description{width:100%}}.a8c-cookie-banner{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen-Sans","Ubuntu","Cantarell","Helvetica Neue",sans-serif;display:flex;position:fixed;flex-shrink:0;top:auto;left:50%;transform:translate(-50%);max-width:900px;width:100%;bottom:25px;margin:0;max-height:calc(var(--cookiebanner-height) - 90px);z-index:50001;padding:20px;background-color:#fff;box-shadow:0px 8px 16px rgba(0,0,0,.2),0px 1px 3px rgba(0,0,0,.15),0px 1px 0px rgba(0,0,0,.05);border-radius:6px;animation:fadeIn .6s;box-sizing:border-box;color:#000}@keyframes fadeIn{0%{opacity:0}100%{opacity:1}}.a8c-cookie-banner *{box-sizing:border-box;margin:0;padding:0}.a8c-cookie-banner p{font-size:14px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen-Sans","Ubuntu","Cantarell","Helvetica Neue",sans-serif;font-weight:normal;line-height:18px}.a8c-cookie-banner p .no-wrap{white-space:nowrap}.a8c-cookie-banner p:not(:first-child){margin:18px 0 0 0}.a8c-cookie-banner a{color:#117ac9;font-weight:normal;text-decoration:underline}.a8c-cookie-banner a:hover,.a8c-cookie-banner a:active,.a8c-cookie-banner a:focus{text-decoration:none}.a8c-cookie-banner .a8c-cookie-banner__simple-text-description{color:#000;font-weight:400;font-size:14px;line-height:18px}.a8c-cookie-banner .a8c-cookie-banner__simple-options{display:flex;justify-content:space-between;gap:25px}.a8c-cookie-banner .a8c-cookie-banner__simple-options .a8c-cookie-banner__button-container{display:flex;flex-direction:row;align-items:center;justify-content:flex-end}.a8c-cookie-banner .a8c-cookie-banner__options-selection{display:none;flex-direction:column;overflow-y:auto}.a8c-cookie-banner .a8c-cookie-banner__options-selection .a8c-cookie-banner__options-lead-text{margin-bottom:12px;padding-bottom:12px;flex:1}.a8c-cookie-banner .a8c-cookie-banner__options-selection .a8c-cookie-banner__bucket-container{padding-bottom:10px;display:grid;grid-template-columns:40px 6fr;grid-column-gap:10px}.a8c-cookie-banner .a8c-cookie-banner__options-selection .a8c-cookie-banner__bucket-container .a8c-cookie-banner__option-description{display:flex;flex-direction:column;font-size:14px;line-height:22px}.a8c-cookie-banner .a8c-cookie-banner__options-selection .a8c-cookie-banner__bucket-container .a8c-cookie-banner__checkbox-container{margin-top:3px}.a8c-cookie-banner .a8c-cookie-banner__options-selection .a8c-cookie-banner__bucket-container p{color:#000;margin-top:5px}.a8c-cookie-banner .a8c-cookie-banner__options-selection input[type=checkbox]{appearance:none;-webkit-appearance:none;-moz-appearance:none;position:relative;border:0;outline:0;cursor:pointer;box-sizing:unset;transition:ease .3s;-webkit-transition:ease .3s;-moz-transition:ease .3s;-o-transition:ease .3s;height:24px;width:36px;background:rgba(0,0,0,0)}.a8c-cookie-banner .a8c-cookie-banner__options-selection input[type=checkbox]:after{content:"";width:36px;height:18px;display:block;background:rgba(0,0,0,0);border-radius:18px;border:1px solid #000;clear:both;box-sizing:content-box}.a8c-cookie-banner .a8c-cookie-banner__options-selection input[type=checkbox]:before{content:"";width:12px;height:12px;display:block;position:absolute;left:4px;top:4px;border-radius:50%;background-color:#000;box-sizing:content-box}.a8c-cookie-banner .a8c-cookie-banner__options-selection input[type=checkbox]:checked:before{left:22px;background-color:#fff}.a8c-cookie-banner .a8c-cookie-banner__options-selection input[type=checkbox]:checked:after{background:#117ac9;border-color:#117ac9}.a8c-cookie-banner .a8c-cookie-banner__options-selection input[type=checkbox]:disabled:after{background-color:#aaa;border-color:#aaa}.a8c-cookie-banner a.a8c-cookie-banner__ok-button,.a8c-cookie-banner a.a8c-cookie-banner__accept-all-button,.a8c-cookie-banner a.a8c-cookie-banner__customize-button,.a8c-cookie-banner a.a8c-cookie-banner__accept-selection-button{min-width:110px;max-width:500px;border-radius:4px;padding:10px;text-align:center;text-decoration:none;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen-Sans","Ubuntu","Cantarell","Helvetica Neue",sans-serif;font-style:normal;font-weight:600;font-size:14px;line-height:20px;border-radius:4px;white-space:nowrap}.a8c-cookie-banner a.a8c-cookie-banner__customize-button{color:#000;background-color:#fff}.a8c-cookie-banner a.a8c-cookie-banner__ok-button,.a8c-cookie-banner a.a8c-cookie-banner__accept-all-button,.a8c-cookie-banner a.a8c-cookie-banner__accept-selection-button{color:#fff;background:#117ac9}.a8c-cookie-banner a.a8c-cookie-banner__accept-selection-button{display:block;width:auto;min-width:150px;margin:18px auto 0 auto}@media only screen and (max-width: 900px){.a8c-cookie-banner .a8c-cookie-banner__simple-text-description{width:100%}.a8c-cookie-banner .a8c-cookie-banner__simple-options{flex-direction:column;gap:0}.a8c-cookie-banner .a8c-cookie-banner__simple-options .a8c-cookie-banner__button-container{align-self:flex-end;align-items:baseline}.a8c-cookie-banner .a8c-cookie-banner__simple-text-description{max-width:none;width:auto}.a8c-cookie-banner a.a8c-cookie-banner__ok-button,.a8c-cookie-banner a.a8c-cookie-banner__customize-button,.a8c-cookie-banner a.a8c-cookie-banner__accept-all-button,.a8c-cookie-banner a.a8c-cookie-banner__accept-selection-button{display:block;position:static;transform:none;width:auto;margin:0 auto}.a8c-cookie-banner a.a8c-cookie-banner__accept-all-button{margin:5px auto 0 auto}.a8c-cookie-banner a.a8c-cookie-banner__ok-button,.a8c-cookie-banner a.a8c-cookie-banner__customize-button,.a8c-cookie-banner a.a8c-cookie-banner__accept-selection-button{margin:18px auto 0 auto}.a8c-cookie-banner a.a8c-cookie-banner__accept-selection-button{min-width:150px}}</style><style>.a8c-do-not-sell,.a8c-do-not-sell *{box-sizing:border-box;z-index:50002}.a8c-do-not-sell{display:flex;position:fixed;top:0;left:0;width:100%;height:100%}.a8c-do-not-sell__dialog{position:relative;display:flex;flex-direction:column;position:relative;margin:auto;width:100%;max-width:700px;height:inherit;max-height:800px;background-color:#fff;z-index:1;overflow-y:auto;box-shadow:0px 8px 16px rgba(0,0,0,.2),0px 1px 3px rgba(0,0,0,.15),0px 1px 0px rgba(0,0,0,.05);border-radius:6px}.a8c-do-not-sell__header{display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #e0e0e0;padding:1rem 2rem}.a8c-do-not-sell__close-button{background:none;border:none;margin:0;padding:0}.a8c-do-not-sell__close-button:after{display:inline-block;content:"×";font-size:28px;transform:translateX(1px)}.a8c-do-not-sell__title{font-size:24px;margin:0;font-family:sans-serif}.a8c-do-not-sell__content{display:flex;flex-direction:column;margin:0 2rem 1rem}.a8c-do-not-sell__content p{font-size:15px;font-family:sans-serif;font-weight:normal;line-height:150%;margin:1em 0}.a8c-do-not-sell__footer{display:flex;justify-content:flex-end;border-top:1px solid #e0e0e0;padding:1rem 2rem}.a8c-do-not-sell__preference{display:flex;align-items:center;border-top:1px solid #e0e0e0;padding:1rem 2rem;font-size:18px}#a8c-do-not-sell.a8c-do-not-sell__checkbox{margin-right:1rem;appearance:checkbox;width:18px;height:18px}.a8c-do-not-sell__button{color:#fff;background-color:rgba(0,0,0,.8);border:1px solid #e0e0e0;padding:10px;border-radius:4px;text-align:center}.a8c-do-not-sell__overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.2);z-index:0}</style><script async="" src="//static.hotjar.com/c/hotjar-227769.js?sv=5"></script><script src="https://bat.bing.com/p/action/4074038.js" type="text/javascript" async="" data-ueto="ueto_e2e331cbd2"></script><script async="" src="https://script.hotjar.com/modules.08d4f065a7a29306a4f1.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/946162814/?random=1676155207879&amp;cv=11&amp;fst=1676155207879&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be3280&amp;u_w=800&amp;u_h=600&amp;hn=www.googleadservices.com&amp;frm=0&amp;url=https%3A%2F%2Fwordpress.com%2F&amp;tiba=WordPress.com%3A%20Build%20a%20Site%2C%20Sell%20Your%20Stuff%2C%20Start%20a%20Blog%20%26%20More&amp;us_privacy=1YNN&amp;auid=1272637161.1676155208&amp;uaa=x86&amp;uab=64&amp;uafvl=Chromium%3B104.0.5112.79%7C%2520Not%2520A%253BBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B104.0.5112.79&amp;uamb=0&amp;uap=Linux&amp;uapv=3.10.0&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/946162814/?random=1676155208478&amp;cv=11&amp;fst=1676155208478&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be3280&amp;u_w=800&amp;u_h=600&amp;hn=www.googleadservices.com&amp;frm=0&amp;url=https%3A%2F%2Fwordpress.com%2F&amp;tiba=WordPress.com%3A%20Build%20a%20Site%2C%20Sell%20Your%20Stuff%2C%20Start%20a%20Blog%20%26%20More&amp;us_privacy=1YNN&amp;auid=1272637161.1676155208&amp;uaa=x86&amp;uab=64&amp;uafvl=Chromium%3B104.0.5112.79%7C%2520Not%2520A%253BBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B104.0.5112.79&amp;uamb=0&amp;uap=Linux&amp;uapv=3.10.0&amp;uaw=0&amp;data=event%3Dform_start&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/946162814/?random=1676155208486&amp;cv=11&amp;fst=1676155208486&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be3280&amp;u_w=800&amp;u_h=600&amp;hn=www.googleadservices.com&amp;frm=0&amp;url=https%3A%2F%2Fwordpress.com%2F&amp;tiba=WordPress.com%3A%20Build%20a%20Site%2C%20Sell%20Your%20Stuff%2C%20Start%20a%20Blog%20%26%20More&amp;us_privacy=1YNN&amp;auid=1272637161.1676155208&amp;uaa=x86&amp;uab=64&amp;uafvl=Chromium%3B104.0.5112.79%7C%2520Not%2520A%253BBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B104.0.5112.79&amp;uamb=0&amp;uap=Linux&amp;uapv=3.10.0&amp;uaw=0&amp;data=event%3Dform_submit&amp;rfmt=3&amp;fmt=4"></script></head>
 
 	<body id="wpcom-home" class="page-root en page-template page-template-page-landing-marketing page-template-page-landing-marketing-php page page-id-19661942 wp-embed-responsive hp-2022-oct">
 					<div id="lpc-header-nav" class="lpc lpc-header-nav">
@@ -366,7 +356,7 @@
 					<!-- Nav bar ends here. -->
 
 					<!-- Desktop dropdowns start here. -->
-					<div class="x-dropdown" style="opacity: 0; transform: translate3d(0px, -6px, 0px) scale(0.85);">
+					<div class="x-dropdown" style="opacity: 0; transform: translate3d(0px, -6px, 0px) scale3d(0.85, 0.85, 1);">
 						<div class="x-dropdown-top">
 							<div class="x-dropdown-top-fill"></div>
 						</div>
@@ -631,7 +621,7 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<source media="(min-width: 481px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-1-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/mobile-1-m-2x.webp 1x, "><img id="lpc-image" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-1-2x.webp" alt="" title="" loading="eager">						</picture>
+		<source media="(min-width: 481px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-1-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/mobile-1-m-2x.webp 1x, "><img id="lpc-image" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-1-2x.webp" alt="" title="" loading="eager" fetchpriority="high">						</picture>
 					</div>
 				</div>
 			</div>
@@ -642,18 +632,18 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<source media="(min-width: 481px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-2-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/mobile-2-m-2x.webp 1x, "><img id="lpc-image.2" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-2-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<source media="(min-width: 481px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-2-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/mobile-2-m-2x.webp 1x, "><img id="lpc-image.2" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-2-2x.webp" alt="" title="" loading="eager" fetchpriority="high">						</picture>
 					</div>
 				</div>
 			</div>
 		</div>
-				<div id="lpc-picture.3" class="lpc lpc-picture slideshow-slide slide-top-card-3 slideshow-current">
+				<div id="lpc-picture.3" class="lpc lpc-picture slideshow-slide slide-top-card-3">
 			<div class="lpc-picture-wrapper">
 				<div class="lpc-picture-container">
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<source media="(min-width: 481px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-3-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/mobile-3-m-2x.webp 1x, "><img id="lpc-image.3" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-3-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<source media="(min-width: 481px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-3-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/mobile-3-m-2x.webp 1x, "><img id="lpc-image.3" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-3-2x.webp" alt="" title="" loading="lazy" fetchpriority="high">						</picture>
 					</div>
 				</div>
 			</div>
@@ -664,7 +654,7 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<source media="(min-width: 481px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-4-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/mobile-4-m-2x.webp 1x, "><img id="lpc-image.4" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-4-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<source media="(min-width: 481px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-4-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/mobile-4-m-2x.webp 1x, "><img id="lpc-image.4" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-4-2x.webp" alt="" title="" loading="lazy" fetchpriority="high">						</picture>
 					</div>
 				</div>
 			</div>
@@ -675,18 +665,18 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<source media="(min-width: 481px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-5-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/mobile-5-m-2x.webp 1x, "><img id="lpc-image.5" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-5-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<source media="(min-width: 481px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-5-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/mobile-5-m-2x.webp 1x, "><img id="lpc-image.5" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-5-2x.webp" alt="" title="" loading="lazy" fetchpriority="high">						</picture>
 					</div>
 				</div>
 			</div>
 		</div>
-				<div id="lpc-picture.6" class="lpc lpc-picture slideshow-slide slide-top-card-7">
+				<div id="lpc-picture.6" class="lpc lpc-picture slideshow-slide slide-top-card-7 slideshow-current">
 			<div class="lpc-picture-wrapper">
 				<div class="lpc-picture-container">
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<source media="(min-width: 481px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-7-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/mobile-7-m-2x.webp 1x, "><img id="lpc-image.6" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-7-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<source media="(min-width: 481px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-7-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/mobile-7-m-2x.webp 1x, "><img id="lpc-image.6" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/tablet-7-2x.webp" alt="" title="" loading="lazy" fetchpriority="high">						</picture>
 					</div>
 				</div>
 			</div>
@@ -728,7 +718,7 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<img id="lpc-image.7" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-1-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<img id="lpc-image.7" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-1-2x.webp" alt="" title="" loading="eager" fetchpriority="high">						</picture>
 					</div>
 				</div>
 			</div>
@@ -739,7 +729,7 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<img id="lpc-image.8" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-4-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<img id="lpc-image.8" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-4-2x.webp" alt="" title="" loading="eager" fetchpriority="high">						</picture>
 					</div>
 				</div>
 			</div>
@@ -750,7 +740,7 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<img id="lpc-image.9" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-8-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<img id="lpc-image.9" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-8-2x.webp" alt="" title="" loading="eager" fetchpriority="high">						</picture>
 					</div>
 				</div>
 			</div>
@@ -761,7 +751,7 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<img id="lpc-image.10" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-2-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<img id="lpc-image.10" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-2-2x.webp" alt="" title="" loading="lazy" fetchpriority="high">						</picture>
 					</div>
 				</div>
 			</div>
@@ -772,7 +762,7 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<img id="lpc-image.11" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-5-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<img id="lpc-image.11" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-5-2x.webp" alt="" title="" loading="lazy" fetchpriority="high">						</picture>
 					</div>
 				</div>
 			</div>
@@ -783,7 +773,7 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<source media="(min-width: 661px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-9-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/theme-7-m-2x.webp 1x, "><img id="lpc-image.12" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-9-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<source media="(min-width: 661px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-9-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/theme-7-m-2x.webp 1x, "><img id="lpc-image.12" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-9-2x.webp" alt="" title="" loading="lazy" fetchpriority="high">						</picture>
 					</div>
 				</div>
 			</div>
@@ -794,7 +784,7 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<source media="(min-width: 661px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-3-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/theme-6-m-2x.webp 1x, "><img id="lpc-image.13" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-3-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<source media="(min-width: 661px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-3-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/theme-6-m-2x.webp 1x, "><img id="lpc-image.13" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-3-2x.webp" alt="" title="" loading="lazy" fetchpriority="high">						</picture>
 					</div>
 				</div>
 			</div>
@@ -806,7 +796,7 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<source media="(min-width: 661px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-6-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/theme-9-m-2x.webp 1x, "><img id="lpc-image.14" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-6-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<source media="(min-width: 661px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-6-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/theme-9-m-2x.webp 1x, "><img id="lpc-image.14" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-6-2x.webp" alt="" title="" loading="lazy" fetchpriority="high">						</picture>
 					</div>
 				</div>
 			</div>
@@ -817,7 +807,7 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<img id="lpc-image.15" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-7-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<img id="lpc-image.15" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-7-2x.webp" alt="" title="" loading="lazy" fetchpriority="high">						</picture>
 					</div>
 				</div>
 			</div>
@@ -829,7 +819,7 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<img id="lpc-image.16" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-10-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<img id="lpc-image.16" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/theme-10-2x.webp" alt="" title="" loading="lazy" fetchpriority="high">						</picture>
 					</div>
 				</div>
 			</div>
@@ -859,6 +849,7 @@
 									<a id="lpc-button.4" class="lpc lpc-button block-tab-button no-widows on-hover" href="https://wordpress.com/setup/newsletter/?ref=logged-out-homepage-lp">Newsletter</a>
 									<a id="lpc-button.5" class="lpc lpc-button block-tab-button no-widows on-hover" href="https://wordpress.com/setup/link-in-bio/?ref=logged-out-homepage-lp">Link in Bio</a>
 									<a id="lpc-button.6" class="lpc lpc-button block-tab-button no-widows on-hover" href="https://wordpress.com/setup/videopress/?ref=logged-out-homepage-lp">Video</a>
+									<a id="lpc-button.7" class="lpc lpc-button block-tab-button no-widows on-hover" href="https://wordpress.com/setup/ecommerce/?recur=monthly&amp;ref=logged-out-homepage-lp">Store</a>
 				</div>
 <div class="block-tabs">
 <div class="block-tab is-active on-hover">
@@ -868,12 +859,12 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<source media="(min-width: 661px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/blog-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/blog-m-2x.webp 1x, "><img id="lpc-image.17" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/blog-2x.webp" alt="Blog image" title="" loading="eager">						</picture>
+		<source media="(min-width: 661px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/blog-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/blog-m-2x.webp 1x, "><img id="lpc-image.17" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/blog-2x.webp" alt="Blog image" title="" loading="eager" fetchpriority="low">						</picture>
 					</div>
 				</div>
 			</div>
 		</div>
-							<a id="lpc-button.7" class="lpc lpc-button is-cta is-white no-widows" href="https://wordpress.com/start/?ref=logged-out-homepage-lp">Get started</a>
+							<a id="lpc-button.8" class="lpc lpc-button is-cta is-white no-widows" href="https://wordpress.com/start/?ref=logged-out-homepage-lp">Get started</a>
 				</div>
 <div class="block-tab on-hover">
 		<div id="lpc-picture.18" class="lpc lpc-picture block-tab-picture">
@@ -882,12 +873,12 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<source media="(min-width: 661px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/newsletter-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/newsletter-m-2x.webp 1x, "><img id="lpc-image.18" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/newsletter-2x.webp" alt="Newsletter image" title="" loading="eager">						</picture>
+		<source media="(min-width: 661px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/newsletter-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/newsletter-m-2x.webp 1x, "><img id="lpc-image.18" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/newsletter-2x.webp" alt="Newsletter image" title="" loading="eager" fetchpriority="low">						</picture>
 					</div>
 				</div>
 			</div>
 		</div>
-							<a id="lpc-button.8" class="lpc lpc-button is-cta is-white no-widows" href="https://wordpress.com/setup/newsletter/?ref=logged-out-homepage-lp">Continue with Newsletter</a>
+							<a id="lpc-button.9" class="lpc lpc-button is-cta is-white no-widows" href="https://wordpress.com/setup/newsletter/?ref=logged-out-homepage-lp">Continue with Newsletter</a>
 				</div>
 <div class="block-tab on-hover">
 		<div id="lpc-picture.19" class="lpc lpc-picture block-tab-picture">
@@ -896,12 +887,12 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<source media="(min-width: 661px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/link-in-bio-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/link-in-bio-m-2x.webp 1x, "><img id="lpc-image.19" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/link-in-bio-2x.webp" alt="Link in Bio image" title="" loading="eager">						</picture>
+		<source media="(min-width: 661px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/link-in-bio-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/link-in-bio-m-2x.webp 1x, "><img id="lpc-image.19" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/link-in-bio-2x.webp" alt="Link in Bio image" title="" loading="eager" fetchpriority="low">						</picture>
 					</div>
 				</div>
 			</div>
 		</div>
-							<a id="lpc-button.9" class="lpc lpc-button is-cta is-white no-widows" href="https://wordpress.com/setup/link-in-bio/?ref=logged-out-homepage-lp">Continue with Link in Bio</a>
+							<a id="lpc-button.10" class="lpc lpc-button is-cta is-white no-widows" href="https://wordpress.com/setup/link-in-bio/?ref=logged-out-homepage-lp">Continue with Link in Bio</a>
 				</div>
 <div class="block-tab on-hover">
 		<div id="lpc-picture.20" class="lpc lpc-picture block-tab-picture">
@@ -910,12 +901,26 @@
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<source media="(min-width: 661px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/video-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/video-m-2x.webp 1x, "><img id="lpc-image.20" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/video-2x.webp" alt="Video image" title="" loading="eager">						</picture>
+		<source media="(min-width: 661px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/video-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/video-m-2x.webp 1x, "><img id="lpc-image.20" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/video-2x.webp" alt="Video image" title="" loading="eager" fetchpriority="low">						</picture>
 					</div>
 				</div>
 			</div>
 		</div>
-							<a id="lpc-button.10" class="lpc lpc-button is-cta is-white no-widows" href="https://wordpress.com/setup/videopress/?ref=logged-out-homepage-lp">Continue with Video</a>
+							<a id="lpc-button.11" class="lpc lpc-button is-cta is-white no-widows" href="https://wordpress.com/setup/videopress/?ref=logged-out-homepage-lp">Continue with Video</a>
+				</div>
+<div class="block-tab on-hover">
+		<div id="lpc-picture.21" class="lpc lpc-picture block-tab-picture">
+			<div class="lpc-picture-wrapper">
+				<div class="lpc-picture-container">
+					<div class="lpc-picture-ratio"></div>
+					<div class="lpc-picture-fill">
+						<picture>
+		<source media="(min-width: 661px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/store-2x.webp 1x, "><source media="(min-width: 1px)" srcset="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/mobile/store-m-2x.webp 1x, "><img id="lpc-image.21" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/store-2x.webp" alt="Store image" title="" loading="eager">						</picture>
+					</div>
+				</div>
+			</div>
+		</div>
+							<a id="lpc-button.12" class="lpc lpc-button is-cta is-white no-widows" href="https://wordpress.com/setup/ecommerce/?recur=monthly&amp;ref=logged-out-homepage-lp">Continue with Store</a>
 				</div>
 </div>
 </div>
@@ -939,7 +944,7 @@
 					<p class="no-widows">Magically drag, drop, and draw on a huge collection of design patterns, features, and layouts with the intuitive, built-in block editor.</p>				</div>
 			</div>
 		</div>
-							<a id="lpc-button.11" class="lpc lpc-button is-cta block-hero-cta is-black no-widows" href="https://wordpress.com/start/?ref=logged-out-homepage-lp">Start creating</a>
+							<a id="lpc-button.13" class="lpc lpc-button is-cta block-hero-cta is-black no-widows" href="https://wordpress.com/start/?ref=logged-out-homepage-lp">Start creating</a>
 				</div>
 <div class="block-build-gutenberg-preview">
 		<div id="lpc-video" class="lpc lpc-video lazy">
@@ -976,7 +981,7 @@
 					<p class="no-widows">Nothing sets your site apart faster than a unique address on the web. From <b>.com</b> to <b>.blog</b>, there’s a one-of-a-kind domain with your name on it. And your first year is free with any annual paid plan.</p>				</div>
 			</div>
 		</div>
-							<a id="lpc-button.12" class="lpc lpc-button is-cta block-hosting-cta is-black no-widows" href="https://wordpress.com/domains/?ref=logged-out-homepage-lp">Find your domain</a>
+							<a id="lpc-button.14" class="lpc lpc-button is-cta block-hosting-cta is-black no-widows" href="https://wordpress.com/domains/?ref=logged-out-homepage-lp">Find your domain</a>
 				</div>
 <div class="block-window">
 <div class="block-window-toolbar">
@@ -1016,7 +1021,7 @@
 					<p class="no-widows">Say hello to the next-level hosting performance made possible when you deeply integrate every piece of hardware and line of code to run WordPress at speed and scale.</p>				</div>
 			</div>
 		</div>
-							<a id="lpc-button.13" class="lpc lpc-button is-cta block-hosting-cta no-widows" href="https://wordpress.com/hosting/?ref=logged-out-homepage-lp">Learn more</a>
+							<a id="lpc-button.15" class="lpc lpc-button is-cta block-hosting-cta no-widows" href="https://wordpress.com/hosting/?ref=logged-out-homepage-lp">Explore hosting</a>
 				</div>
 <div class="block-hosting-wrapper">
 <div class="block-hosting-card block-hosting-development">
@@ -1038,7 +1043,7 @@
 			</div>
 		</div>
 				<ul id="lpc-item-list.2" class="lpc lpc-item-list">
-			<li class="no-widows">Global CDN with 28+ locations.</li><li class="no-widows">Lag-free CPU bursting.</li><li class="no-widows">Lightning-fast high-frequency CPUs.</li>			
+			<li class="no-widows">Global CDN with 28+ locations.</li><li class="no-widows">Highly scalable CPU bursting.</li><li class="no-widows">Lightning-fast high-frequency CPUs.</li>			
 		</ul>
 		</div>
 <div class="block-hosting-card block-hosting-security">
@@ -1129,18 +1134,17 @@
 					Best for Getting Started				</h4>
 			
 							<h5 class="lpc-plan-header-price lpc-plans-table-interval-type-annual">
-					<span class="price-free-plan no-widows"><sup>$0</sup></span>
+					<span class="lpc-plan-header-price-value price-free-plan no-widows"><sup>$0</sup></span>
 				</h5>
-							
-							<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-annual no-widows" data-plan-timeframe="" data-plan-timeframe-slug="free">
-					for life				</p>
-								</div>
+																			<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-annual no-widows" data-plan-timeframe="" data-plan-timeframe-slug="free">
+						for life					</p>
+													</div>
 		
 			
 			
 							<div class="lpc-plan-cta-block description post-features has-cta lpc-plans-table-interval-type-annual">
 					<p class="lpc-plan-cta-block-cta lpc-plan-cta lp-cta">
-											<a id="lpc-button.14" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/start/free/?ref=logged-out-homepage-lp">Start with Free</a>
+											<a id="lpc-button.16" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/setup/free/?ref=logged-out-homepage-lp">Start with Free</a>
 									</p>
 				</div>
 			
@@ -1193,29 +1197,28 @@
 					Best for Getting Started				</h4>
 			
 							<h5 class="lpc-plan-header-price lpc-plans-table-interval-type-annual">
-					<span class="price-free-plan no-widows"><sup>$0</sup></span>
+					<span class="lpc-plan-header-price-value price-free-plan no-widows"><sup>$0</sup></span>
 				</h5>
 									<h5 class="lpc-plan-header-price lpc-plans-table-interval-type-month">
-						<span class="price-free-plan-monthly no-widows"><sup>$0</sup></span>
+						<span class="lpc-plan-header-price-value price-free-plan-monthly no-widows"><sup>$0</sup></span>
 					</h5>
-							
-							<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-annual no-widows" data-plan-timeframe="" data-plan-timeframe-slug="free">
-					for life				</p>
-										<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-month no-widows">
-					for life				</p>
-					</div>
+																			<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-annual no-widows" data-plan-timeframe="" data-plan-timeframe-slug="free">
+						for life					</p>
+													<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-month no-widows">
+						for life					</p>
+									</div>
 		
 			
 			
 							<div class="lpc-plan-cta-block description post-features has-cta lpc-plans-table-interval-type-annual">
 					<p class="lpc-plan-cta-block-cta lpc-plan-cta lp-cta">
-											<a id="lpc-button.16" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/start/free/?ref=logged-out-homepage-lp">Start with Free</a>
+											<a id="lpc-button.18" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/setup/free/?ref=logged-out-homepage-lp">Start with Free</a>
 									</p>
 				</div>
 			
 							<div class="lpc-plan-cta-block description post-features has-cta lpc-plans-table-interval-type-month">
 					<p class="lpc-plan-cta-block-cta lpc-plan-cta lp-cta">
-											<a id="lpc-button.17" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/start/free/?ref=logged-out-homepage-lp">Start with Free</a>
+											<a id="lpc-button.19" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/setup/free/?ref=logged-out-homepage-lp">Start with Free</a>
 									</p>
 				</div>
 			
@@ -1233,29 +1236,28 @@
 					Best for Personal Use				</h4>
 			
 							<h5 class="lpc-plan-header-price lpc-plans-table-interval-type-annual">
-					<span class="price-personal-plan no-widows"><sup>$4</sup></span>
+					<span class="lpc-plan-header-price-value price-personal-plan no-widows"><sup>$4</sup></span>
 				</h5>
 									<h5 class="lpc-plan-header-price lpc-plans-table-interval-type-month">
-						<span class="price-personal-plan-monthly no-widows"><sup>$9</sup></span>
+						<span class="lpc-plan-header-price-value price-personal-plan-monthly no-widows"><sup>$9</sup></span>
 					</h5>
-							
-							<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-annual no-widows" data-plan-timeframe="" data-plan-timeframe-slug="personal">
-					per month, billed yearly				</p>
-										<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-month no-widows">
-					per month, billed monthly				</p>
-					</div>
+																			<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-annual no-widows" data-plan-timeframe="" data-plan-timeframe-slug="personal">
+						per month, billed yearly					</p>
+													<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-month no-widows">
+						per month, billed monthly					</p>
+									</div>
 		
 			
 			
 							<div class="lpc-plan-cta-block description post-features has-cta lpc-plans-table-interval-type-annual">
 					<p class="lpc-plan-cta-block-cta lpc-plan-cta lp-cta">
-											<a id="lpc-button.18" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/start/personal/?ref=logged-out-homepage-lp">Start with Personal</a>
+											<a id="lpc-button.20" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/start/personal/?ref=logged-out-homepage-lp">Start with Personal</a>
 									</p>
 				</div>
 			
 							<div class="lpc-plan-cta-block description post-features has-cta lpc-plans-table-interval-type-month">
 					<p class="lpc-plan-cta-block-cta lpc-plan-cta lp-cta">
-											<a id="lpc-button.19" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/start/personal-monthly/?ref=logged-out-homepage-lp">Start with Personal</a>
+											<a id="lpc-button.21" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/start/personal-monthly/?ref=logged-out-homepage-lp">Start with Personal</a>
 									</p>
 				</div>
 			
@@ -1409,29 +1411,28 @@
 					Best for Freelancers				</h4>
 			
 							<h5 class="lpc-plan-header-price lpc-plans-table-interval-type-annual">
-					<span class="price-premium-plan no-widows"><sup>$8</sup></span>
+					<span class="lpc-plan-header-price-value price-premium-plan no-widows"><sup>$8</sup></span>
 				</h5>
 									<h5 class="lpc-plan-header-price lpc-plans-table-interval-type-month">
-						<span class="price-premium-plan-monthly no-widows"><sup>$18</sup></span>
+						<span class="lpc-plan-header-price-value price-premium-plan-monthly no-widows"><sup>$18</sup></span>
 					</h5>
-							
-							<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-annual no-widows" data-plan-timeframe="" data-plan-timeframe-slug="premium">
-					per month, billed yearly				</p>
-										<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-month no-widows">
-					per month, billed monthly				</p>
-					</div>
+																			<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-annual no-widows" data-plan-timeframe="" data-plan-timeframe-slug="premium">
+						per month, billed yearly					</p>
+													<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-month no-widows">
+						per month, billed monthly					</p>
+									</div>
 		
 			
 			
 							<div class="lpc-plan-cta-block description post-features has-cta lpc-plans-table-interval-type-annual">
 					<p class="lpc-plan-cta-block-cta lpc-plan-cta lp-cta">
-											<a id="lpc-button.20" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/start/premium/?ref=logged-out-homepage-lp">Start with Premium</a>
+											<a id="lpc-button.22" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/start/premium/?ref=logged-out-homepage-lp">Start with Premium</a>
 									</p>
 				</div>
 			
 							<div class="lpc-plan-cta-block description post-features has-cta lpc-plans-table-interval-type-month">
 					<p class="lpc-plan-cta-block-cta lpc-plan-cta lp-cta">
-											<a id="lpc-button.21" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/start/premium-monthly/?ref=logged-out-homepage-lp">Start with Premium</a>
+											<a id="lpc-button.23" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/start/premium-monthly/?ref=logged-out-homepage-lp">Start with Premium</a>
 									</p>
 				</div>
 			
@@ -1579,29 +1580,28 @@
 					Best for Small Businesses				</h4>
 			
 							<h5 class="lpc-plan-header-price lpc-plans-table-interval-type-annual">
-					<span class="price-business-plan no-widows"><sup>$25</sup></span>
+					<span class="lpc-plan-header-price-value price-business-plan no-widows"><sup>$25</sup></span>
 				</h5>
 									<h5 class="lpc-plan-header-price lpc-plans-table-interval-type-month">
-						<span class="price-business-plan-monthly no-widows"><sup>$40</sup></span>
+						<span class="lpc-plan-header-price-value price-business-plan-monthly no-widows"><sup>$40</sup></span>
 					</h5>
-							
-							<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-annual no-widows" data-plan-timeframe="" data-plan-timeframe-slug="business">
-					per month, billed yearly				</p>
-										<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-month no-widows">
-					per month, billed monthly				</p>
-					</div>
+																			<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-annual no-widows" data-plan-timeframe="" data-plan-timeframe-slug="business">
+						per month, billed yearly					</p>
+													<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-month no-widows">
+						per month, billed monthly					</p>
+									</div>
 		
 			
 			
 							<div class="lpc-plan-cta-block description post-features has-cta lpc-plans-table-interval-type-annual">
 					<p class="lpc-plan-cta-block-cta lpc-plan-cta lp-cta">
-											<a id="lpc-button.22" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/start/business/?ref=logged-out-homepage-lp">Start with Business</a>
+											<a id="lpc-button.24" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/start/business/?ref=logged-out-homepage-lp">Start with Business</a>
 									</p>
 				</div>
 			
 							<div class="lpc-plan-cta-block description post-features has-cta lpc-plans-table-interval-type-month">
 					<p class="lpc-plan-cta-block-cta lpc-plan-cta lp-cta">
-											<a id="lpc-button.23" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/start/business-monthly/?ref=logged-out-homepage-lp">Start with Business</a>
+											<a id="lpc-button.25" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/start/business-monthly/?ref=logged-out-homepage-lp">Start with Business</a>
 									</p>
 				</div>
 			
@@ -1741,29 +1741,28 @@
 					Best for Online Stores				</h4>
 			
 							<h5 class="lpc-plan-header-price lpc-plans-table-interval-type-annual">
-					<span class="price-ecommerce-plan no-widows"><sup>$45</sup></span>
+					<span class="lpc-plan-header-price-value price-ecommerce-plan no-widows"><sup>$45</sup></span>
 				</h5>
 									<h5 class="lpc-plan-header-price lpc-plans-table-interval-type-month">
-						<span class="price-ecommerce-plan-monthly no-widows"><sup>$70</sup></span>
+						<span class="lpc-plan-header-price-value price-ecommerce-plan-monthly no-widows"><sup>$70</sup></span>
 					</h5>
-							
-							<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-annual no-widows" data-plan-timeframe="" data-plan-timeframe-slug="ecommerce">
-					per month, billed yearly				</p>
-										<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-month no-widows">
-					per month, billed monthly				</p>
-					</div>
+																			<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-annual no-widows" data-plan-timeframe="" data-plan-timeframe-slug="ecommerce">
+						per month, billed yearly					</p>
+													<p class="lpc-plan-header-timeframe plan-timeframe lpc-plans-table-interval-type-month no-widows">
+						per month, billed monthly					</p>
+									</div>
 		
 			
 			
 							<div class="lpc-plan-cta-block description post-features has-cta lpc-plans-table-interval-type-annual">
 					<p class="lpc-plan-cta-block-cta lpc-plan-cta lp-cta">
-											<a id="lpc-button.24" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/setup/ecommerce/?ref=logged-out-homepage-lp">Get eCommerce</a>
+											<a id="lpc-button.26" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/setup/ecommerce/?ref=logged-out-homepage-lp">Get eCommerce</a>
 									</p>
 				</div>
 			
 							<div class="lpc-plan-cta-block description post-features has-cta lpc-plans-table-interval-type-month">
 					<p class="lpc-plan-cta-block-cta lpc-plan-cta lp-cta">
-											<a id="lpc-button.25" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/setup/ecommerce?recur=monthly&amp;ref=logged-out-homepage-lp">Get eCommerce</a>
+											<a id="lpc-button.27" class="lpc lpc-button button is-cta no-widows" href="https://wordpress.com/setup/ecommerce?recur=monthly&amp;ref=logged-out-homepage-lp">Get eCommerce</a>
 									</p>
 				</div>
 			
@@ -1894,7 +1893,7 @@
 											</div>
 
 											<div class="lpc-plans-compare-button plans-compare-button-container">
-												<a id="lpc-button.26" class="lpc lpc-button no-widows" href="https://wordpress.com/pricing/?ref=logged-out-homepage-lp&amp;compare=1#lpc-pricing">Compare our plans ›</a>
+												<a id="lpc-button.28" class="lpc lpc-button no-widows" href="https://wordpress.com/pricing/?ref=logged-out-homepage-lp&amp;compare=1#lpc-pricing">Compare our plans ›</a>
 										</div>
 					
 					
@@ -1933,13 +1932,13 @@
 		</div>
 <div class="block-tabs grid grid-2-responsive">
 <div class="block">
-		<div id="lpc-picture.21" class="lpc lpc-picture block-tab-picture">
+		<div id="lpc-picture.22" class="lpc lpc-picture block-tab-picture">
 			<div class="lpc-picture-wrapper">
 				<div class="lpc-picture-container">
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<img id="lpc-image.21" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/real-support-image-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<img id="lpc-image.22" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/real-support-image-2x.webp" alt="" title="" loading="lazy" fetchpriority="low">						</picture>
 					</div>
 				</div>
 			</div>
@@ -1963,17 +1962,17 @@
 					<p class="no-widows">Our Happiness Engineers are always ready to help if you get stuck or just need a hand getting set up.</p>				</div>
 			</div>
 		</div>
-							<a id="lpc-button.27" class="lpc lpc-button is-cta block-covered-cta no-widows" href="https://wordpress.com/support/?ref=logged-out-homepage-lp">Learn more</a>
+							<a id="lpc-button.29" class="lpc lpc-button is-cta block-covered-cta no-widows" href="https://wordpress.com/support/?ref=logged-out-homepage-lp">Get help</a>
 				</div>
 </div>
 <div class="block block-covered-features-built-by">
-		<div id="lpc-picture.22" class="lpc lpc-picture block-tab-picture">
+		<div id="lpc-picture.23" class="lpc lpc-picture block-tab-picture">
 			<div class="lpc-picture-wrapper">
 				<div class="lpc-picture-container">
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<img id="lpc-image.22" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/built-by-image-2x.webp" alt="Example list of domain names to choose from" title="" loading="lazy">						</picture>
+		<img id="lpc-image.23" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/built-by-image-2x.webp" alt="" title="" loading="lazy" fetchpriority="low">						</picture>
 					</div>
 				</div>
 			</div>
@@ -1997,7 +1996,7 @@
 					<p class="no-widows">Sit back as our expert team builds a site you’ll love. From single-page sites to full-blown stores, we’ll help you make it happen.</p>				</div>
 			</div>
 		</div>
-							<a id="lpc-button.28" class="lpc lpc-button is-cta block-covered-cta no-widows" href="https://builtbywp.com/?utm_source=wpcom&amp;utm_medium=referral&amp;utm_campaign=lohp">Learn more</a>
+							<a id="lpc-button.30" class="lpc lpc-button is-cta block-covered-cta no-widows" href="https://builtbywp.com/?utm_source=wpcom&amp;utm_medium=referral&amp;utm_campaign=lohp">Get started</a>
 				</div>
 </div>
 </div>
@@ -2009,7 +2008,7 @@
 				<div class="lpc-div-tree-container">
 					<div class="block-features">
 <div class="block-vip">
-<img id="lpc-image.23" class="lpc lpc-image vip-illustration" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/vip-logo.svg" alt="" title="" loading="lazy">		<div id="lpc-titles.14" class="lpc lpc-titles text-y-space-0">
+<img id="lpc-image.24" class="lpc lpc-image vip-illustration" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/vip-logo.svg" alt="" title="" loading="lazy">		<div id="lpc-titles.14" class="lpc lpc-titles text-y-space-0">
 			<div class="lpc-titles-wrapper">
 				<div class="lpc-titles-container">
 					<h3 class="no-widows">Think WordPress isn’t for the enterprise? Think again.</h3>									</div>
@@ -2039,13 +2038,13 @@
 		</div>
 
 		</div>
-		<div id="lpc-picture.23" class="lpc lpc-picture">
+		<div id="lpc-picture.24" class="lpc lpc-picture">
 			<div class="lpc-picture-wrapper">
 				<div class="lpc-picture-container">
 					<div class="lpc-picture-ratio"></div>
 					<div class="lpc-picture-fill">
 						<picture>
-		<img id="lpc-image.24" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/salesforce-2x.webp" alt="" title="" loading="lazy">						</picture>
+		<img id="lpc-image.25" class="lpc lpc-image" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/salesforce-2x.webp" alt="" title="" loading="lazy">						</picture>
 					</div>
 				</div>
 			</div>
@@ -2053,7 +2052,7 @@
 		</div>
 </div>
 <div class="block-brand-logos">
-</div>
+<img id="lpc-image.26" class="lpc lpc-image brand-logos" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/brand-logos.svg" alt="" title="" loading="lazy"><img id="lpc-image.27" class="lpc lpc-image brand-logos" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/brand-logos.svg" alt="" title="" loading="lazy"></div>
 				</div>
 			</div>
 		</section>
@@ -2061,7 +2060,7 @@
 			<div class="lpc-div-tree-wrapper">
 				<div class="lpc-div-tree-container">
 					<div class="block-jetpack">
-		<div id="lpc-titles.15" class="lpc lpc-titles">
+<img id="lpc-image.28" class="lpc lpc-image jetpack-illustration" src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/pages/hp-2022-oct/media/desktop/jetpack-logo.svg" alt="" title="" loading="lazy">		<div id="lpc-titles.15" class="lpc lpc-titles">
 			<div class="lpc-titles-wrapper">
 				<div class="lpc-titles-container">
 					<h2 class="no-widows">Take the best website builder anywhere with you.</h2>									</div>
@@ -2070,11 +2069,11 @@
 				<div id="lpc-paragraphs.15" class="lpc lpc-paragraphs">
 			<div class="lpc-paragraphs-wrapper">
 				<div class="lpc-paragraphs-container">
-					<p class="no-widows">The <b>WordPress App</b> gives you everything you need to create, design, manage, and grow your site from anywhere.</p>				</div>
+					<p class="no-widows">The <b>Jetpack App</b> gives you everything you need to create, design, manage, and grow your site from anywhere.</p>				</div>
 			</div>
 		</div>
 		<div class="block-mobile-buttons">
-		<a class="lp-app-button lp-app-button--type-google-play is-white" href="https://play.google.com/store/apps/details?id=org.wordpress.android">
+		<a class="lp-app-button lp-app-button--type-google-play is-white" href="https://play.google.com/store/apps/details?id=com.jetpack.android&amp;referrer=utm_source%253Dwordpress.com%2526utm_campaign%253Dhp-2022-oct%2526utm_medium%253Dwebsite">
 			<span class="lp-app-button__content">
 				<svg class="lp-app-button__content__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 25" aria-hidden="true">
 					<defs>
@@ -2106,7 +2105,7 @@
 				</span>
 			</span>
 		</a>
-				<a class="lp-app-button lp-app-button--type-app-store is-white" href="https://apps.apple.com/us/app/wordpress/id335703880">
+				<a class="lp-app-button lp-app-button--type-app-store is-white" href="https://apps.apple.com/app/apple-store/id1565481562?ct=wordpress.com--hp-2022-oct&amp;mt=8&amp;pt=299112">
 			<span class="lp-app-button__content">
 				<svg class="lp-app-button__content__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 23" aria-hidden="true">
 					<path fill="#fff" d="m12.88 5.97.28.02c1.6.05 3.08.85 4 2.16a4.95 4.95 0 0 0-2.36 4.15 4.78 4.78 0 0 0 2.92 4.4 10.96 10.96 0 0 1-1.52 3.1c-.9 1.33-1.83 2.64-3.32 2.66-1.45.04-1.94-.85-3.6-.85-1.67 0-2.19.83-3.57.89-1.42.05-2.5-1.43-3.43-2.76-1.85-2.7-3.3-7.63-1.36-10.97a5.32 5.32 0 0 1 4.47-2.73C6.81 6 8.13 7 9 7c.86 0 2.48-1.18 4.16-1zm.3-5.25a4.87 4.87 0 0 1-1.11 3.49 4.1 4.1 0 0 1-3.24 1.53 4.64 4.64 0 0 1 1.14-3.36A4.96 4.96 0 0 1 13.18.72z"></path>
@@ -2185,7 +2184,7 @@
 						WordPress 					Themes							</a>
 		</li>
 				<li>
-			<a href="https://wordpress.com/install-plugins/">
+			<a href="https://wordpress.com/plugins">
 						WordPress 					Plugins							</a>
 		</li>
 				<li>
@@ -2361,7 +2360,7 @@
 						<h2 class="lp-hidden">Mobile Apps</h2>
 						<ul class="lp-footer-mobile-icons">
 							<li>
-										<a class="lp-app-button lp-app-button--type-google-play " href="https://play.google.com/store/apps/details?id=org.wordpress.android">
+										<a class="lp-app-button lp-app-button--type-google-play " href="https://play.google.com/store/apps/details?id=com.jetpack.android&amp;referrer=utm_source%253Dwordpress.com%2526utm_campaign%253Dh4-landing-footer%2526utm_medium%253Dwebsite">
 			<span class="lp-app-button__content">
 				<svg class="lp-app-button__content__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 25" aria-hidden="true">
 					<defs>
@@ -2395,7 +2394,7 @@
 		</a>
 									</li>
 							<li>
-										<a class="lp-app-button lp-app-button--type-app-store " href="https://apps.apple.com/us/app/wordpress/id335703880">
+										<a class="lp-app-button lp-app-button--type-app-store " href="https://apps.apple.com/app/apple-store/id1565481562?ct=wordpress.com--h4-landing-footer&amp;mt=8&amp;pt=299112">
 			<span class="lp-app-button__content">
 				<svg class="lp-app-button__content__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 23" aria-hidden="true">
 					<path fill="#fff" d="m12.88 5.97.28.02c1.6.05 3.08.85 4 2.16a4.95 4.95 0 0 0-2.36 4.15 4.78 4.78 0 0 0 2.92 4.4 10.96 10.96 0 0 1-1.52 3.1c-.9 1.33-1.83 2.64-3.32 2.66-1.45.04-1.94-.85-3.6-.85-1.67 0-2.19.83-3.57.89-1.42.05-2.5-1.43-3.43-2.76-1.85-2.7-3.3-7.63-1.36-10.97a5.32 5.32 0 0 1 4.47-2.73C6.81 6 8.13 7 9 7c.86 0 2.48-1.18 4.16-1zm.3-5.25a4.87 4.87 0 0 1-1.11 3.49 4.1 4.1 0 0 1-3.24 1.53 4.64 4.64 0 0 1 1.14-3.36A4.96 4.96 0 0 1 13.18.72z"></path>
@@ -2454,7 +2453,7 @@
 					<svg class="lp-icon lp-icon--custom-automattic-footer" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 11" aria-hidden="true">
 						<path d="M121 .68c1.9 0 3.62.82 4.55 1.86l-1.05 1.1c-.81-.77-2-1.5-3.6-1.5-2.4 0-3.75 1.71-3.75 3.48v.19c0 1.76 1.36 3.4 3.87 3.4 1.5 0 2.74-.74 3.52-1.5l1.01 1.11a6.58 6.58 0 0 1-4.64 1.86c-3.4 0-5.46-2.29-5.46-4.8v-.31c0-2.52 2.25-4.89 5.54-4.89zm-104.64.34v5.46c0 1.71 1.09 2.73 3.17 2.73 2.13 0 3-1.02 3-2.73V1.02h1.69v5.43c0 2.3-1.43 4.23-4.82 4.23-3.22 0-4.72-1.82-4.72-4.23V1h1.68zM45.88.68c3.2 0 5.25 2.33 5.25 4.85v.3c0 2.48-2.06 4.85-5.26 4.85-3.18 0-5.24-2.37-5.24-4.85v-.3C40.63 3 42.69.68 45.88.68zm-8.35.34v1.45H33.6v7.85h-1.68V2.47h-3.93V1.02h9.54zm20.12 0 3.54 6.38.42.78.42-.78 3.5-6.4h2.31v9.3h-1.68V2.97l-.45.8-3.76 6.56h-.82L57.4 3.77l-.45-.81v7.36h-1.64v-9.3h2.33zm35.47 0v1.45h-3.93v7.85h-1.68V2.47h-3.93V1.02h9.54zm12.36 0v1.45h-3.92v7.85h-1.69V2.47h-3.92V1.02h9.53zm5.82 0v9.3h-1.66V1.89c.67 0 .94-.37.94-.88h.72zm-104.5 0 4.94 9.3h-1.8l-1.19-2.3H3.48l-1.15 2.3H.55l4.86-9.3h1.4zm70.66 0 4.93 9.3h-1.8l-1.19-2.3h-5.27l-1.15 2.3H71.2l4.86-9.3h1.4zM45.88 2.15c-2.3 0-3.55 1.6-3.55 3.4v.23c0 1.8 1.25 3.43 3.55 3.43 2.29 0 3.56-1.63 3.56-3.43v-.23c0-1.8-1.27-3.4-3.56-3.4zm1.1 1.77a.7.7 0 0 1 .2.94l-1.54 2.46a.64.64 0 0 1-.9.2.7.7 0 0 1-.2-.93l1.54-2.47a.64.64 0 0 1 .9-.2zM6.08 2.83 4.1 6.74h3.98l-2.02-3.9zm70.65 0-1.96 3.91h3.98l-2.02-3.9z"></path>
 					</svg>
-					contraption								</a>
+					thingamajig								</a>
 				<div class="lp-logo-label-spacer"></div>
 				<a href="https://automattic.com/work-with-us/">
 							Work With 					<span class="lp-link-chevron-external">Us</span>
@@ -2483,17 +2482,17 @@
 				homepage.timeframeOffMonthly = "Save %d%% per month! Billed monthly.";
 			}
 		</script>
-<script id="e2d79a9fb84a7d7d26b659761c2e8405-js" src="https://s1.wp.com/_static/??-eJy1kk1OAzEMhS9EMDMgWhaIo1RpkmY8k9hWfgq9PR4JVNRVkdpVrOS978VO4FOMY2qBGrQp5FBheoG5Qm+Y6uNcH+CPQlKPSBWSJS/WLbDvmDyQPV4qz6xVixQh27KEtlZiox7tHOfMBLoIk3oqtJMEbw4YlKlXQPLh6yZgUW09I6eW0024qN5CtiGTTcZjddx13+wtUSh3CDwwa6LRga9wNcauUiPollDukCAFj9ad/k+exIxP42jYtSue8vdfzdWEUrhoaxx/SnV95PfhdTNshu327Xn+Bs7XAfI=" defer=""></script>
+<script id="36aa99f90d964b266384d815e1d15400-js" src="https://s1.wp.com/_static/??-eJy1kk1OAzEMhS9E8DC0lA3iKFWapBnPJLaVn9LeHo8EKmIFUruKlbz3vdgJfIhxTC1QgzaFHCpMG5gr9IapPs71AX4oJPWIVCFZ8mLdAoeOyQPZ02/llbVqkSJkW5bQ1kps1KO945yZQBdhUk+FdpHgzRGDMvUKSD6cbwIW1dYrcmo53YSL6i1kGzLZZDxWx133zcEShXKHwCOzJhod+ApXY+wqNYJuCeUOCVLwZN3l/+RJzDiMo2HX/vCU3/9qriaUwkVb4/hVqus9vz297LbD6/Z52M2fzroB6Q==" defer=""></script>
 <script src="//stats.wp.com/w.js?63" defer=""></script>
 <script type="text/javascript">
 _tkq = window._tkq || [];
 _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'1','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
 _stq.push(['view', {'blog':'1','v':'wpcom','tz':'0','user_id':'0','post':'19661942','subd':'wordpress.com'}]);
-_stq.push(['extra', {'crypt':'UE5VRnhUZ2VGQSYvTVglSnBOaVR1Jk9bYn5tNmJ+TXolcGJkQ1ouL3Zddko0NmdGQnYsc1JpYix+bUIyLGtOS3duTG1QP1p2ek9xMS0lUExbclFCW25WP2pOLldfeCxWaFdSNGlhS1hiOSs5d2U/fEJsbH5rLm1SM1ZEYTdsekRhaz9MNmNkP11TNnhdWUJpNlVYUWpOdl9MVk8vSmNhX216fnw5alpPZjBWU2RkPVVyaVhhaCxKWHhZNlt6N00lP2xuTmVbJWFYTTNIYmJqYX5JeUtEQTlTJTd0MXlEbWklckNlVW8xYVZPWmlSZk1aRF9hMDlSSko9cUpwMHZJT0Z1OEhrcXk9fkE2NiwuYy81dHMxPS1KTXxzR3RzTnp3Jj1yQT1DL1hETC00cWFRd3VdYTF3eU9WT1dPWnhi'}]);
+_stq.push(['extra', {'crypt':'UE5VRnhUZ2VGQSYvTVglSnBOaVR1Jk9bYn5tNmJ+TXolcGJkQ1ouL3Zddko0NmdGQnYsc1JpYix+bUIyLGtOS3duTG1QP1p2ek9xMS0lUExbclFCW25WP2pOLldfeCxWaFdSNGlhS1hiOSs5d2U/fEJsbH5rLm1SM1ZEYTdsekRhaz9MNmNkP11TNnhdWUJpNlVYUWpOdl9MVk8vSmNhX216fnw5alpPZjBWU2RkPVVyaVhhaCxKWHhZNlt6N00lP2xuTmVbJWFYTTNIYmJqYX5NVVhlLHROZnZTZ0gxY0NnMVksPVtGLTNNclR2Uy80bWRfTV1YLUtWXTIwSD0rUmtzN3NbT211L2wxbjVTM249b35JaGZZZmFbaGF6VXNzLW9zUzhoSF01NjhyMG9yPT9wLkhUWkFFZFgrJi8zWi9lalNCLQ=='}]);
 _stq.push([ 'clickTrackerInit', '1', '19661942' ]);
 	</script>
-<script defer="" id="bilmur" data-customproperties="{&quot;subservice&quot;:&quot;landpack&quot;,&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;h4&quot;}" data-provider="wordpress.com" data-service="simple" src="/wp-content/js/bilmur.min.js?i=6&amp;m=202251"></script>		<script src="https://s1.wp.com/wp-content/js/def-queue.js?v=1566842360" defer=""></script>
+<script defer="" id="bilmur" data-customproperties="{&quot;subservice&quot;:&quot;landpack&quot;,&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;h4&quot;}" data-provider="wordpress.com" data-service="simple" src="/wp-content/js/bilmur.min.js?i=7&amp;m=202305"></script>		<script src="https://s1.wp.com/wp-content/js/def-queue.js?v=1566842360" defer=""></script>
 
 					<!-- A8C Analytics [start] -->
 			<script type="text/javascript">
@@ -2501,7 +2500,7 @@ _stq.push([ 'clickTrackerInit', '1', '19661942' ]);
 					'use strict';
 
 					var setupAnalytics = function() {
-						window.a8cAnalyticsConfig = {"cookieBanner":{"version":"2","cssZIndex":50001,"skipBanner":false,"cookieDomain":"wordpress.com","v1CookieName":"sensitive_pixel_option","v2CookieName":"sensitive_pixel_options","v1Text":"Our websites and dashboards use cookies. By continuing, you agree to their use. <a target=\"_blank\" href=\"https:\/\/automattic.com\/cookies\/\">Learn more<\/a>, including how to control cookies.","v2Text":"As an open source company, we take your privacy seriously and want to be as transparent as possible. So: We use cookies to collect some personal data from you (like your browsing data, IP addresses, and other unique identifiers). Some of these cookies we absolutely need in order to make things work, and others you can choose in order to optimize your experience while using our site and services.","v2OptionsText":"Your privacy is critically important to us. We and our partners use, store, and process your personal data to optimize: our <strong>website<\/strong> such as by improving security or conducting analytics, <strong>marketing activities<\/strong> to help deliver relevant marketing or content, and your <strong>user experience<\/strong> such as by remembering your account name, language settings, or cart information, where applicable. You can customize your cookie settings below. Learn more in our <a href=\"https:\/\/automattic.com\/privacy\/\" target=\"_blank\">Privacy Policy<\/a> and <a href=\"https:\/\/automattic.com\/cookies\/\" target=\"_blank\">Cookie Policy<\/a>.","v2EssentialOptionHeading":"Required","v2EssentialOptionText":"These cookies are essential for our websites and services to perform basic functions and are necessary for us to operate certain features, like allowing registered users to authenticate and perform account-related functions, storing preferences set by users (like account name, language, and location), and ensuring our services operate properly.","v2AnalyticsOptionHeading":"Analytics","v2AnalyticsOptionText":"These cookies allow us to optimize performance by collecting information on how users interact with our websites.","v2AdvertisingOptionHeading":"Advertising","v2AdvertisingOptionText":"We and our advertising partners set these cookies to provide you with relevant content and to understand that content\u2019s effectiveness.","v1ButtonText":"Got It!","v2CustomizeButtonText":"Customize","v2AcceptAllButtonText":"Accept all","v2AcceptSelectionButtonText":"Accept selection","hiddenConsents":[]},"doNotSellDialog":{"contactEmailAddress":"privacypolicyupdates@automattic.com"},"fireAnalyticsOptions":{"lpName":"logged-out-homepage","lpVariation":null,"lpPersonalVariation":null}};
+						window.a8cAnalyticsConfig = {"cookieBanner":{"version":"2","cssZIndex":50001,"skipBanner":false,"cookieDomain":"wordpress.com","v1CookieName":"sensitive_pixel_option","v2CookieName":"sensitive_pixel_options","v1Text":"Our websites and dashboards use cookies. By continuing, you agree to their use. <a target=\"_blank\" href=\"https:\/\/automattic.com\/cookies\/\">Learn more<\/a>, including how to control cookies.","v2Text":"As an open source company, we take your privacy seriously and want to be as transparent as possible. So: We use cookies to collect some personal data from you (like your browsing data, IP addresses, and other unique identifiers). Some of these cookies we absolutely need in order to make things work, and others you can choose in order to optimize your experience while using our site and services.","v2OptionsText":"Your privacy is critically important to us. We and our partners use, store, and process your personal data to optimize: our <strong>website<\/strong> such as by improving security or conducting analytics, <strong>marketing activities<\/strong> to help deliver relevant marketing or content, and your <strong>user experience<\/strong> such as by remembering your account name, language settings, or cart information, where applicable. You can customize your cookie settings below. Learn more in our <a href=\"https:\/\/automattic.com\/privacy\/\" target=\"_blank\">Privacy Policy<\/a> and <a href=\"https:\/\/automattic.com\/cookies\/\" target=\"_blank\">Cookie Policy<\/a>.","v2EssentialOptionHeading":"Required","v2EssentialOptionText":"These cookies are essential for our websites and services to perform basic functions and are necessary for us to operate certain features, like allowing registered users to authenticate and perform account-related functions, storing preferences set by users (like account name, language, and location), and ensuring our services operate properly.","v2AnalyticsOptionHeading":"Analytics","v2AnalyticsOptionText":"These cookies allow us to optimize performance by collecting information on how users interact with our websites.","v2AdvertisingOptionHeading":"Advertising","v2AdvertisingOptionText":"We and our advertising partners set these cookies to provide you with relevant content and to understand that content\u2019s effectiveness.","v1ButtonText":"Got It!","v2CustomizeButtonText":"Customize","v2AcceptAllButtonText":"Accept all","v2AcceptSelectionButtonText":"Accept selection","hiddenConsents":[]},"doNotSellDialog":{"contactEmailAddress":"privacypolicyupdates@automattic.com"},"fireAnalyticsOptions":{"lpName":"logged-out-homepage","lpVariation":"","lpPersonalVariation":null}};
 					};
 
 					if ( window.defQueue && defQueue.isLOHP && defQueue.isLOHP === 2020 ) {
@@ -3149,7 +3148,7 @@ _stq.push([ 'clickTrackerInit', '1', '19661942' ]);
 		</script>
 
 		<!-- CCPA [end] -->
-		<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=216bf91d-f10f-4f66-bf65-a0cba220cd38"></script>
+		
 	
 
 <style>img#wpstats {
@@ -3160,79 +3159,4 @@ _stq.push([ 'clickTrackerInit', '1', '19661942' ]);
 			height: 0 !important;
 			width: 0 !important;
 			overflow: hidden;
-		}</style><img src="https://pixel.wp.com/g.gif?blog=1&amp;v=wpcom&amp;tz=0&amp;user_id=0&amp;post=19661942&amp;subd=wordpress.com&amp;host=wordpress.com&amp;ref=&amp;rand=0.18039151823911048" alt="" id="wpstats"><script async="" src="https://stats.wp.com/w.js?60"></script><iframe data-product="web_widget" title="No content" role="presentation" tabindex="-1" allow="microphone *" aria-hidden="true" src="about:blank" style="width: 0px; height: 0px; border: 0px; position: absolute; top: -9999px;"></iframe><script src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/js/affiliate-referrals.js?v=1557961113" async=""></script><script src="https://refer.wordpress.com/wp-content/themes/refer-wordpress/assets/js/referrals.min.js?v=20190410" data-vendor="67402"></script><script src="https://www.googletagmanager.com/gtag/js?id=AW-946162814" async=""></script><div style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon438055485044"><img style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon971331491964" width="0" height="0" alt="" src="https://bat.bing.com/action/0?ti=4074038&amp;Ver=2&amp;mid=4c73dbed-29c7-40fb-8585-f284d6ba0e0f&amp;sid=0ad7082091e011ed908ab36ad4c4bcec&amp;vid=0ad7402091e011edb6e111834dbc38dc&amp;vids=1&amp;msclkid=N&amp;pi=918639831&amp;lg=en-US&amp;sw=800&amp;sh=600&amp;sc=24&amp;nwd=1&amp;tl=WordPress.com%3A%20Build%20a%20Site,%20Sell%20Your%20Stuff,%20Start%20a%20Blog%20%26%20More&amp;p=https%3A%2F%2Fwordpress.com%2F&amp;r=&amp;lt=719&amp;evt=pageLoad&amp;sv=1&amp;rn=180015"></div><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" tabindex="-1" aria-hidden="true" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-5e66f98b4ee957db209dc6f63e3d59dd.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><iframe id="_hjSafeContext_18166005" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><div style="position: fixed; box-shadow: rgba(23, 73, 77, 0.15) 0px 20px 30px; z-index: 999999; border-radius: 0px; inset: 0px; width: 100%; transition: none 0s ease 0s; height: 0px;"><iframe title="Messaging window" style="width: 100%; height: 100%; position: absolute; border: 0px; border-radius: 0px;"></iframe></div><div><div><div style="z-index: 999999; bottom: 88px; position: fixed; left: auto; right: 16px; direction: ltr; align-items: end;"><iframe title="Close message" style="color-scheme: light; width: 40px; height: 40px; box-shadow: rgba(23, 73, 77, 0.15) 0px 20px 30px; border-radius: 40px; overflow: auto; border: 0px; background-color: transparent; margin: 0px 4px;"></iframe><iframe title="Message from company" style="color-scheme: light; width: 225px; height: 60px; box-shadow: rgba(23, 73, 77, 0.15) 0px 20px 30px; border-radius: 20px; overflow: auto; border: 0px; background-color: transparent;"></iframe></div></div><style>
-        @-webkit-keyframes ww-320996f0-d3c1-4012-b346-422c24d0b5e7-launcherOnOpen {
-          0% {
-            -webkit-transform: translateY(0px) rotate(0deg);
-                    transform: translateY(0px) rotate(0deg);
-          }
-
-          30% {
-            -webkit-transform: translateY(-5px) rotate(2deg);
-                    transform: translateY(-5px) rotate(2deg);
-          }
-
-          60% {
-            -webkit-transform: translateY(0px) rotate(0deg);
-                    transform: translateY(0px) rotate(0deg);
-          }
-
-
-          90% {
-            -webkit-transform: translateY(-1px) rotate(0deg);
-                    transform: translateY(-1px) rotate(0deg);
-
-          }
-
-          100% {
-            -webkit-transform: translateY(-0px) rotate(0deg);
-                    transform: translateY(-0px) rotate(0deg);
-          }
-        }
-        @keyframes ww-320996f0-d3c1-4012-b346-422c24d0b5e7-launcherOnOpen {
-          0% {
-            -webkit-transform: translateY(0px) rotate(0deg);
-                    transform: translateY(0px) rotate(0deg);
-          }
-
-          30% {
-            -webkit-transform: translateY(-5px) rotate(2deg);
-                    transform: translateY(-5px) rotate(2deg);
-          }
-
-          60% {
-            -webkit-transform: translateY(0px) rotate(0deg);
-                    transform: translateY(0px) rotate(0deg);
-          }
-
-
-          90% {
-            -webkit-transform: translateY(-1px) rotate(0deg);
-                    transform: translateY(-1px) rotate(0deg);
-
-          }
-
-          100% {
-            -webkit-transform: translateY(-0px) rotate(0deg);
-                    transform: translateY(-0px) rotate(0deg);
-          }
-        }
-
-        @keyframes ww-320996f0-d3c1-4012-b346-422c24d0b5e7-widgetOnLoad {
-          0% {
-            opacity: 0;
-          }
-          100% {
-            opacity: 1;
-          }
-        }
-
-        @-webkit-keyframes ww-320996f0-d3c1-4012-b346-422c24d0b5e7-widgetOnLoad {
-          0% {
-            opacity: 0;
-          }
-          100% {
-            opacity: 1;
-          }
-        }
-      </style><iframe title="Button to launch messaging window" style="color-scheme: light; height: 64px; width: 64px; position: fixed; bottom: 16px; right: 16px; transform: none; border: 0px; margin-top: 0px; opacity: 0; box-shadow: rgba(23, 73, 77, 0.15) 0px 20px 30px; animation: 0.2s ease-in 0s 1 normal forwards running ww-320996f0-d3c1-4012-b346-422c24d0b5e7-widgetOnLoad; z-index: 999999; border-radius: 50%;"></iframe></div></body></html>
+		}</style><img src="https://pixel.wp.com/g.gif?blog=1&amp;v=wpcom&amp;tz=0&amp;user_id=0&amp;post=19661942&amp;subd=wordpress.com&amp;host=wordpress.com&amp;ref=&amp;rand=0.783181553113792" alt="" id="wpstats"><script async="" src="https://stats.wp.com/w.js?60"></script><script src="https://s1.wp.com/wp-content/themes/h4/landing/marketing/js/affiliate-referrals.js?v=1557961113" async=""></script><script src="https://refer.wordpress.com/wp-content/themes/refer-wordpress/assets/js/referrals.min.js?v=20190410" data-vendor="67402"></script><script src="https://www.googletagmanager.com/gtag/js?id=AW-946162814" async=""></script><div style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon552798221044"><img style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon875344842388" width="0" height="0" alt="" src="https://bat.bing.com/action/0?ti=4074038&amp;Ver=2&amp;mid=62b6f1bf-8be9-48df-9d3f-8c74c4390eaa&amp;sid=08fdf4c0aa5d11ed9f5aa31f4b7bad54&amp;vid=08fe0fb0aa5d11ed8ddb33d96ee885d5&amp;vids=1&amp;msclkid=N&amp;pi=918639831&amp;lg=en-US&amp;sw=800&amp;sh=600&amp;sc=24&amp;nwd=1&amp;tl=WordPress.com%3A%20Build%20a%20Site,%20Sell%20Your%20Stuff,%20Start%20a%20Blog%20%26%20More&amp;p=https%3A%2F%2Fwordpress.com%2F&amp;r=&amp;lt=1093&amp;evt=pageLoad&amp;sv=1&amp;rn=282994"></div><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" tabindex="-1" aria-hidden="true" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-e031119f9e9e307a08fa610f85dbfb52.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><iframe id="_hjSafeContext_28773960" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe></body></html>

@@ -1,0 +1,1 @@
+[{'level': 'SEVERE', 'message': 'https://securepubads.g.doubleclick.net/tag/js/gpt.js 9:38478 Uncaught TypeError: (intermediate value)(intermediate value)(intermedi…ue)(intermediate value).notcall is not a function', 'source': 'javascript', 'timestamp': 1676215660523}]

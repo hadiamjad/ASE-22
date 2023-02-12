@@ -1,8 +1,8 @@
-<html class="linux js x64 is-modern-browser loaded" lang="en" dir="ltr" data-country-code="US" data-latest-firefox="108.0.2" data-esr-versions="102.6.0" data-gtm-container-id="GTM-MW3R8V" data-gtm-page-id="Homepage" data-stub-attribution-rate="1.0" data-sentry-dsn="https://c3ab8514873549d5b3785ebc7fb83c80@o1069899.ingest.sentry.io/6260331"><head>
+<html class="linux js x64 is-modern-browser loaded" lang="en" dir="ltr" data-country-code="US" data-latest-firefox="109.0.1" data-esr-versions="102.7.0" data-gtm-container-id="GTM-MW3R8V" data-gtm-page-id="Homepage" data-stub-attribution-rate="1.0" data-convert-project-id="10039-1003343" data-sentry-dsn="https://c3ab8514873549d5b3785ebc7fb83c80@o1069899.ingest.sentry.io/6260331"><head>
     <meta charset="utf-8">
 
     <!--[if !IE]><!-->
-    <script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-MQ7767QQQW&amp;l=dataLayer&amp;cx=c"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MW3R8V&amp;l=dataLayer"></script><script type="text/javascript" src="https://www.mozilla.org/media/js/site.d8d3c66f72e1.js" charset="utf-8"></script>
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-MQ7767QQQW&amp;l=dataLayer&amp;cx=c"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MW3R8V&amp;l=dataLayer"></script><script src="https://www.mozilla.org/media/js/site.9dae3c1ee5a8.js"></script>
 
     
     <!--<![endif]-->
@@ -158,13 +158,13 @@ help support Mozilla.
 
     <!--[if lt IE 9]>
       
-      <script type="text/javascript" src="https://www.mozilla.org/media/js/ie/libs/html5shiv.930971c5d4b3.js"></script>
+      <script src="https://www.mozilla.org/media/js/ie/libs/html5shiv.a94a0b700fa2.js"></script>
     <![endif]-->
 
     <!--[if IE]>
       
       
-        <link href="https://www.mozilla.org/media/css/common-old-ie.2eae523bbef1.css" rel="stylesheet" type="text/css" />
+        <link href="https://www.mozilla.org/media/css/common-old-ie.2eae523bbef1.css" rel="stylesheet" type="text/css">
       
     <![endif]-->
 
@@ -186,7 +186,7 @@ help support Mozilla.
 
 
 <link href="https://www.mozilla.org/media/css/c-logo.3c98dc340d92.css" rel="stylesheet" type="text/css">
-  <link href="https://www.mozilla.org/media/css/protocol-call-out.cab1cbd86f18.css" rel="stylesheet" type="text/css">
+  <link href="https://www.mozilla.org/media/css/protocol-call-out.db0707fc542a.css" rel="stylesheet" type="text/css">
   <link href="https://www.mozilla.org/media/css/protocol-newsletter.eaf159128d01.css" rel="stylesheet" type="text/css">
   <link href="https://www.mozilla.org/media/css/home-contentful.d6c2eccdf2d2.css" rel="stylesheet" type="text/css">
 
@@ -195,7 +195,7 @@ help support Mozilla.
   
 
   
-    <link href="https://www.mozilla.org/media/css/home-firefox-mr106-promo.e1b71999b5e5.css" rel="stylesheet" type="text/css">
+    <link href="https://www.mozilla.org/media/css/home-vpn-beautiful.f22aeeaefdd8.css" rel="stylesheet" type="text/css">
   
 
     <!--<![endif]-->
@@ -221,11 +221,11 @@ https://bugzilla.mozilla.org/show_bug.cgi?id=1122305#c8
 
 
   <!--[if !IE]><!-->
-    <script type="text/javascript" src="https://www.mozilla.org/media/js/gtm-snippet.9f9cf2026c5f.js" charset="utf-8"></script>
+    <script src="https://www.mozilla.org/media/js/gtm-snippet.9f9cf2026c5f.js"></script>
   <!--<![endif]-->
 
   <!--[if IE]>
-    <script type="text/javascript" src="https://www.mozilla.org/media/js/ie/gtm-snippet.bddadee5e57d.js"></script>
+    <script src="https://www.mozilla.org/media/js/ie/gtm-snippet.ca72d6036da3.js"></script>
   <![endif]-->
 
 <!-- End Google Tag Manager -->
@@ -370,7 +370,7 @@ https://bugzilla.mozilla.org/show_bug.cgi?id=1122305#c8
           </li>
           <li>
             <section class="c-menu-item mzp-has-icon">
-              <a class="c-menu-item-link" href="/firefox/108.0.2/releasenotes/" data-link-name="Release Notes" data-link-type="nav" data-link-position="topnav" data-link-group="firefox">
+              <a class="c-menu-item-link" href="/firefox/109.0.1/releasenotes/" data-link-name="Release Notes" data-link-type="nav" data-link-position="topnav" data-link-group="firefox">
                 <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M2.7 23.6c0 2.4 2 4.4 4.4 4.4h5.6c1.4 0 2.3.5 3.3 1.5 1-1 2-1.5 3.3-1.5h5.6c2.4 0 4.4-2 4.4-4.4V8.4c0-2.4-2-4.4-4.4-4.4h-5.6C18 4 17 4.2 16 5.2c-1-1-2-1.2-3.3-1.2H7.1C4.6 4 2.7 6 2.7 8.4v15.2zm24 0c0 1-.8 1.7-1.7 1.7h-5.6c-1.3 0-2.3.2-3.3 1.2-1-1-2-1.2-3.3-1.2H7.1c-1 0-1.7-.8-1.7-1.7V8.4c0-1 .8-1.7 1.7-1.7h5.6c1.3 0 2.3.5 3.3 1.5 1-1 2-1.5 3.3-1.5h5.6c1 0 1.7.8 1.7 1.7v15.2zM13.3 10.7H8c-.4 0-.7-.3-.7-.7 0-.4.3-.7.7-.7h5.3c.4 0 .7.3.7.7 0 .4-.3.7-.7.7zm-5.3 4h5.3c.4 0 .7-.3.7-.7s-.3-.7-.7-.7H8c-.4 0-.7.3-.7.7s.3.7.7.7zm5.3 4H8c-.4 0-.7-.3-.7-.7s.3-.7.7-.7h5.3c.4 0 .7.3.7.7s-.3.7-.7.7zm-5.3 4h3.4c.4 0 .7-.3.7-.7s-.3-.7-.7-.7H8c-.4 0-.7.3-.7.7s.3.7.7.7z"></path></svg>
                 <h4 class="c-menu-item-title">Release Notes</h4>
               
@@ -640,7 +640,7 @@ https://bugzilla.mozilla.org/show_bug.cgi?id=1122305#c8
 
     <div id="outer-wrapper">
       
-<main role="main">
+<main>
   <header class="main-page-heading visually-hidden">
     
     <h1>Internet for people, not profit</h1>
@@ -652,105 +652,26 @@ https://bugzilla.mozilla.org/show_bug.cgi?id=1122305#c8
 
 
 
+<section class="mzp-c-split mzp-l-split-reversed mzp-t-split-nospace mzp-l-split-center-on-sm-md">
   
-  
-  
-    
-  
-  
-  
-  
-  
-  
-
-
-<section class="mzp-c-split mr106-home-hero show-not-firefox mzp-t-split-nospace mzp-l-split-center-on-sm-md">
-  
-  <div class="mzp-c-split-bg mzp-t-dark">
+  <div class="mzp-c-split-bg mzp-t-dark mzp-t-beautiful">
   
   <div class="mzp-c-split-container">
     
       
         <div class="mzp-c-split-media mzp-l-split-h-center mzp-l-split-v-center">
-          <img src="https://www.mozilla.org/media/img/home/2022/mr-hero-custom.ca72ac666bbb.svg" alt="" class="mzp-c-split-media-asset">
+          <img src="https://www.mozilla.org/media/img/home/2023/vpn-beautiful-700.8c42a21f7fa1.jpg" srcset="https://www.mozilla.org/media/img/home/2023/vpn-beautiful-300.34a0cf5a45d1.jpg 300w,https://www.mozilla.org/media/img/home/2023/vpn-beautiful-500.eca6927bc19c.jpg 500w,https://www.mozilla.org/media/img/home/2023/vpn-beautiful-700.8c42a21f7fa1.jpg 700w,https://www.mozilla.org/media/img/home/2023/vpn-beautiful-900.7bee3aaf8a8e.jpg 900w,https://www.mozilla.org/media/img/home/2023/vpn-beautiful-1100.3b8e75eab2f0.jpg 1100w,https://www.mozilla.org/media/img/home/2023/vpn-beautiful-1300.ceac91099471.jpg 1300w,https://www.mozilla.org/media/img/home/2023/vpn-beautiful-1500.37144632c403.jpg 1500w" sizes="(min-width: 768px) calc(50vw - 128px),calc(100vw - 48px)" alt="" class="mzp-c-split-media-asset">
         </div>
       
     
     <div class="mzp-c-split-body">
       
-  <div class="mzp-c-wordmark mzp-t-wordmark-lg mzp-t-product-firefox"></div>
-  <h2 class="c-mr106-title">Make Firefox yours</h2>
-  <p class="c-mr106-body">The new Firefox is full of features designed with just you in mind. Browse seamlessly between devices, choose among exclusive colors, edit PDFs directly in your browser and get the level of privacy you deserve.</p>
-  <div class="c-mr106-cta">
-    <div class="show-mobile">
-      <a class="mzp-c-button mzp-t-product mzp-t-dark mzp-t-xl" href="/en-US/firefox/browsers/mobile/" data-cta-type="link" data-cta-text="Get Firefox mobile" data-cta-position="MR Promo">Get Firefox mobile</a>
-    </div>
-    <div class="show-desktop">
-      
-
-<div id="mr106-download-firefox" class="mzp-c-button-download-container c-button-download-thanks">
-  <!--[if !IE]><!-->
-  <a href="/firefox/download/thanks/" class="download-link mzp-c-button mzp-t-product mzp-t-dark mzp-t-xl" data-direct-link="https://download.mozilla.org/?product=firefox-stub&amp;os=win&amp;lang=en-US" data-link-type="download" data-download-location="MR Promo" data-download-os="Desktop" data-display-name="Linux 64-bit" data-download-version="linux64">
-    
-      Install now
-    
-  </a>
-  <!--<![endif]-->
-
-  
-  <!--[if IE]>
-    <a href="https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US"
-      class="download-link mzp-c-button mzp-t-product mzp-t-dark mzp-t-xl"
-      data-link-type="download" data-download-os="Desktop" data-display-name="Windows 32-bit" data-download-version="win"
-      data-download-location="MR Promo">
-      
-        Install now
-      
-    </a>
-  <![endif]-->
-
-  <small class="mzp-c-button-download-privacy-link">
-    <a href="/en-US/privacy/firefox/">
-      Firefox Privacy Notice
-    </a>
-  </small>
-</div>
-    </div>
-  </div>
-
-    </div>
-    
-  </div>
-  
-  </div>
-  
-</section>
-
-<section class="mzp-c-split mr106-home-hero show-firefox mzp-t-split-nospace mzp-l-split-center-on-sm-md">
-  
-  <div class="mzp-c-split-bg mzp-t-dark">
-  
-  <div class="mzp-c-split-container">
-    
-      
-        <div class="mzp-c-split-media mzp-l-split-h-center mzp-l-split-v-center">
-          <img src="https://www.mozilla.org/media/img/home/2022/mr-hero-sync.56d661c20694.svg" alt="" class="mzp-c-split-media-asset">
-        </div>
-      
-    
-    <div class="mzp-c-split-body">
-      
-  <div class="mzp-c-wordmark mzp-t-wordmark-lg mzp-t-product-firefox"></div>
-  <h2 class="c-mr106-title">Browsing has never been so seamless</h2>
-  <p class="c-mr106-body">The new Firefox is full of features designed with just you in mind. Jump from one device to another and never lose track of what matters to you online.</p>
-  <div class="c-mr106-cta">
-    <div class="show-mobile">
-      <a class="mzp-c-button mzp-t-product mzp-t-dark mzp-t-xl" href="/en-US/firefox/set-as-default/" data-cta-text="Make Firefox your default browser" data-cta-type="button">Make Firefox your default browser</a>
-    </div>
-    <div class="show-desktop">
-      <a class="mzp-c-button mzp-t-product mzp-t-dark mzp-t-xl" href="/en-US/firefox/browsers/mobile/" data-cta-type="link" data-cta-text="Get Firefox mobile" data-cta-position="MR Promo">Get Firefox mobile</a>
-    </div>
-  </div>
+  <div class="mzp-c-wordmark mzp-t-wordmark-lg mzp-t-product-vpn">Mozilla VPN</div>
+  <h2 class="mzp-u-title-lg">Your privacy is a beautiful thing</h2>
+  <p class="">Protect your location and activity online.</p>
+  <p>
+    <a href="/en-US/products/vpn/" class="mzp-c-button js-fxa-product-referral-link mzp-c-button mzp-t-dark" data-referral-id="homepage_banner" data-cta-text="Get Mozilla VPN" data-cta-type="button" data-cta-position="banner">Get Mozilla VPN</a>
+  </p>
 
     </div>
     
@@ -782,7 +703,7 @@ https://bugzilla.mozilla.org/show_bug.cgi?id=1122305#c8
     
       
         <div class="mzp-c-split-media mzp-l-split-media-constrain-height  ">
-          <img class="mzp-c-split-media-asset" src="https://images.ctfassets.net/w5er3c7zdgmd/3vukypoPTTpRYctNjWoUkc/03dfba34b9aab288f7c25d257a621cf0/billboard-more-power-high-res.5e9e07e1024c.png?w=800" loading="eager">
+          <img class="mzp-c-split-media-asset" src="https://images.ctfassets.net/w5er3c7zdgmd/3vukypoPTTpRYctNjWoUkc/03dfba34b9aab288f7c25d257a621cf0/billboard-more-power-high-res.5e9e07e1024c.png?w=800" loading="eager" alt="">
         </div>
       
     
@@ -851,7 +772,7 @@ https://bugzilla.mozilla.org/show_bug.cgi?id=1122305#c8
     
       
         <div class="mzp-c-split-media   ">
-          <img class="mzp-c-split-media-asset" src="https://images.ctfassets.net/w5er3c7zdgmd/4fs0FfxfFZTQipzluL9VDV/ee71e84f7fa80398872f0efe7ccdf232/vpn-laptop.png?w=800" loading="lazy">
+          <img class="mzp-c-split-media-asset" src="https://images.ctfassets.net/w5er3c7zdgmd/4fs0FfxfFZTQipzluL9VDV/ee71e84f7fa80398872f0efe7ccdf232/vpn-laptop.png?w=800" loading="lazy" alt="">
         </div>
       
     
@@ -902,7 +823,7 @@ https://bugzilla.mozilla.org/show_bug.cgi?id=1122305#c8
     
       
         <div class="mzp-c-split-media   ">
-          <img class="mzp-c-split-media-asset" src="https://images.ctfassets.net/w5er3c7zdgmd/62J3owKrB5Ilf72tPnKgam/54bb1f62f4b5228ae79adf937c7bfbbb/Firefox_Asset_2.png?w=800" loading="lazy">
+          <img class="mzp-c-split-media-asset" src="https://images.ctfassets.net/w5er3c7zdgmd/62J3owKrB5Ilf72tPnKgam/54bb1f62f4b5228ae79adf937c7bfbbb/Firefox_Asset_2.png?w=800" loading="lazy" alt="">
         </div>
       
     
@@ -955,7 +876,7 @@ Pocket has the same dedication to privacy</p>
     
       
         <div class="mzp-c-split-media   ">
-          <img class="mzp-c-split-media-asset" src="https://images.ctfassets.net/w5er3c7zdgmd/2ySD0uwR3K2TtYItTDFFm8/655364580fc7a7f0789d7299710d58d3/pocket-rainbow.jpg?w=800" loading="lazy">
+          <img class="mzp-c-split-media-asset" src="https://images.ctfassets.net/w5er3c7zdgmd/2ySD0uwR3K2TtYItTDFFm8/655364580fc7a7f0789d7299710d58d3/pocket-rainbow.jpg?w=800" loading="lazy" alt="">
         </div>
       
     
@@ -1006,7 +927,7 @@ your real address and clutter up your inbox till the end of time.</p>
     
       
         <div class="mzp-c-split-media   ">
-          <img class="mzp-c-split-media-asset" src="https://images.ctfassets.net/w5er3c7zdgmd/5vINWpTcQT97f8u2bBUYF6/0ce014e0b59d7dc331983d56e9b9def1/Relay_-_Asset_1_.png?w=800" loading="lazy">
+          <img class="mzp-c-split-media-asset" src="https://images.ctfassets.net/w5er3c7zdgmd/5vINWpTcQT97f8u2bBUYF6/0ce014e0b59d7dc331983d56e9b9def1/Relay_-_Asset_1_.png?w=800" loading="lazy" alt="">
         </div>
       
     
@@ -1033,7 +954,7 @@ your real address and clutter up your inbox till the end of time.</p>
     
       
         <div class="mzp-c-split-media mzp-l-split-media-constrain-height  ">
-          <img class="mzp-c-split-media-asset" src="https://images.ctfassets.net/w5er3c7zdgmd/YqJgrQqirvpWCIGynfD5Z/3fc659c76acf652b8467fc1845bdbebd/billboard-healthy-internet-high-res.56fc2c64c968.png?w=800" loading="lazy">
+          <img class="mzp-c-split-media-asset" src="https://images.ctfassets.net/w5er3c7zdgmd/YqJgrQqirvpWCIGynfD5Z/3fc659c76acf652b8467fc1845bdbebd/billboard-healthy-internet-high-res.56fc2c64c968.png?w=800" loading="lazy" alt="">
         </div>
       
     
@@ -2137,17 +2058,17 @@ artificial intelligence (AI), accountability for big tech corporations, and more
     
       
         <!--[if !IE]><!-->
-          <script type="text/javascript" src="https://www.mozilla.org/media/js/sentry.939e6a6ef56d.js" charset="utf-8"></script>
+          <script src="https://www.mozilla.org/media/js/sentry.40e512a52bf9.js"></script>
         <!--<![endif]-->
       
     
 
     
       <!--[if !IE]><!-->
-        <script type="text/javascript" src="https://www.mozilla.org/media/js/lib.212d7e62f37e.js" charset="utf-8"></script>
-        <script type="text/javascript" src="https://www.mozilla.org/media/js/ui.e5168a14d6d4.js" charset="utf-8"></script>
-        <script type="text/javascript" src="https://www.mozilla.org/media/js/fxa.3465945dcb1c.js" charset="utf-8"></script>
-        <script type="text/javascript" src="https://www.mozilla.org/media/js/data.309416ba6525.js" charset="utf-8"></script>
+        <script src="https://www.mozilla.org/media/js/lib.126e077be006.js"></script>
+        <script src="https://www.mozilla.org/media/js/ui.884c57ada286.js"></script>
+        <script src="https://www.mozilla.org/media/js/fxa.2df4db70e0ac.js"></script>
+        <script src="https://www.mozilla.org/media/js/data.c979213b5942.js"></script>
       <!--<![endif]-->
     
 
@@ -2155,11 +2076,11 @@ artificial intelligence (AI), accountability for big tech corporations, and more
     
       
         <!--[if !IE]><!-->
-          <script type="text/javascript" src="https://www.mozilla.org/media/js/stub-attribution.57de0a54bd84.js" charset="utf-8"></script>
+          <script src="https://www.mozilla.org/media/js/stub-attribution.dd95fd8c37dd.js"></script>
         <!--<![endif]-->
 
         <!--[if gte IE 8]>
-          <script type="text/javascript" src="https://www.mozilla.org/media/js/stub-attribution-ie.d1a3d1a43e87.js" charset="utf-8"></script>
+          <script src="https://www.mozilla.org/media/js/stub-attribution-ie.97150e36c0b2.js"></script>
         <![endif]-->
       
     
@@ -2174,11 +2095,11 @@ artificial intelligence (AI), accountability for big tech corporations, and more
 
 
 
-  <script type="text/javascript" src="https://www.mozilla.org/media/js/home-contentful.85538a2462c5.js" charset="utf-8"></script>
-  <script type="text/javascript" src="https://www.mozilla.org/media/js/newsletter.123c79d27dac.js" charset="utf-8"></script>
+  <script src="https://www.mozilla.org/media/js/home-contentful.989dc9a1a090.js"></script>
+  <script src="https://www.mozilla.org/media/js/newsletter.9bd6f188c483.js"></script>
 
   
-    <script type="text/javascript" src="https://www.mozilla.org/media/js/firefox-app-store-banner.43a61621f4d6.js" charset="utf-8"></script>
+    <script src="https://www.mozilla.org/media/js/firefox-app-store-banner.6e3a61e33026.js"></script>
   
 
 

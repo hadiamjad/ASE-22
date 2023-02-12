@@ -1,0 +1,1 @@
+[{'level': 'SEVERE', 'message': 'https://www.adobe.com/marketingtech/main.min.js 0:13687 Uncaught SyntaxError: Unexpected identifier', 'source': 'javascript', 'timestamp': 1676214120794}, {'level': 'SEVERE', 'message': 'https://www.adobe.com/marketingtech/main.min.js 0:13687 Uncaught SyntaxError: Unexpected identifier', 'source': 'javascript', 'timestamp': 1676214121938}]

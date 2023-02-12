@@ -1,0 +1,1 @@
+[{'level': 'SEVERE', 'message': 'https://www.digitalocean.com/_next/static/chunks/pages/_app-9c724bcc35d1c2e2.js 0:109569 Uncaught SyntaxError: Unexpected identifier', 'source': 'javascript', 'timestamp': 1676215290124}]

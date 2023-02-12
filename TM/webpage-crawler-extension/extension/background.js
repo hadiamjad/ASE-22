@@ -170,7 +170,7 @@ function onEvent(debuggeeId, message, params) {
                   //data.response = data.response + "Object.defineProperty(window, 'd', {value: function(){console.log('hadi')}});";
                   // data.response = editResponse(data.response, stmt[params.request.url][i][1], stmt[params.request.url][i][2]);
                   lines = data.response.split(/\r\n|\r|\n/);
-                  lines[stmt[params.request.url][i][1]] = setCharAt(lines[stmt[params.request.url][i][1]] ,stmt[params.request.url][i][2],'x');
+                  lines[stmt[params.request.url][i][1]] = setCharAt(lines[stmt[params.request.url][i][1]] ,stmt[params.request.url][i][2],'.');
                   data.response = lines.join('\n');
                   // data.response = replaceMethod(data.response, stmt[params.request.url][i][0]);
                 }

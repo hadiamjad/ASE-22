@@ -19,11 +19,11 @@ df = pd.read_csv(r"/home/student/TrackerSift/ASE-22/csv/test.csv")
 #df = pd.DataFrame([[sys.argv[1]]], columns=["website"])
 
 
-count = 65
+count = 0
 
 for i in df.index:
     try:
-        if i < 90:
+        if i < 0:
             pass
         else:
             dic = {}
@@ -50,7 +50,7 @@ for i in df.index:
             )
             driver.get(r"https://www." + df["website"][i])
 
-            time.sleep(10)
+            time.sleep(20)
 
             # Collecting Metrics
             # 1: page HTML

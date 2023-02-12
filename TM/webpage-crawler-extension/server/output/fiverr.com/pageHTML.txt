@@ -1,0 +1,824 @@
+<html lang="en-US"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="Cache-Control" content="no-cache"><link rel="shortcut icon" href="data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAABMLAAATCwAAAAAAAAAAAAAAAAAAAAAAAHO/HQBzvx0Hc78dSXO/Hahzvx3kc78d+3O/Hftzvx3kc78dqHO/HUhzvx0Hc78dAAAAAAAAAAAAc78fAHO/HQBzvx0Yc78dknO/He9zvx3/c78d/3O/Hf9zvx3/c78d/3O/Hf9zvx3uc78dknO/HRhzvx0Ac78cAHO/HQBzvx0Yc78dsXO/Hf9zvx3/cr4b/3G+Gf9yvxv/c78d/3K+G/9xvhn/cr4b/3O/Hf9zvx2xc78dGHO/HQBzvx0Gc78dknO/Hf9zvx3/c78e/43LR/+c0l//hMc5/3K/G/+JyUH/nNJf/4jJP/9zvxz/c78d/3O/HZJzvx0Gc78dSXO/He1zvx3/c78d/3TAH//O6K///////67afP9wvRf/v+KY//////+74JL/cb4a/3O/Hf9zvx3tc78dSXO/Hahzvx3/c78d/3O/Hf90wB//0Omz//////+v237/b70X/8Hjm///////veGV/3G+Gv9zvx3/c78d/3O/Hadzvx3jc78d/3O/Hf9zvx3/dMAf/9Dps///////r9t+/2+9F//B45v//////73hlf9xvhr/c78d/3O/Hf9zvx3jc78d+3O/Hf9zvx3/c78d/3S/Hv/Q6bP//////6/afv9vvRb/weOb//////+94ZX/cb4a/3O/Hf9zvx3/c78d+3O/Hftzvx3/c78c/3nCJv+23on/7Pbh///////e8Mn/w+Se/+Xz1f//////veGV/3G+Gv9zvx3/c78d/3O/Hftzvx3jc78d/3K/HP98wyz/4PHN/////v//////+/35//n89f/4/PP/+fz1/7nfjv9xvhv/c78d/3O/Hf9zvx3jc78dp3O/Hf9zvx3/dcAg/4vKQ//Z7sL//////8fmpf+SzVD/kc1N/5DMS/+CxjX/c78c/3O/Hf9zvx3/c78dqHO/HUpzvx3tc78d/3O/Hf9xvhn/uN+N///////x+en/2+/F/5/TZP9vvRf/cr8b/3O/Hf9zvx3/c78d7XO/HUlzvx0Gc78dknO/Hf9zvx3/cr8c/4DFMv/E5J//5/TZ/+334v+o13P/cb4a/3O/Hf9zvx3/c78d/3O/HZJzvx0Gc78dAHO/HRhzvx2xc78d/3O/Hf9yvxz/dMAf/37ELv+AxTL/ecIm/3O/Hf9zvx3/c78d/3O/HbFzvx0Yc78dAHS/GgBzvx0Ac78dGHO/HZJzvx3uc78d/3O/Hf9yvxz/cr8c/3O/HP9zvx3/c78d73O/HZJzvx0Yc78dAHS/GgAAAAAAAAAAAHO/HQBzvx0Hc78dSXO/Hahzvx3kc78d+3O/Hftzvx3kc78dqHO/HUlzvx0Hc78dAAAAAAAAAAAA4AcAAMADAACAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAADAAwAA4AcAAA=="><meta name="googlebot" content="noindex"><meta name="robots" content="noindex"><title>Your Access To This Website Has Been Blocked</title><style>html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    height: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+article, aside, figure, footer, header, hgroup, nav, section { display: block; }
+
+ul, ol, nav ul, nav ol {
+    list-style: none;
+    list-style-image: none;
+}
+body {
+    background: #fff;
+    font: 400 14px/20px 'Macan', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #0e0e0f;
+    vertical-align: top;
+    min-height: 100%;
+    position: relative;
+}
+
+@media (max-width: 1000px) {
+    body {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}
+
+h1 {
+    font-size: 28px;
+    line-height: 120%;
+    color: #555;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 32px;
+}
+
+.center, .center * {
+    text-align: center;
+}
+
+main {
+    padding: 50px 0;
+}
+
+main > * {
+    max-width: 666px;
+    margin: 0 auto;
+}
+
+@media (max-width: 700px) {
+    main > * {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: #1DBF73;
+}
+h1 {
+    margin: 1em 0 1em;
+}
+
+h2 {
+    margin: .5em 0 1em;
+}
+
+p {
+    padding: 20px 0;
+}
+
+/* Google reCAPTCHA */
+.g-recaptcha {
+    display: flex;
+    justify-content: center;
+}
+
+#recaptcha_widget > div {
+    margin: 0 auto;
+}
+
+/* PerimeterX Human Challenge */
+
+@keyframes px-challenge-appear {
+    0% { max-height: 0px; }
+    60% { max-height: 0px; }
+    100% { max-height: 200px; }
+}
+
+#px-captcha > iframe {
+    margin: 0 auto;
+    animation: px-challenge-appear .6s ease-in;
+}
+
+.px-loader-wrapper {
+    justify-content: space-around;
+}
+
+
+.quickfix {
+    border: 1px solid #1dbf73;
+    border-radius: 3px;
+    position: relative;
+
+    &:before {
+        content: 'quick fixes';
+        position: absolute;
+        top: -1em;
+        left: 1em;
+        background: white;
+        padding: 0 .5em;
+        font-size: .75em;
+        font-style: italic;
+        font-weight: bold;
+    }
+
+    li {
+        text-align: left;
+        margin: 1em 1em 1em 2em;
+        list-style-type: disc;
+    }
+}</style><style>h1 {
+  margin: 1em 0 1em;
+}
+
+h2 {
+  margin: 0.5em 0 1em;
+}
+
+p {
+  padding: 20px 0;
+}
+
+/* Google reCAPTCHA */
+.g-recaptcha {
+  display: flex;
+  justify-content: center;
+}
+
+#recaptcha_widget > div {
+  margin: 0 auto;
+}
+
+/* PerimeterX Human Challenge */
+@keyframes px-challenge-appear {
+  0% {
+    max-height: 0px;
+  }
+  60% {
+    max-height: 0px;
+  }
+  100% {
+    max-height: 200px;
+  }
+}
+#px-captcha > iframe {
+  margin: 0 auto;
+  animation: px-challenge-appear 0.6s ease-in;
+}
+
+.px-loader-wrapper {
+  justify-content: space-around;
+}
+
+.quickfix {
+  border: 1px solid #1dbf73;
+  border-radius: 3px;
+  position: relative;
+}
+.quickfix:before {
+  content: "quick fixes";
+  position: absolute;
+  top: -1em;
+  left: 1em;
+  background: white;
+  padding: 0 0.5em;
+  font-size: 0.75em;
+  font-style: italic;
+  font-weight: bold;
+}
+.quickfix li {
+  text-align: left;
+  margin: 1em 1em 1em 2em;
+  list-style-type: disc;
+}</style><link rel="shortcut icon" href="https://npm-assets.fiverrcdn.com/assets/uploads/favicon.ico"><meta name="description" content="Something in your behavior has triggered our protection systems - we apologise for any inconvenience this process may have caused."><meta http-equiv="status" content="403 Forbidden"><meta property="og:type" content="website"><meta property="og:url" content="https://www.fiverr.com"><meta property="og:title" content="Fiverr - Freelance Services Marketplace for Businesses"><meta property="og:description" content="Fiverr's mission is to change how the world works together. Fiverr connects businesses with freelancers offering digital services in 500+ categories."><meta property="og:image" content="https://npm-assets.fiverrcdn.com/assets/uploads/fiverr-og-logo.png"><meta itemprop="image" content="https://npm-assets.fiverrcdn.com/assets/uploads/fiverr-og-logo.png"><meta name="twitter:card" content="summary_large_image"><meta property="twitter:domain" content="www.fiverr.com"><meta property="twitter:url" content="http://www.fiverr.com"><meta name="twitter:title" content="Fiverr - Freelance Services Marketplace for Businesses"><meta name="twitter:description" content="Fiverr's mission is to change how the world works together. Fiverr connects businesses with freelancers offering digital services in 500+ categories."><meta name="twitter:image" content="https://npm-assets.fiverrcdn.com/assets/uploads/fiverr-og-logo.png"><meta name="logs_api" content="https://relay.fiverr.com/v1/relay"><meta name="facility" content="block-page-pegasus"><style type="text/css">.px-loader-wrapper {    display: flex;}@keyframes loadingEffect {    0% {        background-position: 0;    }    100% {        background-position: 60vw;    }}.px-inner-loading-area {    width: 310px;    height: 100px;    animation-name: loadingEffect;    animation-duration: 1.2s;    animation-iteration-count: infinite;    animation-timing-function: ease;    animation-fill-mode: forwards;    background: linear-gradient(to right, #f6f6f6 8%, #f0f0f0 18%, #f6f6f6 33%);}.px-loading-area {    width: 310px;    height: 100px;    margin: undefined;}</style><script src="https://www.fiverr.com/cdn-proxy/px/PXK3bezZfO/main.min.js"></script></head><body><script>/* global window, document, XMLHttpRequest, atob */
+window.onerror = function (message, file, line, column, error) {
+  error = error || {};
+  var stack = error.stack || new Error().stack;
+  var XHR = new XMLHttpRequest();
+  XHR.open('POST', 'https://relay.fiverr.com/v1/log/error');
+  XHR.setRequestHeader('Content-Type', 'application/json; charset=utf-8');
+  XHR.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+  XHR.setRequestHeader('Accept', 'application/json');
+  XHR.setRequestHeader('Access-Control-Allow-Origin', window.location.origin);
+  XHR.withCredentials = true;
+  XHR.send(JSON.stringify({
+    message: message,
+    file: file,
+    line: line,
+    column: column,
+    stack: error.stack,
+    name: error.name,
+    url: document.location.href,
+    source: getSource(),
+    facility: 'block-page-pegasus'
+  }));
+  return false;
+};
+
+function getSource() {
+  try {
+    var _URL = new URL(window.location.href),
+        searchParams = _URL.searchParams;
+
+    return atob(searchParams.get('url'));
+  } catch (error) {
+    return '';
+  }
+}</script><main><section><header class="center"><svg class="fiverr-logo-static" width="132" height="40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M121 19.4h-4.6c-3 0-4.6 2.2-4.6 6.1v13.8h-8.9V19.4h-3.7c-3 0-4.6 2.2-4.6 6.1v13.8h-8.9V12h8.9v4.1C96.1 12.9 98 12 101 12h10.8v4.1c1.5-3.3 3.4-4.1 6.4-4.1h3zm-37.4 8.3H65.3c.4 3.1 2.4 4.7 5.5 4.7 2.4 0 4-1 4.6-2.7l7.9 2.2c-1.9 4.7-6.7 7.6-12.5 7.6-9.6 0-14.1-7.6-14.1-14.1 0-6.4 3.9-13.9 13.5-13.9 10.2 0 13.6 7.7 13.6 13.5 0 1.4 0 2.1-.2 2.7zm-8.4-5.2c-.1-2.4-1.9-4.4-4.9-4.4-2.8 0-4.4 1.2-5 4.4zm-34 16.8h7.7l9.8-27.1h-8.9L45.1 28l-4.7-16h-8.9zM5 39.3h8.8V19.4h8.5v19.9H31V12H13.8v-1.6c0-1.8 1.3-3 3.3-3h5.2V0h-6.5C9.3 0 5 4 5 9.8V12H0v7.4h5z" fill="#003912"></path><path d="M126.5 40c3 0 5.5-2.5 5.5-5.5s-2.5-5.5-5.5-5.5-5.5 2.5-5.5 5.5 2.5 5.5 5.5 5.5z" fill="#1dbf73"></path></svg>
+<h1>One Small Step</h1></header><article class="center"><h2>Please check the box below to access the site<br>Don't worry - you're one click away from continuing your normal visit.</h2><div id="px-captcha"><div class="px-loader-wrapper" id="px-loader"><div class="px-loading-area" style="margin: auto;"><div class="px-inner-loading-area"></div></div></div></div></article><article><p class="padded">We're dedicated to keeping Fiverr safe from malicious visitors. Something in your behavior has triggered our protection systems - we apologise for any inconvenience this process may have caused.</p><ul class="quickfix padded"><li>Ad blocking or ad filtering software may interfere with our ability to identify you as human. Please exclude<kbd> fiverr.com.</kbd></li><li>Modifying your headers or user agent string may trigger some of our detection tools. Make sure you don't have any browser extensions tampering with those.</li><li>Make sure JavaScript is enabled in your browser.</li><li>If you're still having trouble accessing the site, please contact<a href="mailto:support@fiverr.com?subject=I%20have%20been%20blocked%20from%20fiverr.com&amp;body=These%20technical%20details%20may%20be%20of%20help%3A%20%0D%0Auuid%3A%202387867d-aae9-11ed-9e61-765670486e4a%20%0D%0Aip%3A%20128.173.237.68%20%0D%0A%20What%20I%20tried%20to%20do%20before%20being%20redirected%20to%20this%20page%3A%20%0D%0A" rel="noopener noreferrer"> Customer Support</a></li></ul><noscript><div style="position:fixed; top:0; left:0;" width="1" height="1"><img src="https://collector.fiverr.com/api/v1/collector/noScript.gif?appId=PXK3bezZfO"></div><div style="position:fixed; top:0; left:0;" width="1" height="1"><img src="https://collector.fiverr.com/api/v1/collector/pxPixel.gif?appId=PXK3bezZfO"></div></noscript><script src="https://polyfill.io/v3/polyfill.js?features=es5,es6,Symbol,Object.assign,Object.fromEntries&amp;flags=gated&amp;cors=1" crossorigin="anonymous"></script><script>// modules are defined as an array
+// [ module function, map of requires ]
+//
+// map of requires is short require name -> numeric require
+//
+// anything defined in a previous bundle is accessed via the
+// orig method which is the require for previous bundles
+parcelRequire = (function (modules, cache, entry, globalName) {
+  // Save the require from previous bundle to this closure if any
+  var previousRequire = typeof parcelRequire === 'function' && parcelRequire;
+  var nodeRequire = typeof require === 'function' && require;
+
+  function newRequire(name, jumped) {
+    if (!cache[name]) {
+      if (!modules[name]) {
+        // if we cannot find the module within our internal map or
+        // cache jump to the current global require ie. the last bundle
+        // that was added to the page.
+        var currentRequire = typeof parcelRequire === 'function' && parcelRequire;
+        if (!jumped && currentRequire) {
+          return currentRequire(name, true);
+        }
+
+        // If there are other bundles on this page the require from the
+        // previous one is saved to 'previousRequire'. Repeat this as
+        // many times as there are bundles until the module is found or
+        // we exhaust the require chain.
+        if (previousRequire) {
+          return previousRequire(name, true);
+        }
+
+        // Try the node require function if it exists.
+        if (nodeRequire && typeof name === 'string') {
+          return nodeRequire(name);
+        }
+
+        var err = new Error('Cannot find module \'' + name + '\'');
+        err.code = 'MODULE_NOT_FOUND';
+        throw err;
+      }
+
+      localRequire.resolve = resolve;
+      localRequire.cache = {};
+
+      var module = cache[name] = new newRequire.Module(name);
+
+      modules[name][0].call(module.exports, localRequire, module, module.exports, this);
+    }
+
+    return cache[name].exports;
+
+    function localRequire(x){
+      return newRequire(localRequire.resolve(x));
+    }
+
+    function resolve(x){
+      return modules[name][1][x] || x;
+    }
+  }
+
+  function Module(moduleName) {
+    this.id = moduleName;
+    this.bundle = newRequire;
+    this.exports = {};
+  }
+
+  newRequire.isParcelRequire = true;
+  newRequire.Module = Module;
+  newRequire.modules = modules;
+  newRequire.cache = cache;
+  newRequire.parent = previousRequire;
+  newRequire.register = function (id, exports) {
+    modules[id] = [function (require, module) {
+      module.exports = exports;
+    }, {}];
+  };
+
+  var error;
+  for (var i = 0; i < entry.length; i++) {
+    try {
+      newRequire(entry[i]);
+    } catch (e) {
+      // Save first error but execute all entries
+      if (!error) {
+        error = e;
+      }
+    }
+  }
+
+  if (entry.length) {
+    // Expose entry point to Node, AMD or browser globals
+    // Based on https://github.com/ForbesLindesay/umd/blob/master/template.js
+    var mainExports = newRequire(entry[entry.length - 1]);
+
+    // CommonJS
+    if (typeof exports === "object" && typeof module !== "undefined") {
+      module.exports = mainExports;
+
+    // RequireJS
+    } else if (typeof define === "function" && define.amd) {
+     define(function () {
+       return mainExports;
+     });
+
+    // <script>
+    } else if (globalName) {
+      this[globalName] = mainExports;
+    }
+  }
+
+  // Override the current require with this new one
+  parcelRequire = newRequire;
+
+  if (error) {
+    // throw error from earlier, _after updating parcelRequire_
+    throw error;
+  }
+
+  return newRequire;
+})({"Kn55":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+var DEFAULT_URL = 'https://www.fiverr.com/';
+var searchParams;
+
+function getQueryString(name) {
+  var url = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : window.location.href;
+
+  try {
+    searchParams = searchParams || new URL(url).searchParams;
+    var param = searchParams.get(name);
+
+    if (typeof param !== 'string') {
+      return '';
+    }
+
+    return name === 'url' ? atob(param).replace('http://', 'https://') : param.replace(/\+/g, ' ');
+  } catch (error) {
+    return name === 'url' ? DEFAULT_URL : '';
+  }
+}
+
+exports.default = getQueryString;
+},{}],"Vbgq":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+function getClientIP(callback) {
+  typeof fetch === 'function' ? fetch('https://httpbin.org/ip').then(function (result) {
+    return result.json();
+  }).then(function (data) {
+    return callback(data.origin);
+  }).catch(function () {
+    return callback('');
+  }) : callback('');
+}
+
+exports.default = getClientIP;
+},{}],"Sssq":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+function getMailtoLink(vid, uuid, ip) {
+  var newline = ' \r\n';
+  var subject = 'I have been blocked from fiverr.com';
+  var body = [vid || uuid || ip ? 'These technical details may be of help:' : '', vid ? "".concat(newline, "vid: ") : '', vid, uuid ? "".concat(newline, "uuid: ") : '', uuid, ip ? "".concat(newline, "ip: ") : '', ip, newline, ' What I tried to do before being redirected to this page:', newline].join('');
+  var link = ['mailto:support@fiverr.com', '?subject=', encodeURIComponent(subject), '&body=', encodeURIComponent(body)].join('');
+  return link;
+}
+
+exports.default = getMailtoLink;
+},{}],"re0D":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+function appendDetail(parent, key, value) {
+  if (!key || !value) {
+    return;
+  }
+
+  var li = document.createElement('li');
+  li.appendChild(document.createTextNode("".concat(key, ": ")));
+  var kbd = document.createElement('kbd');
+  kbd.appendChild(document.createTextNode(value));
+  li.appendChild(kbd);
+  parent.appendChild(li);
+}
+
+exports.default = appendDetail;
+},{}],"XUW7":[function(require,module,exports) {
+"use strict";
+
+var __importDefault = this && this.__importDefault || function (mod) {
+  return mod && mod.__esModule ? mod : {
+    "default": mod
+  };
+};
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var appendDetail_1 = __importDefault(require("../appendDetail"));
+
+function setProvideDetails(vid, uuid, ip) {
+  var article = document.querySelector('article');
+
+  if (!article) {
+    return;
+  }
+
+  if (!(vid && uuid && ip)) {
+    return;
+  }
+
+  var p = document.createElement('p');
+  p.appendChild(document.createTextNode('You may be asked to provide the following details:'));
+  var list = document.createElement('ul');
+  appendDetail_1.default(list, 'vid', vid);
+  appendDetail_1.default(list, 'uuid', uuid);
+  appendDetail_1.default(list, 'ip', ip);
+  p.appendChild(list);
+  article.appendChild(p);
+}
+
+exports.default = setProvideDetails;
+},{"../appendDetail":"re0D"}],"ADwU":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.getMeta = void 0;
+
+function getMeta(name) {
+  var tag = document.querySelector("meta[name=\"".concat(name, "\"]"));
+  return tag && tag.getAttribute('content');
+}
+
+exports.getMeta = getMeta;
+},{}],"NJcT":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.set = exports.all = exports.SEPARATOR = exports.REPEAT_SOLVE_COOKIE_NAME = exports.EXONERATION_EXPIRATION = void 0;
+exports.EXONERATION_EXPIRATION = 9e5;
+exports.REPEAT_SOLVE_COOKIE_NAME = '_pxcrs';
+exports.SEPARATOR = '%3A';
+
+function all() {
+  var cookie = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : document.cookie;
+
+  try {
+    return Object.fromEntries(cookie.split(';').map(function (entry) {
+      return entry.split('=').map(function (part) {
+        return part.trim();
+      });
+    }));
+  } catch (error) {
+    return {};
+  }
+}
+
+exports.all = all;
+
+function set(key, value, eol) {
+  document.cookie = [[key, value].join('='), ['expires', new Date(eol).toUTCString()].join('='), ['max-age', Math.floor((eol - Date.now()) / 1000)].join('='), 'domain=.fiverr.com', 'path=/', 'samesite=none', 'secure'].join('; ');
+}
+
+exports.set = set;
+},{}],"L7pE":[function(require,module,exports) {
+"use strict";
+
+function _slicedToArray(arr, i) { return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _unsupportedIterableToArray(arr, i) || _nonIterableRest(); }
+
+function _nonIterableRest() { throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+
+function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
+
+function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
+
+function _iterableToArrayLimit(arr, i) { var _i = arr == null ? null : typeof Symbol !== "undefined" && arr[Symbol.iterator] || arr["@@iterator"]; if (_i == null) return; var _arr = []; var _n = true; var _d = false; var _s, _e; try { for (_i = _i.call(arr); !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"] != null) _i["return"](); } finally { if (_d) throw _e; } } return _arr; }
+
+function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
+
+var __importDefault = this && this.__importDefault || function (mod) {
+  return mod && mod.__esModule ? mod : {
+    "default": mod
+  };
+};
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.log = void 0;
+
+var getQueryString_1 = __importDefault(require("../getQueryString"));
+
+var getMeta_1 = require("../getMeta");
+
+var cookie_1 = require("../cookie");
+
+var api = getMeta_1.getMeta('logs_api');
+var facility = getMeta_1.getMeta('facility');
+var meta = {
+  facility: facility
+};
+var cookies = cookie_1.all();
+
+var enrichment = function () {
+  try {
+    return Object.fromEntries([['referrer', document.referrer], ['vid', cookies._pxvid], ['u_guid', cookies.u_guid], ['uuid', getQueryString_1.default('uuid')], ['source', getQueryString_1.default('url')], ['query', window.location.search]].filter(function (_ref) {
+      var _ref2 = _slicedToArray(_ref, 2),
+          key = _ref2[0],
+          value = _ref2[1];
+
+      return value;
+    }));
+  } catch (error) {
+    return {};
+  }
+}();
+
+function log(logs) {
+  if (!api || !logs.length || !window.fetch) {
+    return;
+  }
+
+  logs.forEach(function (log) {
+    return Object.assign(log, enrichment);
+  });
+  window.fetch(api, {
+    method: 'POST',
+    mode: 'cors',
+    credentials: 'same-origin',
+    headers: {
+      'Content-type': 'application/json',
+      'X-Requested-With': 'XMLHttpRequest',
+      'Accept': 'application/json'
+    },
+    body: JSON.stringify({
+      logs: logs,
+      meta: meta
+    })
+  });
+}
+
+exports.log = log;
+},{"../getQueryString":"Kn55","../getMeta":"ADwU","../cookie":"NJcT"}],"UC07":[function(require,module,exports) {
+"use strict";
+
+function _slicedToArray(arr, i) { return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _unsupportedIterableToArray(arr, i) || _nonIterableRest(); }
+
+function _nonIterableRest() { throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+
+function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
+
+function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
+
+function _iterableToArrayLimit(arr, i) { var _i = arr == null ? null : typeof Symbol !== "undefined" && arr[Symbol.iterator] || arr["@@iterator"]; if (_i == null) return; var _arr = []; var _n = true; var _d = false; var _s, _e; try { for (_i = _i.call(arr); !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"] != null) _i["return"](); } finally { if (_d) throw _e; } } return _arr; }
+
+function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
+
+var __importDefault = this && this.__importDefault || function (mod) {
+  return mod && mod.__esModule ? mod : {
+    "default": mod
+  };
+};
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var getQueryString_1 = __importDefault(require("../getQueryString"));
+
+var log_1 = require("../log");
+
+var cookie_1 = require("../cookie");
+
+var DEFAULT_ADDRESS = 'https://www.fiverr.com';
+var SOURCE_DOMAIN_PATTERN = /\.fiverr\.com$/;
+
+function onCaptchaSuccess(isValid) {
+  var records = [];
+  setTimeout(function () {
+    try {
+      var post_form = document.forms['post_form'];
+
+      if (post_form) {
+        post_form.submit();
+      } else {
+        var source = getQueryString_1.default('url');
+
+        var _URL = new URL(source),
+            hostname = _URL.hostname;
+
+        window.location.replace(SOURCE_DOMAIN_PATTERN.test(hostname) ? source : DEFAULT_ADDRESS);
+      }
+    } catch (error) {
+      window.location.replace(DEFAULT_ADDRESS);
+    }
+  });
+
+  try {
+    var repeatSolveCookie = cookie_1.all(document.cookie)[cookie_1.REPEAT_SOLVE_COOKIE_NAME];
+
+    if (typeof repeatSolveCookie === 'string') {
+      var _repeatSolveCookie$sp = repeatSolveCookie.split(cookie_1.SEPARATOR).map(Number),
+          _repeatSolveCookie$sp2 = _slicedToArray(_repeatSolveCookie$sp, 2),
+          iterations = _repeatSolveCookie$sp2[0],
+          beginning = _repeatSolveCookie$sp2[1];
+
+      iterations && beginning && cookie_1.set(cookie_1.REPEAT_SOLVE_COOKIE_NAME, [iterations + 1, beginning].join(cookie_1.SEPARATOR), beginning + cookie_1.EXONERATION_EXPIRATION);
+    } else {
+      cookie_1.set(cookie_1.REPEAT_SOLVE_COOKIE_NAME, [1, Date.now()].join(cookie_1.SEPARATOR), Date.now() + cookie_1.EXONERATION_EXPIRATION);
+    }
+  } catch (error) {
+    setTimeout(function () {
+      throw error;
+    });
+  }
+
+  typeof window.fetch === 'function' && window.fetch(['https://relay.fiverr.com/v2/pixel/count/static_pages.block_page.', isValid ? 'captcha_solved' : 'captcha_failed'].join(''));
+  isValid || records.push({
+    message: 'Challenge result was invalid',
+    level: 'warn',
+    interval: 0,
+    code: 'CHALLENGE_FAILURE',
+    file: 'inCaptchaSuccess'
+  });
+  log_1.log(records);
+}
+
+exports.default = onCaptchaSuccess;
+},{"../getQueryString":"Kn55","../log":"L7pE","../cookie":"NJcT"}],"uwef":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+function setMailto(link) {
+  var anchor = document.querySelector('a[href="mailto:support@fiverr.com"]');
+
+  if (!anchor) {
+    return;
+  }
+
+  anchor.setAttribute('href', link);
+}
+
+exports.default = setMailto;
+},{}],"Z3cH":[function(require,module,exports) {
+"use strict";
+
+function _slicedToArray(arr, i) { return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _unsupportedIterableToArray(arr, i) || _nonIterableRest(); }
+
+function _nonIterableRest() { throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+
+function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
+
+function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
+
+function _iterableToArrayLimit(arr, i) { var _i = arr == null ? null : typeof Symbol !== "undefined" && arr[Symbol.iterator] || arr["@@iterator"]; if (_i == null) return; var _arr = []; var _n = true; var _d = false; var _s, _e; try { for (_i = _i.call(arr); !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"] != null) _i["return"](); } finally { if (_d) throw _e; } } return _arr; }
+
+function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.onPageView = void 0;
+
+var cookie_1 = require("../cookie");
+
+var log_1 = require("../log");
+
+function onPageView() {
+  try {
+    var repeatSolveCookie = cookie_1.all(document.cookie)[cookie_1.REPEAT_SOLVE_COOKIE_NAME];
+
+    if (typeof repeatSolveCookie === 'string') {
+      var _repeatSolveCookie$sp = repeatSolveCookie.split(cookie_1.SEPARATOR).map(Number),
+          _repeatSolveCookie$sp2 = _slicedToArray(_repeatSolveCookie$sp, 2),
+          iterations = _repeatSolveCookie$sp2[0],
+          beginning = _repeatSolveCookie$sp2[1];
+
+      var interval = Date.now() - beginning;
+
+      if (interval < cookie_1.EXONERATION_EXPIRATION) {
+        log_1.log([{
+          message: "Revisiting block page after challenge solve: ".concat(iterations, " in ").concat(Math.round(interval / 1000), " seconds."),
+          level: 'warn',
+          interval: interval,
+          code: 'REPEAT_CHALLENGE_SOLVE'
+        }]);
+      }
+    }
+  } catch (error) {
+    setTimeout(function () {
+      throw error;
+    });
+  }
+}
+
+exports.onPageView = onPageView;
+},{"../cookie":"NJcT","../log":"L7pE"}],"mkjQ":[function(require,module,exports) {
+"use strict";
+
+var __importDefault = this && this.__importDefault || function (mod) {
+  return mod && mod.__esModule ? mod : {
+    "default": mod
+  };
+};
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.onPageView = exports.onCaptchaSuccess = exports.setMailto = exports.setProvideDetails = exports.getMailtoLink = exports.getClientIP = exports.getQueryString = void 0;
+
+var getQueryString_1 = __importDefault(require("./getQueryString"));
+
+exports.getQueryString = getQueryString_1.default;
+
+var getClientIP_1 = __importDefault(require("./getClientIP"));
+
+exports.getClientIP = getClientIP_1.default;
+
+var getMailtoLink_1 = __importDefault(require("./getMailtoLink"));
+
+exports.getMailtoLink = getMailtoLink_1.default;
+
+var setProvideDetails_1 = __importDefault(require("./setProvideDetails"));
+
+exports.setProvideDetails = setProvideDetails_1.default;
+
+var onCaptchaSuccess_1 = __importDefault(require("./onCaptchaSuccess"));
+
+exports.onCaptchaSuccess = onCaptchaSuccess_1.default;
+
+var setMailto_1 = __importDefault(require("./setMailto"));
+
+exports.setMailto = setMailto_1.default;
+
+var onPageView_1 = require("./onPageView");
+
+Object.defineProperty(exports, "onPageView", {
+  enumerable: true,
+  get: function get() {
+    return onPageView_1.onPageView;
+  }
+});
+},{"./getQueryString":"Kn55","./getClientIP":"Vbgq","./getMailtoLink":"Sssq","./setProvideDetails":"XUW7","./onCaptchaSuccess":"UC07","./setMailto":"uwef","./onPageView":"Z3cH"}],"KqmS":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var index_1 = require("./lib/index");
+
+var vid = index_1.getQueryString('vid');
+var uuid = index_1.getQueryString('uuid');
+index_1.getClientIP(function (ip) {
+  index_1.setMailto(index_1.getMailtoLink(vid, uuid, ip));
+  index_1.setProvideDetails(vid, uuid, ip);
+});
+window._pxOnCaptchaSuccess = index_1.onCaptchaSuccess;
+window._pxAppId = 'PXK3bezZfO';
+window._pxJsClientSrc = 'https://www.fiverr.com/cdn-proxy/px/PXK3bezZfO/main.min.js';
+window._pxHostUrl = 'https://collector.fiverr.com';
+window._pxFirstPartyEnabled = true;
+window._pxVid = vid;
+window._pxUuid = uuid;
+index_1.onPageView();
+},{"./lib/index":"mkjQ"}]},{},["KqmS"], null)</script><script src="https://captcha.px-cdn.net/PXK3bezZfO/captcha.js?a=c&amp;m=0&amp;cors=1" crossorigin="anonymous"></script><img src="https://relay.fiverr.com/v2/pixel/count/static_pages.block_page.beacon" style="visibility:hidden">
+</article></section></main></body></html>

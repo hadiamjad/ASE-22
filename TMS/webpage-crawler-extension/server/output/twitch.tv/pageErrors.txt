@@ -1,0 +1,1 @@
+[{'level': 'SEVERE', 'message': 'https://static.twitchcdn.net/assets/core-abdcb2c690b098f34cf8.js - Failed to load resource: net::ERR_BLOCKED_BY_CLIENT', 'source': 'network', 'timestamp': 1676175529779}]

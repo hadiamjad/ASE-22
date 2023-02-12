@@ -1,0 +1,1 @@
+[{'level': 'SEVERE', 'message': 'https://store.steampowered.com/ 23:6 Uncaught SyntaxError: Unexpected identifier', 'source': 'javascript', 'timestamp': 1676214720294}]
