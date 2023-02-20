@@ -1,0 +1,1 @@
+[{'level': 'SEVERE', 'message': 'https://cdn.taboola.com/scripts/cds-pips.js - Failed to load resource: net::ERR_BLOCKED_BY_CLIENT', 'source': 'network', 'timestamp': 1676771631288}, {'level': 'SEVERE', 'message': 'https://tag.segmetrics.io/aZBxp9.js - Failed to load resource: the server responded with a status of 403 ()', 'source': 'network', 'timestamp': 1676771631430}]

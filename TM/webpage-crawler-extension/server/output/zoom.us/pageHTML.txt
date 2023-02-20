@@ -42,13 +42,13 @@ resourceAccountIdRoutingURl = resourceAccountIdRoutingURl==""?undefined:resource
 </script>
 <script nonce="">
 var _market_OneTrust_CookieArray = [];
-_market_OneTrust_CookieArray.push({name: "_zm_tracking_guid", value: "fb77ab91e623436c98f1ba9c7dc7c71c"});
+_market_OneTrust_CookieArray.push({name: "_zm_tracking_guid", value: "94f280ca8f2948e98149abb5aeb646ca"});
 var _zm_cookie_domain = ".zoom.us";
 </script>
 <script nonce="" src="https://st3.zoom.us/static/6.3.11147/js/app/market_onetrust_cookie.min.js" type="text/plain" class="optanon-category-C0004"></script><script nonce="" type="text/javascript">
 </script>
 <script nonce="">
-window.zmGlobalMrktId = "caac6e7a69f34162bf0be0e26c731f43" || null;
+window.zmGlobalMrktId = "a7e9ce89bc5943a0b9f0043b3db7c5f5" || null;
 window.zmGlobalMrktKey = "" || null;
 window['optimizely'] = window['optimizely'] || [];
 window["optimizely"].push({
@@ -193,7 +193,7 @@ padding-left: 10px;
 border-left: 1px solid;
 margin-left: 10px;
 }
-</style><style id="solvvy-lazy-button-styles">
+</style><script src="https://cdn.cookielaw.org/scripttemplates/6.21.0/otBannerSdk.js" nonce="" async="" type="text/javascript"></script><style id="solvvy-lazy-button-styles">
   .solvvy-lazy-button {
     position: fixed;
     z-index: 1900000000;
@@ -266,7 +266,7 @@ margin-left: 10px;
           transform: rotate(360deg);
       }
     }
-  </style><script type="text/javascript" async="" src="https://static.ada.support/embed2.7120077.js"></script><script src="https://cdn.cookielaw.org/scripttemplates/6.21.0/otBannerSdk.js" nonce="" async="" type="text/javascript"></script></head>
+  </style><script type="text/javascript" async="" src="https://static.ada.support/embed2.7120077.js"></script></head>
 <body class="     " data-cd=".zoom.us">
 <div class="total-main-content">
 <div id="skiptocontent">
@@ -1211,7 +1211,7 @@ Browse backgrounds</a>
 <div class="p-container">
 <div id="progress" class="p-progress"></div>
 </div>
-<div class="swiper-wrapper" id="swiper-wrapper-1d954bcf83144340" aria-live="off" style="transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" aria-label="One platform to innovate" data-swiper-slide-index="2" role="group" style="width: 210px; transition-duration: 0ms; opacity: 1; transform: translate3d(0px, 0px, 0px);">
+<div class="swiper-wrapper" id="swiper-wrapper-7c553102fe47658a7" aria-live="off" style="transition-duration: 300ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" aria-label="One platform to innovate" data-swiper-slide-index="2" role="group" style="width: 210px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
 <div class="screen1-container">
 <div class="left-section">
 <span class="title font-happy">One platform<br> to <span class="changed">innovate</span></span>
@@ -1238,7 +1238,7 @@ Bring teams together, reimagine workspaces, engage new audiences, and delight yo
 </div>
 </div>
 </div>
-<div class="swiper-slide swiper-slide-duplicate-active" aria-label="One platform to connect" data-swiper-slide-index="0" role="group" style="width: 210px; transition-duration: 0ms; opacity: 1; transform: translate3d(-210px, 0px, 0px);">
+<div class="swiper-slide swiper-slide-duplicate-next" aria-label="One platform to connect" data-swiper-slide-index="0" role="group" style="width: 210px; opacity: 1; transform: translate3d(-210px, 0px, 0px); transition-duration: 300ms;">
 <div class="screen1-container">
 <div class="left-section">
 <h1 class="font-happy">One platform <br>to <span class="changed">connect</span></h1>
@@ -1265,7 +1265,7 @@ Bring teams together, reimagine workspaces, engage new audiences, and delight yo
 </div>
 </div>
 </div>
-<div class="swiper-slide" aria-label="One platform to create" data-swiper-slide-index="1" role="group" style="width: 210px; transition-duration: 0ms; opacity: 1; transform: translate3d(-420px, 0px, 0px);">
+<div class="swiper-slide swiper-slide-prev" aria-label="One platform to create" data-swiper-slide-index="1" role="group" style="width: 210px; opacity: 1; transform: translate3d(-420px, 0px, 0px); transition-duration: 300ms;">
 <div class="screen1-container">
 <div class="left-section">
 <span class="title font-happy">One platform<br> to <span class="changed">create</span></span>
@@ -1292,7 +1292,7 @@ Bring teams together, reimagine workspaces, engage new audiences, and delight yo
 </div>
 </div>
 </div>
-<div class="swiper-slide swiper-slide-prev swiper-slide-duplicate-next" aria-label="One platform to innovate" data-swiper-slide-index="2" role="group" style="width: 210px; transition-duration: 0ms; opacity: 1; transform: translate3d(-630px, 0px, 0px);">
+<div class="swiper-slide swiper-slide-visible swiper-slide-active" aria-label="One platform to innovate" data-swiper-slide-index="2" role="group" style="width: 210px; opacity: 1; transform: translate3d(-630px, 0px, 0px); transition-duration: 300ms;">
 <div class="screen1-container">
 <div class="left-section">
 <span class="title font-happy">One platform<br> to <span class="changed">innovate</span></span>
@@ -1320,7 +1320,7 @@ Bring teams together, reimagine workspaces, engage new audiences, and delight yo
 </div>
 </div>
 <div class="swiper-pagination"></div>
-<div class="swiper-slide swiper-slide-duplicate swiper-slide-visible swiper-slide-active" aria-label="One platform to connect" data-swiper-slide-index="0" role="group" style="width: 210px; transition-duration: 0ms; opacity: 1; transform: translate3d(-840px, 0px, 0px);">
+<div class="swiper-slide swiper-slide-duplicate swiper-slide-next" aria-label="One platform to connect" data-swiper-slide-index="0" role="group" style="width: 210px; opacity: 0; transform: translate3d(-840px, 0px, 0px); transition-duration: 300ms;">
 <div class="screen1-container">
 <div class="left-section">
 <h1 class="font-happy">One platform <br>to <span class="changed">connect</span></h1>
@@ -1370,7 +1370,7 @@ Bring teams together, reimagine workspaces, engage new audiences, and delight yo
 <div class="section2-right product-details">
 <div class="slide-blue-bg"></div>
 <div class="swiper productSwiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
-<div class="swiper-wrapper" id="swiper-wrapper-32cdcffaf5f2be2d" aria-live="polite" style="transition-duration: 0ms; transform: translate3d(0px, 0px, 0px);">
+<div class="swiper-wrapper" id="swiper-wrapper-1f67aa2fb910a444f" aria-live="polite" style="transition-duration: 0ms; transform: translate3d(0px, 0px, 0px);">
 <div class="swiper-slide product-slide swiper-slide-active" id="tabpanel-1" role="group" aria-labelledby="tab-1" aria-label="1 / 5" style="width: 210px;">
 <div class="image-wrapper">
 <div class="img-container">
@@ -1756,7 +1756,7 @@ Securely connect and collaborate so you can work better together. Simple to mana
 </ul>
 </div>
 <div class="swiper production-container swiper-fade swiper-initialized swiper-horizontal swiper-pointer-events swiper-watch-progress" style="display: none;">
-<div class="swiper-wrapper" id="swiper-wrapper-a1071be47eafc1d54" aria-live="polite" style="transition-duration: 0ms;">
+<div class="swiper-wrapper" id="swiper-wrapper-d819cbd6c4152baa" aria-live="polite" style="transition-duration: 0ms;">
 <div class="swiper-slide details-slide" id="tabpanel2-1" role="tabpanel" aria-labelledby="tab2-1">
 <i class="zm-icon-close" tabindex="0"></i>
 <img src="https://st3.zoom.us/static/6.3.11147/image/home2/industry1.jpg" alt="Zoom for Education">
@@ -1884,13 +1884,13 @@ Securely connect and collaborate so you can work better together. Simple to mana
 <a href="https://blog.zoom.us/" target="_blank" class="blog-link white-border-link default-link">Read Our Blog</a>
 </div>
 <div class="slide-controll-container">
-<div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="scroll left" aria-controls="swiper-wrapper-bcc1658a3955f8a7" aria-disabled="true"></div>
-<div class="swiper-button-next" tabindex="0" role="button" aria-label="scroll right" aria-controls="swiper-wrapper-bcc1658a3955f8a7" aria-disabled="false"></div>
+<div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="scroll left" aria-controls="swiper-wrapper-885787e4e83c11054" aria-disabled="true"></div>
+<div class="swiper-button-next" tabindex="0" role="button" aria-label="scroll right" aria-controls="swiper-wrapper-885787e4e83c11054" aria-disabled="false"></div>
 </div>
 </div>
 <div class="right-section">
 <div class="swiper blogSwiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
-<div class="swiper-wrapper blog-wrapper" id="swiper-wrapper-bcc1658a3955f8a7" aria-live="polite" style="transition-duration: 0ms; transform: translate3d(40px, 0px, 0px);">
+<div class="swiper-wrapper blog-wrapper" id="swiper-wrapper-885787e4e83c11054" aria-live="polite" style="transition-duration: 0ms; transform: translate3d(40px, 0px, 0px);">
 <div class="swiper-slide blog-slide swiper-slide-active" aria-label="1 / 5" style="margin-right: 40px;">
 <span class="blank-flag">Report</span>
 <img src="https://file-paa.zoom.us/-LprHl7oSHutvUJ4NyRf1w/MS4xLldaw0mDRci-xcf9vhRYA3T740lNUnyLImdDzZSQlQ9s/ffb5bd00-c9bd-415d-a9ad-087a40185622.jpg" alt="A Recognized Magic Quadrant Leader!">
@@ -2857,8 +2857,4 @@ a.R.isArray(c);(e||a.R.N(d))&&a.re.ee([a.re.$r({name:b,data:a.re.Pr(e?c:void 0,!
 a.re.rn(b)},stopInteraction:function(b){a.R.S(b)&&a.re.rn(b,!0)}};g.namespace?m[g.namespace]||(m[g.namespace]=A):A.init(G)}(),_ds.init(config));</script><script type="text/javascript" id="">(function(){function g(a,b,e){if(a.addEventListener)a.addEventListener(b,e);else if(a.attachEvent)a.attachEvent("on"+b,function(d){e.call(a,d)});else if("undefined"===typeof a["on"+b]||null===a["on"+b])a["on"+b]=function(d){e.call(a,d)}}g(window,"message",function(a){try{if(a.data&&"https://zoom.ada.support"===a.origin){event_label=localStorage.getItem("chatter");var b="",e=JSON.parse(a.data),d=e&&e.type,c=e&&e.payload,f=c&&c.actionKey;a=c.event_data&&c.event_data.event_name;var h=c.messages&&c.messages[0]&&
 c.messages[0].event;"DISPATCH"==d?"toggleChat"==f?b="toggle-"+(c.payload&&c.payload.isTrusted?"open":"close"):"sendUnreadMessages"==f&&(b="agent_depart"==h?"agent-depart":"message-from-bot"):"CHATTER"==d?(b="conversation-start",event_label=event_label||c.chatter):"CREATE_NOTIFICATION"==d?b="message-from-agent":"END_CONVERSATION"==d&&"END_CONVERSATION"==a?b="conversation-end":"CUSTOM_JAVASCRIPT"==d&&"chat_started"==a&&(b="conversation-start-new");b&&window.dataLayer.push({event:"chatEngagement",category:"Chat",
 action:"chat-"+b,label:event_label})}}catch(k){console.log("GTM Chat Listener UTIL: ",k)}});window.dataLayer=window.dataLayer||[]})(window);</script><script type="text/javascript" id="">var cur=document.location.pathname,lps="/de/lp/small-business-guide/ /de/lp/zoom-total-economic-impact/ /docs/de-de/hybrid-learning-guide.html /de/cloud-pbx/ /docs/en-us/hybrid-learning-guide.html /en/lp/next-phase-of-work-ebook/ /docs/en-us/running-engaging-online-events.html /es/cloud-pbx/ /docs/fr-fr/hybrid-learning-guide.html /fr/cloud-pbx/ /docs/jp-jp/hybrid-learning-guide.html /ja/cloud-pbx/ /pt/cloud-pbx/ /en/collaboration-culture-and-creativity-in-the-new-workplace/ /en/gartner-ucaas-2021/ /en/growth-opportunities-virtual-events-webinars/ /en/lp/campus-events-guide/ /en/lp/hybrid-work-culture/ /en/lp/real-cost-ucaas-solution/ /en/lp/small-business-guide/ /en/lp/the-ultimate-guide-for-event-hosts-and-virtual-presenters/ /en/lp/zoom-total-economic-impact/ /en/lp/next-phase-of-work-ebook/ /en/why-cloud-telephony-in-2021/ /es/lp/small-business-guide/ /es/lp/zoom-total-economic-impact/ /fr/lp/small-business-guide/ /fr/lp/zoom-total-economic-impact/ /ja/lp/small-business-guide/ /ja/lp/zoom-total-economic-impact/ /ko/lp/small-business-guide/ /ko/lp/zoom-total-economic-impact/ /pt/lp/small-business-guide/ /pt/lp/zoom-total-economic-impact/ /docs/en-us/executive-admin-guide.html /en/cloud-pbx/ /en/lp/next-phase-of-work-ebook/ /docs/en-us/running-engaging-online-events.html /en/lp/video-engagement-survey/ /docs/en-us/future-of-work.html /en/gartner-meetings-2021/ /es/gartner-ucaas-2021/ /fr/gartner-ucaas-2021/ /pt/gartner-ucaas-2021/ /de/gartner-ucaas-2021/ /ja/gartner-ucaas/ /docs/en-us/all-hands-guide.html".split(" ");
-if(-1<lps.indexOf(cur))sessionStorage.setItem("lp_downloads",cur),dataLayer&&dataLayer.push({isPaperDownload:"true"});else{var lp=sessionStorage.getItem("lp_downloads");lp&&lp.replace("/lp","")==cur&&dataLayer&&dataLayer.push({isFromPaperDownload:"true"})};</script><script type="text/javascript" id="">var DATALAYER_OBJECT_NAME="dataLayer",referrerOverride=function(a){var c=window[DATALAYER_OBJECT_NAME]||[];c.push({event:"optimizely-referrer-override","optimizely-referrer":a})},sendCampaignData=function(a,c){window.optimizely=window.optimizely||[];window.optimizely.push({type:"event",eventName:"step2_sendcampaigndata_begin"});if(a=optimizely.get("data")&&optimizely.get("data").campaigns[a]&&optimizely.get("data").campaigns[a].integrationSettings&&optimizely.get("data").campaigns[a].integrationSettings.google_universal_analytics&&
-optimizely.get("data").campaigns[a].integrationSettings.google_universal_analytics.universal_analytics_slot){var e=window[DATALAYER_OBJECT_NAME]||[];e.push({event:"campaign-decided","optimizely-dimension-value":c,"optimizely-dimension-number":a});window.optimizely=window.optimizely||[];window.optimizely.push({type:"event",eventName:"step2_sendcampaigndata_end"})}},initNewOptimizelyIntegration=function(a,c){var e=!1,g=function(b){var d=window.optimizely.get&&window.optimizely.get("state"),f=d.getRedirectInfo()&&
-d.getRedirectInfo().referrer;!e&&f&&(a(f),e=!0);d=d.getDecisionString({campaignId:b});c(b,d)},h=function(){window.optimizely=window.optimizely||[];window.optimizely.push({type:"addListener",filter:{type:"lifecycle",name:"campaignDecided"},handler:function(b){b=b.data.campaign.id;g(b)}})},k=function(){var b=window.optimizely&&window.optimizely.get&&window.optimizely.get("state");if(b){b=b.getCampaignStates({isActive:!0});for(var d in b)g(d)}};window.optimizely=window.optimizely||[];window.optimizely.push({type:"event",
-eventName:"step1_init_begin"});k();h();window.optimizely=window.optimizely||[];window.optimizely.push({type:"event",eventName:"step1_init_end"})},initOptimizelyIntegration=function(a,c){initNewOptimizelyIntegration(a,c)};initOptimizelyIntegration(referrerOverride,sendCampaignData);</script>
-  </body></html>
+if(-1<lps.indexOf(cur))sessionStorage.setItem("lp_downloads",cur),dataLayer&&dataLayer.push({isPaperDownload:"true"});else{var lp=sessionStorage.getItem("lp_downloads");lp&&lp.replace("/lp","")==cur&&dataLayer&&dataLayer.push({isFromPaperDownload:"true"})};</script></body></html>

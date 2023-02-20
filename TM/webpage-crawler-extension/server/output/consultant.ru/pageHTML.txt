@@ -12,8 +12,8 @@
     <meta name="theme-color" content="#ffffff">
     <title>"КонсультантПлюс" - законодательство РФ: кодексы, законы, указы, постановления Правительства Российской Федерации, нормативные акты</title>
     <meta name="csrf-param" content="_csrf">
-<meta name="csrf-token" content="6jVI9K4W6hjstHjEMQuAQ_xEJrRiPbynFPOLkVoelxSPTB2H1n-LSZrCM6lcQMFzmyx12hNpiu9xn87eIHzxVQ==">
-    <meta name="backend-number" content="1">
+<meta name="csrf-token" content="1y5-jbIWkjWgUlV1gUF3N_e1pBv4TH-dxWBf0jVef-3uSRP3_mf5f_ALGi_nLSYPrtDTVbQjCNOsCmafexsejw==">
+    <meta name="backend-number" content="2">
 <meta name="app-version" content="release-2022.4.2.611188">
 <meta name="description" content="КонсультантПлюс - законодательство РФ кодексы и законы в последней редакции. Удобный поиск законов кодексов приказов и других документов. Ежедневные обзоры законов. Консультации по бухучету и налогообложению">
 <meta name="wmail-verification" content="739899c4f2b2e58c">
@@ -162,7 +162,7 @@
             <a href="/legalnews/" target="_blank">Новости</a>
         </div>
         <div class="legal-news__list">
-            <div class="legal-news__item"><img class="legal-news__item-image" src="https://storage.consultant.ru/ondb/thumbs/202302/09/bLWe6_6aCK9bCDbhxbcVn1_TrNGPFX-q.jpeg"><div class="legal-news__item-date">10 февраля</div><a href="/legalnews/21612/" class="legal-news__item-title" target="_blank">Ключевую ставку опять не стали менять</a></div><div class="legal-news__item"><div class="legal-news__item-date">10 февраля</div><a href="/legalnews/21633/" class="legal-news__item-title" target="_blank">В Инструкцию N 191н внесли поправки, часть которых применяют при подготовке отчетности за 2022 год</a></div><div class="legal-news__item"><span class="legal-news__item-important-bage">Не пропустите</span><a href="/legalnews/21619/" class="legal-news__item-title" target="_blank">Обзор новых антикризисных мер за 4 – 10 февраля</a></div><div class="legal-news__item"><div class="legal-news__item-date">10 февраля</div><a href="/legalnews/21605/" class="legal-news__item-title" target="_blank">Кассация: учреждение нельзя обвинять в нецелевых тратах, если их причиной стала просрочка поставщика</a></div><div class="legal-news__item"><div class="legal-news__item-date">10 февраля</div><a href="/legalnews/21617/" class="legal-news__item-title" target="_blank">Суды решили, что работающему во время больничного удаленщику нужно платить зарплату, а не пособие</a></div><div class="legal-news__item"><div class="legal-news__item-date">10 февраля</div><a href="/legalnews/21599/" class="legal-news__item-title" target="_blank">УФАС напомнило: госзаказчикам не следует устанавливать 2 требования об отсутствии участников в РНП</a></div>        </div>
+            <div class="legal-news__item"><img class="legal-news__item-image" src="https://storage.consultant.ru/ondb/thumbs/202302/10/nNN3xJVF0HaGTYcDjiLo8qoJc7JLRnWt.jpeg"><div class="legal-news__item-date">сегодня</div><a href="/legalnews/21626/" class="legal-news__item-title" target="_blank">Важные новости для юриста за неделю с 6 по 10 февраля</a></div><div class="legal-news__item"><div class="legal-news__item-date">сегодня</div><a href="/legalnews/21623/" class="legal-news__item-title" target="_blank">Важные новости для бухгалтера за неделю с 6 по 10 февраля</a></div><div class="legal-news__item"><span class="legal-news__item-important-bage">Не пропустите</span><a href="/legalnews/21619/" class="legal-news__item-title" target="_blank">Обзор новых антикризисных мер за 4 – 10 февраля</a></div><div class="legal-news__item"><div class="legal-news__item-date">сегодня</div><a href="/legalnews/21624/" class="legal-news__item-title" target="_blank">Ошибки при формировании и финансировании госзаданий: примеры из практики за 2021 – 2022 годы</a></div><div class="legal-news__item"><div class="legal-news__item-date">сегодня</div><a href="/legalnews/21634/" class="legal-news__item-title" target="_blank">Кассация: можно объявить взыскание за отказ от аттестации, хотя в трудовом договоре ее не упомянули</a></div><div class="legal-news__item"><div class="legal-news__item-date">сегодня</div><a href="/legalnews/21620/" class="legal-news__item-title" target="_blank">Товар поставили в штуках вместо упаковок — суды поддержали отказ заказчика от госконтракта</a></div>        </div>
         <a class="other-link legal-news__link" href="/legalnews/" target="_blank">Все новости</a>
     </div>
 </section>
@@ -189,8 +189,8 @@
         <div class="index-page__counter">
             <section class="doc-counter index-page__block index-page__block_border-gray index-page__item_counter" id="docCounter">
     <div class="index-page__block-content">
-        <div class="doc-counter__value font-caption font-bold">274&nbsp;839&nbsp;981</div>
-        <div class="doc-counter__description">документ в&nbsp;системе КонсультантПлюс</div>
+        <div class="doc-counter__value font-caption font-bold">274&nbsp;897&nbsp;378</div>
+        <div class="doc-counter__description">документов в&nbsp;системе КонсультантПлюс</div>
     </div>
 </section>
             <section class="old-links index-page__old-links" id="oldLinks">
@@ -271,7 +271,7 @@
 </div>
 
 <div class="bn width-container index-page__bn">
-    <div id="ban__148" class="bn__inner" data-banner-zone="148" data-banner-flash="0"><div class="banner-container banner-container-148"><iframe src="//banner.consultant.ru/files/html/6473/?ban_id=6473;zone=148;from=https%3A%2F%2Fwww.consultant.ru%2F" border="0" scrolling="no" allowtransparency="true" style="border:0;max-width:1200px;max-height:92px;width:100%;"></iframe></div></div>
+    <div id="ban__148" class="bn__inner" data-banner-zone="148" data-banner-flash="0"><div class="banner-container banner-container-148"><iframe src="//banner.consultant.ru/files/html/6517/?ban_id=6517;zone=148;from=https%3A%2F%2Fwww.consultant.ru%2F" border="0" scrolling="no" allowtransparency="true" style="border:0;max-width:1200px;max-height:92px;width:100%;"></iframe></div></div>
 </div>
 </div>
 

@@ -3719,21 +3719,70 @@ body #onetrust-banner-sdk a:focus {
             <div class="integration-grid_integrationContainer__2BgCr">
                 <div class="integration-grid_list__1klCi">
                     <div class="swiper-container-integration1 swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events swiper-initialized swiper-horizontal">
-                        <div class="swiper-wrapper" id="swiper-wrapper-e5d2a3eab967dedd" aria-live="off" style="transform: translate3d(-131px, 0px, 0px); transition-duration: 10000ms;"><div class="swiper-slide swiper-slide-prev" role="group" aria-label="9 / 12" data-swiper-slide-index="8" style="margin-right: 20px;">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Box.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">Box</span>
-                                </div>
-                            </div><div class="swiper-slide swiper-slide-active" role="group" aria-label="10 / 12" data-swiper-slide-index="9" style="margin-right: 20px;">
+                        <div class="swiper-wrapper" id="swiper-wrapper-2387ee4e442b1885" aria-live="off" style="transform: translate3d(-131px, 0px, 0px); transition-duration: 10000ms;"><div class="swiper-slide swiper-slide-prev" role="group" aria-label="2 / 12" data-swiper-slide-index="1" style="margin-right: 20px;">
                                 <div class="integration-grid_listItem__vuFeW">
                                     <div class="integration-grid_wrapperImg__1EvJk">
                                         <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Salesforce.png" class="integration-grid_imgWrap__DWf4H" alt="">
                                     </div>
                                     <span class="integration-grid_integrationName__2Vnql">Salesforce</span>
                                 </div>
-                            </div><div class="swiper-slide swiper-slide-next" role="group" aria-label="11 / 12" data-swiper-slide-index="10" style="margin-right: 20px;">
+                            </div><div class="swiper-slide swiper-slide-active" role="group" aria-label="3 / 12" data-swiper-slide-index="2" style="margin-right: 20px;">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Google.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">Google</span>
+                                </div>
+                            </div><div class="swiper-slide swiper-slide-next" role="group" aria-label="4 / 12" data-swiper-slide-index="3" style="margin-right: 20px;">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Microsoft.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">Microsoft</span>
+                                </div>
+                            </div><div class="swiper-slide" role="group" aria-label="5 / 12" data-swiper-slide-index="4" style="margin-right: 20px;">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Box.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">Box</span>
+                                </div>
+                            </div><div class="swiper-slide" role="group" aria-label="6 / 12" data-swiper-slide-index="5" style="margin-right: 20px;">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Salesforce.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">Salesforce</span>
+                                </div>
+                            </div><div class="swiper-slide" data-swiper-slide-index="6" style="margin-right: 20px;" role="group" aria-label="7 / 12">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Google.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">Google</span>
+                                </div>
+                            </div><div class="swiper-slide" role="group" aria-label="8 / 12" data-swiper-slide-index="7" style="margin-right: 20px;">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Microsoft.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">Microsoft</span>
+                                </div>
+                            </div><div class="swiper-slide" role="group" aria-label="9 / 12" data-swiper-slide-index="8" style="margin-right: 20px;">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Box.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">Box</span>
+                                </div>
+                            </div><div class="swiper-slide" role="group" aria-label="10 / 12" data-swiper-slide-index="9" style="margin-right: 20px;">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Salesforce.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">Salesforce</span>
+                                </div>
+                            </div><div class="swiper-slide" role="group" aria-label="11 / 12" data-swiper-slide-index="10" style="margin-right: 20px;">
                                 <div class="integration-grid_listItem__vuFeW">
                                     <div class="integration-grid_wrapperImg__1EvJk">
                                         <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Google.png" class="integration-grid_imgWrap__DWf4H" alt="">
@@ -3756,62 +3805,13 @@ body #onetrust-banner-sdk a:focus {
                                     <span class="integration-grid_integrationName__2Vnql">Box</span>
                                 </div>
                             </div>
-                            <div class="swiper-slide" role="group" aria-label="2 / 12" data-swiper-slide-index="1" style="margin-right: 20px;">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Salesforce.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">Salesforce</span>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" role="group" aria-label="3 / 12" data-swiper-slide-index="2" style="margin-right: 20px;">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Google.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">Google</span>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" role="group" aria-label="4 / 12" data-swiper-slide-index="3" style="margin-right: 20px;">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Microsoft.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">Microsoft</span>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" role="group" aria-label="5 / 12" data-swiper-slide-index="4" style="margin-right: 20px;">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Box.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">Box</span>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" role="group" aria-label="6 / 12" data-swiper-slide-index="5" style="margin-right: 20px;">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Salesforce.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">Salesforce</span>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" data-swiper-slide-index="6" style="margin-right: 20px;" role="group" aria-label="7 / 12">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Google.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">Google</span>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" role="group" aria-label="8 / 12" data-swiper-slide-index="7" style="margin-right: 20px;">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Microsoft.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">Microsoft</span>
-                                </div>
-                            </div>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
                             
                             
                             
@@ -3821,15 +3821,8 @@ body #onetrust-banner-sdk a:focus {
                 </div>
                 <div class="integration-grid_list__1klCi">
                     <div class="swiper-container-integration2 swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events swiper-initialized swiper-horizontal">
-                        <div class="swiper-wrapper" id="swiper-wrapper-7ccff109e17518bdd" aria-live="off" style="transform: translate3d(-393px, 0px, 0px); transition-duration: 10000ms;">
-                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" role="group" aria-label="1 / 12" data-swiper-slide-index="0" style="margin-right: 20px;">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Twitter.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">Twitter</span>
-                                </div>
-                            </div>
+                        <div class="swiper-wrapper" id="swiper-wrapper-9e13cbed44e58e21" aria-live="off" style="transform: translate3d(-1179px, 0px, 0px); transition-duration: 10000ms;">
+                            
                             <div class="swiper-slide" role="group" aria-label="2 / 12" data-swiper-slide-index="1" style="margin-right: 20px;">
                                 <div class="integration-grid_listItem__vuFeW">
                                     <div class="integration-grid_wrapperImg__1EvJk">
@@ -3838,7 +3831,7 @@ body #onetrust-banner-sdk a:focus {
                                     <span class="integration-grid_integrationName__2Vnql">Apple</span>
                                 </div>
                             </div>
-                            <div class="swiper-slide swiper-slide-prev" role="group" aria-label="3 / 12" data-swiper-slide-index="2" style="margin-right: 20px;">
+                            <div class="swiper-slide" role="group" aria-label="3 / 12" data-swiper-slide-index="2" style="margin-right: 20px;">
                                 <div class="integration-grid_listItem__vuFeW">
                                     <div class="integration-grid_wrapperImg__1EvJk">
                                         <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Slack.png" class="integration-grid_imgWrap__DWf4H" alt="">
@@ -3846,7 +3839,7 @@ body #onetrust-banner-sdk a:focus {
                                     <span class="integration-grid_integrationName__2Vnql">Slack</span>
                                 </div>
                             </div>
-                            <div class="swiper-slide swiper-slide-active" role="group" aria-label="4 / 12" data-swiper-slide-index="3" style="margin-right: 20px;">
+                            <div class="swiper-slide" role="group" aria-label="4 / 12" data-swiper-slide-index="3" style="margin-right: 20px;">
                                 <div class="integration-grid_listItem__vuFeW">
                                     <div class="integration-grid_wrapperImg__1EvJk">
                                         <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Appspace.png" class="integration-grid_imgWrap__DWf4H" alt="">
@@ -3854,7 +3847,7 @@ body #onetrust-banner-sdk a:focus {
                                     <span class="integration-grid_integrationName__2Vnql">Appspace</span>
                                 </div>
                             </div>
-                            <div class="swiper-slide swiper-slide-next" role="group" aria-label="5 / 12" data-swiper-slide-index="4" style="margin-right: 20px;">
+                            <div class="swiper-slide" role="group" aria-label="5 / 12" data-swiper-slide-index="4" style="margin-right: 20px;">
                                 <div class="integration-grid_listItem__vuFeW">
                                     <div class="integration-grid_wrapperImg__1EvJk">
                                         <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Twitter.png" class="integration-grid_imgWrap__DWf4H" alt="">
@@ -3894,7 +3887,7 @@ body #onetrust-banner-sdk a:focus {
                                     <span class="integration-grid_integrationName__2Vnql">Twitter</span>
                                 </div>
                             </div>
-                            <div class="swiper-slide" role="group" aria-label="10 / 12" data-swiper-slide-index="9" style="margin-right: 20px;">
+                            <div class="swiper-slide swiper-slide-prev" role="group" aria-label="10 / 12" data-swiper-slide-index="9" style="margin-right: 20px;">
                                 <div class="integration-grid_listItem__vuFeW">
                                     <div class="integration-grid_wrapperImg__1EvJk">
                                         <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Apple.png" class="integration-grid_imgWrap__DWf4H" alt="">
@@ -3902,7 +3895,7 @@ body #onetrust-banner-sdk a:focus {
                                     <span class="integration-grid_integrationName__2Vnql">Apple</span>
                                 </div>
                             </div>
-                            <div class="swiper-slide" role="group" aria-label="11 / 12" data-swiper-slide-index="10" style="margin-right: 20px;">
+                            <div class="swiper-slide swiper-slide-active" role="group" aria-label="11 / 12" data-swiper-slide-index="10" style="margin-right: 20px;">
                                 <div class="integration-grid_listItem__vuFeW">
                                     <div class="integration-grid_wrapperImg__1EvJk">
                                         <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Slack.png" class="integration-grid_imgWrap__DWf4H" alt="">
@@ -3910,7 +3903,7 @@ body #onetrust-banner-sdk a:focus {
                                     <span class="integration-grid_integrationName__2Vnql">Slack</span>
                                 </div>
                             </div>
-                            <div class="swiper-slide" role="group" aria-label="12 / 12" data-swiper-slide-index="11" style="margin-right: 20px;">
+                            <div class="swiper-slide swiper-slide-next" role="group" aria-label="12 / 12" data-swiper-slide-index="11" style="margin-right: 20px;">
                                 <div class="integration-grid_listItem__vuFeW">
                                     <div class="integration-grid_wrapperImg__1EvJk">
                                         <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Appspace.png" class="integration-grid_imgWrap__DWf4H" alt="">
@@ -3918,26 +3911,82 @@ body #onetrust-banner-sdk a:focus {
                                     <span class="integration-grid_integrationName__2Vnql">Appspace</span>
                                 </div>
                             </div>
-                        </div>
+                        <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" role="group" aria-label="1 / 12" data-swiper-slide-index="0" style="margin-right: 20px;">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Twitter.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">Twitter</span>
+                                </div>
+                            </div></div>
                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
                 </div>
                 <div class="integration-grid_list__1klCi">
                     <div class="swiper-container-integration3 swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events swiper-initialized swiper-horizontal">
-                        <div class="swiper-wrapper" id="swiper-wrapper-4657759534d396a1" aria-live="off" style="transform: translate3d(-131px, 0px, 0px); transition-duration: 10000ms;"><div class="swiper-slide swiper-slide-prev" role="group" aria-label="9 / 12" data-swiper-slide-index="8" style="margin-right: 20px;">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Jira.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">Jira</span>
-                                </div>
-                            </div><div class="swiper-slide swiper-slide-active" role="group" aria-label="10 / 12" data-swiper-slide-index="9" style="margin-right: 20px;">
+                        <div class="swiper-wrapper" id="swiper-wrapper-a1562de10323dd1e5" aria-live="off" style="transform: translate3d(-131px, 0px, 0px); transition-duration: 10000ms;"><div class="swiper-slide swiper-slide-prev" role="group" aria-label="2 / 12" data-swiper-slide-index="1" style="margin-right: 20px;">
                                 <div class="integration-grid_listItem__vuFeW">
                                     <div class="integration-grid_wrapperImg__1EvJk">
                                         <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Vbrick.png" class="integration-grid_imgWrap__DWf4H" alt="">
                                     </div>
                                     <span class="integration-grid_integrationName__2Vnql">ADP Virtual Assistant</span>
                                 </div>
-                            </div><div class="swiper-slide swiper-slide-next" role="group" aria-label="11 / 12" data-swiper-slide-index="10" style="margin-right: 20px;">
+                            </div><div class="swiper-slide swiper-slide-active" role="group" aria-label="3 / 12" data-swiper-slide-index="2" style="margin-right: 20px;">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/ADP Virtual Assistant.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">ADP</span>
+                                </div>
+                            </div><div class="swiper-slide swiper-slide-next" role="group" aria-label="4 / 12" data-swiper-slide-index="3" style="margin-right: 20px;">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/ACTextBot.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">ACTextBot</span>
+                                </div>
+                            </div><div class="swiper-slide" role="group" aria-label="5 / 12" data-swiper-slide-index="4" style="margin-right: 20px;">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Jira.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">Jira</span>
+                                </div>
+                            </div><div class="swiper-slide" role="group" aria-label="6 / 12" data-swiper-slide-index="5" style="margin-right: 20px;">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Vbrick.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">ADP Virtual Assistant</span>
+                                </div>
+                            </div><div class="swiper-slide" role="group" aria-label="7 / 12" data-swiper-slide-index="6" style="margin-right: 20px;">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/ADP Virtual Assistant.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">ADP</span>
+                                </div>
+                            </div><div class="swiper-slide" role="group" aria-label="8 / 12" data-swiper-slide-index="7" style="margin-right: 20px;">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/ACTextBot.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">ACTextBot</span>
+                                </div>
+                            </div><div class="swiper-slide" role="group" aria-label="9 / 12" data-swiper-slide-index="8" style="margin-right: 20px;">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Jira.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">Jira</span>
+                                </div>
+                            </div><div class="swiper-slide" role="group" aria-label="10 / 12" data-swiper-slide-index="9" style="margin-right: 20px;">
+                                <div class="integration-grid_listItem__vuFeW">
+                                    <div class="integration-grid_wrapperImg__1EvJk">
+                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Vbrick.png" class="integration-grid_imgWrap__DWf4H" alt="">
+                                    </div>
+                                    <span class="integration-grid_integrationName__2Vnql">ADP Virtual Assistant</span>
+                                </div>
+                            </div><div class="swiper-slide" role="group" aria-label="11 / 12" data-swiper-slide-index="10" style="margin-right: 20px;">
                                 <div class="integration-grid_listItem__vuFeW">
                                     <div class="integration-grid_wrapperImg__1EvJk">
                                         <img src="/content/dam/wbx/us/images/rebrand/integration-grid/ADP Virtual Assistant.png" class="integration-grid_imgWrap__DWf4H" alt="">
@@ -3960,62 +4009,13 @@ body #onetrust-banner-sdk a:focus {
                                     <span class="integration-grid_integrationName__2Vnql">Jira</span>
                                 </div>
                             </div>
-                            <div class="swiper-slide" role="group" aria-label="2 / 12" data-swiper-slide-index="1" style="margin-right: 20px;">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Vbrick.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">ADP Virtual Assistant</span>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" role="group" aria-label="3 / 12" data-swiper-slide-index="2" style="margin-right: 20px;">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/ADP Virtual Assistant.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">ADP</span>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" role="group" aria-label="4 / 12" data-swiper-slide-index="3" style="margin-right: 20px;">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/ACTextBot.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">ACTextBot</span>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" role="group" aria-label="5 / 12" data-swiper-slide-index="4" style="margin-right: 20px;">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Jira.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">Jira</span>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" role="group" aria-label="6 / 12" data-swiper-slide-index="5" style="margin-right: 20px;">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/Vbrick.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">ADP Virtual Assistant</span>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" role="group" aria-label="7 / 12" data-swiper-slide-index="6" style="margin-right: 20px;">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/ADP Virtual Assistant.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">ADP</span>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" role="group" aria-label="8 / 12" data-swiper-slide-index="7" style="margin-right: 20px;">
-                                <div class="integration-grid_listItem__vuFeW">
-                                    <div class="integration-grid_wrapperImg__1EvJk">
-                                        <img src="/content/dam/wbx/us/images/rebrand/integration-grid/ACTextBot.png" class="integration-grid_imgWrap__DWf4H" alt="">
-                                    </div>
-                                    <span class="integration-grid_integrationName__2Vnql">ACTextBot</span>
-                                </div>
-                            </div>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
                             
                             
                             
@@ -4291,7 +4291,7 @@ body #onetrust-banner-sdk a:focus {
                 <div class="col col-4 col-sm vertical-tab_colText__309uD vertical-tab_thumbSlider__1fqbr ">
                     <div class="accordion">
                         <div class="swiper-container thumb-swiper swiper-container-vertical swiper-container-thumbs swiper-initialized swiper-vertical swiper-backface-hidden swiper-thumbs" thumbsslider="true">
-                            <div class="swiper-wrapper progress-start" id="swiper-wrapper-7fd1828ac10b5b91a" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                            <div class="swiper-wrapper progress-start" id="swiper-wrapper-b53bec1c6974993d" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
                                 <div class="swiper-slide swiper-slide-thumb-active swiper-slide-visible swiper-slide-active" role="group" aria-label="1 / 3">
                                     <li class="accordionContainer vertical-tab_itemBox__3nX3e" aria-hidden="true">
   <!-- /content/dam/wbx/us/images/rebrand/GMQ_Meetings.jpg-->
@@ -4341,7 +4341,7 @@ body #onetrust-banner-sdk a:focus {
                 </div>
                 <div class="col col-6 col-sm vertical-tab_colImage__3vvL6">
                     <div class="swiper-container main-swiper swiper-fade swiper-initialized swiper-horizontal swiper-watch-progress swiper-backface-hidden">
-                        <div class="swiper-wrapper" id="swiper-wrapper-2a102603de2e5b1010d" aria-live="off">
+                        <div class="swiper-wrapper" id="swiper-wrapper-21823844f111d063" aria-live="off">
                             <div class="swiper-slide swiper-slide-visible swiper-slide-active" role="group" aria-label="1 / 3" style="width: 186px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
                                 <img src="/content/dam/wbx/us/images/rebrand/gated-magic.png" class="img100p br-30" alt="">
                                 <p class="xsbody color-boulder copyrightvert">This graphic was published by Gartner, 
@@ -4547,7 +4547,7 @@ body #onetrust-banner-sdk a:focus {
                 <div class="grid grid-between">
                     <div class="col col-9 col-sm">
                         <div class="swiper-container-quote swiper-fade swiper-initialized swiper-horizontal swiper-watch-progress swiper-backface-hidden">
-                            <div class="swiper-wrapper" id="swiper-wrapper-5edfc58f1d72608a" aria-live="polite">
+                            <div class="swiper-wrapper" id="swiper-wrapper-c0a8814fd8712397" aria-live="polite">
   
   
                                 <div class="swiper-slide swiper-slide-visible swiper-slide-active" role="group" aria-label="1 / 4" style="width: 186px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
@@ -4658,11 +4658,11 @@ body #onetrust-banner-sdk a:focus {
                     </div>
                     <div class="col col-2 col-sm hidden-sm">
                         <div class="carousel-controls">
-                            <div class="left-arrow swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-5edfc58f1d72608a" aria-disabled="true">
+                            <div class="left-arrow swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-c0a8814fd8712397" aria-disabled="true">
                                 <span class="icon-arrow-large"></span>
                             </div>
                             <div class="count mbody swiper-pagination-fraction swiper-pagination-horizontal"><span class="swiper-pagination-current">1</span> / <span class="swiper-pagination-total">4</span></div>
-                            <div class="right-arrow" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-5edfc58f1d72608a" aria-disabled="false">
+                            <div class="right-arrow" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-c0a8814fd8712397" aria-disabled="false">
                                 <span class="icon-arrow-large"></span>
                             </div>
                         </div>
@@ -4780,7 +4780,7 @@ body #onetrust-banner-sdk a:focus {
                             </p>
                         </div>
                         <div class=" col col-1 col-sm text-right featured-case-study_ctaBox__2iieq">
-                            <a href="https://blog.webex.com/video-conferencing/worldtour-team-dsm-takes-to-the-road-with-webex-for-a-new-hybrid-sports-experience/" class="right-arrow bg-white color-black" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-5edfc58f1d72608a" aria-disabled="false"><span class="icon-arrow"></span></a>
+                            <a href="https://blog.webex.com/video-conferencing/worldtour-team-dsm-takes-to-the-road-with-webex-for-a-new-hybrid-sports-experience/" class="right-arrow bg-white color-black" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-c0a8814fd8712397" aria-disabled="false"><span class="icon-arrow"></span></a>
                         </div>
                     </div>
   
@@ -4805,7 +4805,7 @@ body #onetrust-banner-sdk a:focus {
                             </p>
                         </div>
                         <div class="col col-1 col-sm text-right featured-case-study_ctaBox__2iieq">
-                            <a href="https://blog.webex.com/video-conferencing/webex-earns-trustradius-top-rated-2021-award-in-collaboration/" class="right-arrow bg-white color-black" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-5edfc58f1d72608a" aria-disabled="false"><span class="icon-arrow"></span></a>
+                            <a href="https://blog.webex.com/video-conferencing/webex-earns-trustradius-top-rated-2021-award-in-collaboration/" class="right-arrow bg-white color-black" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-c0a8814fd8712397" aria-disabled="false"><span class="icon-arrow"></span></a>
                         </div>
                     </div>
                 </div>

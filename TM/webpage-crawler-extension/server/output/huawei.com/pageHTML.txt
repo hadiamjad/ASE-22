@@ -39,12 +39,12 @@
     <!--[if lt IE 9 ]>
         <script type="text/javascript" src="/Assets/corp/v2/js/vendor/ie8-fix.js"></script>
     <![endif]-->
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_huawei.main_19" src="//tags.tiqcdn.com/utag/huawei/main/prod/utag.19.js?utv=ut4.46.202207250332"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="https://cdn.jsdelivr.net/npm/hammerjs@2.0.8/hammer.min.js" src="https://cdn.jsdelivr.net/npm/hammerjs@2.0.8/hammer.min.js"></script><script type="text/javascript" async="" charset="utf-8" id="tiqapp" src="//tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=huawei/main/202302100636&amp;cb=1676215614534"></script></head>
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_huawei.main_19" src="//tags.tiqcdn.com/utag/huawei/main/prod/utag.19.js?utv=ut4.46.202207250332"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="https://cdn.jsdelivr.net/npm/hammerjs@2.0.8/hammer.min.js" src="https://cdn.jsdelivr.net/npm/hammerjs@2.0.8/hammer.min.js"></script><script type="text/javascript" async="" charset="utf-8" id="tiqapp" src="//tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=huawei/main/202302100636&amp;cb=1676251680848"></script></head>
 
 <body>
     <form method="post" action="/en/?ic_medium=direct&amp;ic_source=surlent" id="form1">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="cdNf2t7+IeEBVhsu9FZpEPFoG0LLH6BNwQgJWzJkr+xGDAyiWOOZpkifC4vw2/7+Kx2DC42wNsR6YCL2pgQ4IQ+eqsj8Mw9dIWSg/IU9/iCy0PX19RYQVwcqylaM/6J26stVOQ==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="dib39N3jh0WjqS3Ty370tjR8aQ37shdg1wfWZIaMQCX8MvskuFpS96FpDiFk32MJyxJytMi0n1AGjvCD7FDkkwyxf2ms94X4r101/gwjjZuAYwmyV15uulOz8SZt2P5pE6ecqQ==">
 </div>
 </form>
     
@@ -120,7 +120,7 @@
 <input type="hidden" id="hidLoadingMessage" value="Loading.....">
 <!-- top -->
 <div class="top-nav">
-    <div class="top-nav-height" style="bottom: 1.25px;">
+    <div class="top-nav-height" style="bottom: -46.75px;">
         <div class="container">
             <div class="pull-right">
                 
@@ -1163,7 +1163,7 @@ Back to Main Menu
     
     <div class="panel-img-list-mobile-slide hidden-md hidden-lg">
         <div class="swiper-container js-swiper-container swiper-container-initialized swiper-container-horizontal" data-slides-per-view="1" data-slides-per-group="1" data-loop="true" data-autoplay="{&quot;delay&quot;:4000, &quot;disableOnInteraction&quot;: true}">
-            <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-540px, 0px, 0px);"><div class="swiper-slide slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="2" style="width: 180px;">
+            <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-720px, 0px, 0px);"><div class="swiper-slide slide swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="2" style="width: 180px;">
                             <a href="https://consumer.huawei.com/en/headphones/freebuds-pro-2/?ic_medium=hwdc&amp;ic_source=corp_boxrow2left_freebuds-pro-2/" target="_blank" onclick="ga('send','event', 'corp_hp_clicks','box_row2_left', 'freebuds-pro-2');" rel="noopener nofollow">    
                             <div class="img-box">
                                 <div class="mask"></div>
@@ -1179,7 +1179,7 @@ Back to Main Menu
                             </a>
                         </div>
                 
-                        <div class="swiper-slide slide swiper-slide-duplicate-next" data-swiper-slide-index="0" style="width: 180px;">
+                        <div class="swiper-slide slide swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 180px;">
                             <a href="https://consumer.huawei.com/en/laptops/matebook-x-pro-2022-12th-gen-core/?ic_medium=hwdc&amp;ic_source=corp_boxrow1left_matebook-x-pro-2022-12th-gen-core/" target="_blank" onclick="ga('send', 'event', 'corp_hp_clicks', 'box_row1_left', 'matebookxpro2022');" rel="noopener nofollow">    
                             <div class="img-box">
                                 <div class="mask"></div>
@@ -1195,7 +1195,7 @@ Back to Main Menu
                             </a>
                         </div>
                     
-                        <div class="swiper-slide slide swiper-slide-prev" data-swiper-slide-index="1" style="width: 180px;">
+                        <div class="swiper-slide slide" data-swiper-slide-index="1" style="width: 180px;">
                             <a href="https://consumer.huawei.com/en/wearables/watch-gt3-pro-ceramic/?ic_medium=hwdc&amp;ic_source=corp_boxrow1right_watch-gt-3-pro-ceramic/" target="_blank" onclick="ga('send', 'event','corp_hp_clicks', 'box_row1_right', 'watch-gt-3-pro');" rel="noopener nofollow">    
                             <div class="img-box">
                                 <div class="mask"></div>
@@ -1211,7 +1211,7 @@ Back to Main Menu
                             </a>
                         </div>
                     
-                        <div class="swiper-slide slide swiper-slide-active" data-swiper-slide-index="2" style="width: 180px;">
+                        <div class="swiper-slide slide swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="2" style="width: 180px;">
                             <a href="https://consumer.huawei.com/en/headphones/freebuds-pro-2/?ic_medium=hwdc&amp;ic_source=corp_boxrow2left_freebuds-pro-2/" target="_blank" onclick="ga('send','event', 'corp_hp_clicks','box_row2_left', 'freebuds-pro-2');" rel="noopener nofollow">    
                             <div class="img-box">
                                 <div class="mask"></div>
@@ -1227,7 +1227,7 @@ Back to Main Menu
                             </a>
                         </div>
                     
-            <div class="swiper-slide slide swiper-slide-duplicate swiper-slide-next" data-swiper-slide-index="0" style="width: 180px;">
+            <div class="swiper-slide slide swiper-slide-duplicate swiper-slide-active" data-swiper-slide-index="0" style="width: 180px;">
                             <a href="https://consumer.huawei.com/en/laptops/matebook-x-pro-2022-12th-gen-core/?ic_medium=hwdc&amp;ic_source=corp_boxrow1left_matebook-x-pro-2022-12th-gen-core/" target="_blank" onclick="ga('send', 'event', 'corp_hp_clicks', 'box_row1_left', 'matebookxpro2022');" rel="noopener nofollow">    
                             <div class="img-box">
                                 <div class="mask"></div>
@@ -1243,7 +1243,7 @@ Back to Main Menu
                             </a>
                         </div></div>
         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-        <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 3"></span></div>
+        <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span></div>
     </div>
     <div class="panel-img-list">
         
@@ -1354,7 +1354,7 @@ Back to Main Menu
                     <a href="/en/huaweitech/future-technologies/envisioning-and-defining-6g-together" target="" onclick="ga('send', 'event', 'corp_hp_clicks', 'box_row3_center', '6g-foreword');">    
                     <div class="img-box">
                         <div class="mask"></div>
-                        <picture><!--[if IE 9]><video style="display: none;"><![endif]--><source data-srcset="//www-file.huawei.com/-/media/corp2020/home/box/2/6g.jpg" media="(min-width: 992px)" srcset="//www-file.huawei.com/-/media/corp2020/home/box/2/6g.jpg"><source data-srcset="//www-file.huawei.com/-/media/corp2020/home/box/2/6g.jpg" media="(max-width: 991px)" srcset="//www-file.huawei.com/-/media/corp2020/home/box/2/6g.jpg"><!--[if IE 9]></video><![endif]--><img data-src="//www-file.huawei.com/-/media/corp2020/home/box/2/6g.jpg" alt="6g" class="lazyload loaded" src="//www-file.huawei.com/-/media/corp2020/home/box/2/6g.jpg" data-was-processed="true"></picture>
+                        <picture><!--[if IE 9]><video style="display: none;"><![endif]--><source data-srcset="//www-file.huawei.com/-/media/corp2020/home/box/2/6g.jpg" media="(min-width: 992px)"><source data-srcset="//www-file.huawei.com/-/media/corp2020/home/box/2/6g.jpg" media="(max-width: 991px)"><!--[if IE 9]></video><![endif]--><img data-src="//www-file.huawei.com/-/media/corp2020/home/box/2/6g.jpg" alt="6g" class="lazyload"></picture>
                         
                         
                     </div>
@@ -1373,7 +1373,7 @@ Back to Main Menu
                     <a href="/en/huaweitech/publication/202203/5g-business-success" target="" onclick="ga('send', 'event', 'corp_hp_clicks', 'box_row3_right', '5g-business-success');">    
                     <div class="img-box">
                         <div class="mask"></div>
-                        <picture><!--[if IE 9]><video style="display: none;"><![endif]--><source data-srcset="//www-file.huawei.com/-/media/corp2020/home/box/2/moneytize5g-2.jpg" media="(min-width: 992px)" srcset="//www-file.huawei.com/-/media/corp2020/home/box/2/moneytize5g-2.jpg"><source data-srcset="//www-file.huawei.com/-/media/corp2020/home/box/2/moneytize5g-2.jpg" media="(max-width: 991px)" srcset="//www-file.huawei.com/-/media/corp2020/home/box/2/moneytize5g-2.jpg"><!--[if IE 9]></video><![endif]--><img data-src="//www-file.huawei.com/-/media/corp2020/home/box/2/moneytize5g-2.jpg" alt="moneytize5g 2" class="lazyload loaded" src="//www-file.huawei.com/-/media/corp2020/home/box/2/moneytize5g-2.jpg" data-was-processed="true"></picture>
+                        <picture><!--[if IE 9]><video style="display: none;"><![endif]--><source data-srcset="//www-file.huawei.com/-/media/corp2020/home/box/2/moneytize5g-2.jpg" media="(min-width: 992px)"><source data-srcset="//www-file.huawei.com/-/media/corp2020/home/box/2/moneytize5g-2.jpg" media="(max-width: 991px)"><!--[if IE 9]></video><![endif]--><img data-src="//www-file.huawei.com/-/media/corp2020/home/box/2/moneytize5g-2.jpg" alt="moneytize5g 2" class="lazyload"></picture>
                         
                         
                     </div>

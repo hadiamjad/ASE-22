@@ -1,1 +1,1 @@
-[{'level': 'SEVERE', 'message': 'https://static.twitchcdn.net/assets/core-abdcb2c690b098f34cf8.js 0:1187765 Uncaught SyntaxError: Unexpected identifier', 'source': 'javascript', 'timestamp': 1676214071440}]
+[{'level': 'SEVERE', 'message': 'https://static.twitchcdn.net/assets/core-abdcb2c690b098f34cf8.js 0:2340593 Uncaught SyntaxError: Unexpected identifier', 'source': 'javascript', 'timestamp': 1676247410667}]

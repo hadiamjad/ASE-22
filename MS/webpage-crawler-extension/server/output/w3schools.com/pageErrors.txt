@@ -1,0 +1,1 @@
+[{'level': 'INFO', 'message': 'https://adengine.snigelweb.com/w3schools.com/6240-1676552706296/adngin.js 0:93589 "%c【AdEngine】(production-130) queued at 694ms and loaded in 128ms. (w3schools.com:6240-1676552706296-default)" "color:#2dc9ac;"', 'source': 'console-api', 'timestamp': 1676772476309}]

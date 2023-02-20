@@ -115,7 +115,7 @@
         
 
 
-    <script type="application/json" data-role="module-args" data-module-name="Shared/options.mod">{"options":{"locale":"en","serverTime":1676155552,"routeName":"Home/Index","stackAuthUrl":"https://stackauth.com","networkMetaHostname":"meta.stackexchange.com","site":{"name":"Stack Overflow","description":"Q\u0026A for professional and enthusiast programmers","isNoticesTabEnabled":true,"enableNewTagCreationWarning":true,"insertSpaceAfterNameTabCompletion":false,"id":1,"cookieDomain":".stackoverflow.com","childUrl":"https://meta.stackoverflow.com","negativeVoteScoreFloor":null,"enableSocialMediaInSharePopup":true,"protocol":"https"},"user":{"fkey":"8169d8cdc6d7051971d99feb67f5dde10f1e36bcfe6c7b799f44fea49b92fd90","tid":"a3cf5256-9df7-7346-477e-f13d213839fb","rep":0,"isAnonymous":true,"isAnonymousNetworkWide":true},"events":{"postType":{"question":1},"postEditionSection":{"title":1,"body":2,"tags":3}}}}</script>
+    <script type="application/json" data-role="module-args" data-module-name="Shared/options.mod">{"options":{"locale":"en","serverTime":1676221469,"routeName":"Home/Index","stackAuthUrl":"https://stackauth.com","networkMetaHostname":"meta.stackexchange.com","site":{"name":"Stack Overflow","description":"Q\u0026A for professional and enthusiast programmers","isNoticesTabEnabled":true,"enableNewTagCreationWarning":true,"insertSpaceAfterNameTabCompletion":false,"id":1,"cookieDomain":".stackoverflow.com","childUrl":"https://meta.stackoverflow.com","negativeVoteScoreFloor":null,"enableSocialMediaInSharePopup":true,"protocol":"https"},"user":{"fkey":"8169d8cdc6d7051971d99feb67f5dde10f1e36bcfe6c7b799f44fea49b92fd90","tid":"9cd222f3-1ea3-3ca8-92c3-390b724ec648","rep":0,"isAnonymous":true,"isAnonymousNetworkWide":true},"events":{"postType":{"question":1},"postEditionSection":{"title":1,"body":2,"tags":3}}}}</script>
 <script type="application/json" data-role="module-args" data-module-name="Shared/settings.mod">{"settings":{"userMessaging":{"showNewFeatureNotice":true},"tags":{},"subscriptions":{"defaultBasicMaxTrueUpSeats":250,"defaultFreemiumMaxTrueUpSeats":50,"defaultMaxTrueUpSeats":1000},"snippets":{"renderDomain":"stacksnippets.net","snippetsEnabled":true},"site":{"allowImageUploads":true,"enableImgurHttps":true,"enableUserHovercards":true,"forceHttpsImages":true,"stacksEditorPreviewEnabled":true,"styleCode":true},"questions":{"enableQuestionTitleLengthLiveWarning":true,"enableSavesFeature":true,"maxTitleSize":150,"questionTitleLengthStartLiveWarningChars":50},"intercom":{"appId":"inf0secd","hostBaseUrl":"https://stacksnippets.net"},"paths":{"jQueryUICSSPath":"https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/themes/smoothness/jquery-ui.css","jQueryUIJSPath":"https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js"},"monitoring":{"clientTimingsAbsoluteTimeout":30000,"clientTimingsDebounceTimeout":1000},"mentions":{"maxNumUsersInDropdown":50},"markdown":{"enableTables":true},"legal":{"oneTrustConfigId":"c3d9f1e3-55f3-4eba-b268-46cee4c6789c"},"flags":{"allowRetractingCommentFlags":true,"allowRetractingFlags":true},"elections":{"opaVoteResultsBaseUrl":"https://www.opavote.com/results/"},"comments":{},"accounts":{"currentPasswordRequiredForChangingStackIdPassword":true}}}</script>
 <script>StackExchange.init();</script>
 
@@ -618,42 +618,42 @@ your communities            </h3>
     
     
     
+    <div class="flex--item px16 mx12 d-none">
+        <img class="p-logo js-lazy-load d-block mt2 t t-opacity o0" width="185" height="37" data-src="https://cdn.sstatic.net/Img/product/teams/logos/instacart-alt.svg?v=15bd0b39b197" alt="Instacart">
+    </div>
+    <div class="flex--item px16 mx12 d-none">
+        <img class="p-logo js-lazy-load d-block mt4 t t-opacity o0" width="120" height="27" data-src="https://cdn.sstatic.net/Img/product/teams/logos/barkbox-alt.svg?v=419890745024" alt="BarkBox">
+    </div>
     
     
-    
-    
-    
+    <div class="flex--item px16 mx12 d-none">
+        <img class="p-logo js-lazy-load d-block mt4 t t-opacity o0" width="49" height="55" data-src="https://cdn.sstatic.net/Img/product/teams/logos/chevron-alt.svg?v=3bfd2c06a64b" alt="Chevron">
+    </div>
     <div class="flex--item px16 mx12 d-none">
         <img class="p-logo js-lazy-load d-block mt8 t t-opacity o0" width="187" height="36" data-src="https://cdn.sstatic.net/Img/product/teams/logos/dialpad-alt.svg?v=4e63facf7f79" alt="Dialpad">
     </div>
     
-    <div class="flex--item px16 mx12 d-none">
-        <img class="p-logo js-lazy-load d-block mtn8 t t-opacity o0" width="103" height="45" data-src="https://cdn.sstatic.net/Img/product/teams/logos/verizon-media-alt.svg?v=f335b20096b2" alt="Verizon Digital Media">
-    </div>
-    <div class="flex--item px16 mx12 d-none">
-        <img class="p-logo js-lazy-load d-block t t-opacity o0" width="139" height="43" data-src="https://cdn.sstatic.net/Img/product/teams/logos/wisetech-global-alt.svg?v=3b6b11e76536" alt="WiseTech Global">
-    </div>
+    
+    
 <div class="flex--item px16 mx12 d-none">
-        <img class="p-logo d-block mtn6" width="65" height="35" src="https://cdn.sstatic.net/Img/product/teams/logos/box-alt.svg?v=eb76fd9d884f" alt="Box">
-    </div><div class="flex--item px16 mx12">
-        <img class="p-logo d-block mtn2" width="165" height="41" src="https://cdn.sstatic.net/Img/product/teams/logos/microsoft-alt.svg?v=e57319450314" alt="Microsoft">
-    </div><div class="flex--item px16 mx12">
-        <img class="p-logo d-block" width="140" height="35" src="https://cdn.sstatic.net/Img/product/teams/logos/intercom-alt.svg?v=3eda71aed47c" alt="Intercom">
-    </div><div class="flex--item px16 mx12">
-        <img class="p-logo js-lazy-load d-block mt4 t t-opacity o0" width="49" height="55" data-src="https://cdn.sstatic.net/Img/product/teams/logos/chevron-alt.svg?v=3bfd2c06a64b" alt="Chevron">
-    </div><div class="flex--item px16 mx12">
-        <img class="p-logo js-lazy-load d-block mt2 t t-opacity o0" width="185" height="37" data-src="https://cdn.sstatic.net/Img/product/teams/logos/instacart-alt.svg?v=15bd0b39b197" alt="Instacart">
-    </div><div class="flex--item px16 mx12 d-none">
         <img class="p-logo d-block mt2" width="165" height="37" src="https://cdn.sstatic.net/Img/product/teams/logos/expensify-alt.svg?v=375099b85ce5" alt="Expensify">
+    </div><div class="flex--item px16 mx12 d-none">
+        <img class="p-logo d-block mtn2" width="165" height="41" src="https://cdn.sstatic.net/Img/product/teams/logos/microsoft-alt.svg?v=e57319450314" alt="Microsoft">
     </div><div class="flex--item px16 mx12 d-none">
         <img class="p-logo js-lazy-load d-block mt4 t t-opacity o0" width="181" height="32" data-src="https://cdn.sstatic.net/Img/product/teams/logos/overstock-alt.svg?v=ed38ea932870" alt="Overstock">
     </div><div class="flex--item px16 mx12 d-none">
-        <img class="p-logo js-lazy-load d-block mt4 t t-opacity o0" width="120" height="27" data-src="https://cdn.sstatic.net/Img/product/teams/logos/barkbox-alt.svg?v=419890745024" alt="BarkBox">
-    </div><div class="flex--item px16 mx12 d-none">
+        <img class="p-logo js-lazy-load d-block t t-opacity o0" width="139" height="43" data-src="https://cdn.sstatic.net/Img/product/teams/logos/wisetech-global-alt.svg?v=3b6b11e76536" alt="WiseTech Global">
+    </div><div class="flex--item px16 mx12">
+        <img class="p-logo d-block mtn6" width="65" height="35" src="https://cdn.sstatic.net/Img/product/teams/logos/box-alt.svg?v=eb76fd9d884f" alt="Box">
+    </div><div class="flex--item px16 mx12">
+        <img class="p-logo js-lazy-load d-block mtn8 t t-opacity o0" width="103" height="45" data-src="https://cdn.sstatic.net/Img/product/teams/logos/verizon-media-alt.svg?v=f335b20096b2" alt="Verizon Digital Media">
+    </div><div class="flex--item px16 mx12">
         <img class="p-logo js-lazy-load d-block mt4 t t-opacity o0" width="136" height="25" data-src="https://cdn.sstatic.net/Img/product/teams/logos/philips-alt.svg?v=7fc60c993103" alt="Philips">
-    </div><div class="flex--item px16 mx12 d-none">
+    </div><div class="flex--item px16 mx12">
         <img class="p-logo js-lazy-load d-block mt12 t t-opacity o0" width="139" height="42" data-src="https://cdn.sstatic.net/Img/product/teams/logos/logitech-alt.svg?v=a99c74b88566" alt="Logitech">
-    </div></div><div class="ta-center py12"><span class="js-carousel-logos-nav c-pointer w24 h6 h:bg-black-400 d-inline-block bar-pill my6 mx4 bg-black-200" data-page="0"></span><span class="js-carousel-logos-nav c-pointer w24 h6 h:bg-black-400 d-inline-block bar-pill my6 mx4 bg-black-800" data-page="1"></span><span class="js-carousel-logos-nav c-pointer w24 h6 h:bg-black-400 d-inline-block bar-pill my6 mx4 bg-black-200" data-page="2"></span><span class="js-carousel-logos-nav c-pointer w24 h6 h:bg-black-400 d-inline-block bar-pill my6 mx4 bg-black-200" data-page="3"></span></div>
+    </div><div class="flex--item px16 mx12 d-none">
+        <img class="p-logo d-block" width="140" height="35" src="https://cdn.sstatic.net/Img/product/teams/logos/intercom-alt.svg?v=3eda71aed47c" alt="Intercom">
+    </div></div><div class="ta-center py12"><span class="js-carousel-logos-nav c-pointer w24 h6 h:bg-black-400 d-inline-block bar-pill my6 mx4 bg-black-200" data-page="0"></span><span class="js-carousel-logos-nav c-pointer w24 h6 h:bg-black-400 d-inline-block bar-pill my6 mx4 bg-black-200" data-page="1"></span><span class="js-carousel-logos-nav c-pointer w24 h6 h:bg-black-400 d-inline-block bar-pill my6 mx4 bg-black-800" data-page="2"></span><span class="js-carousel-logos-nav c-pointer w24 h6 h:bg-black-400 d-inline-block bar-pill my6 mx4 bg-black-200" data-page="3"></span></div>
 <script>
 (function () {
     var logos = document.querySelector('.js-carousel-logos');
@@ -1093,21 +1093,21 @@ your communities            </h3>
                 <p class="fs-subheading wmx7 mx-auto fc-black-200 mb32">All plans come with integrations for ChatOps tools <a class="fc-blue-500 h:fc-blue-300" href="https://stackoverflow.co/teams/integrations/slack">Slack</a> &amp; <a class="fc-blue-500 h:fc-blue-300" href="https://stackoverflow.co/teams/integrations/microsoft-teams">Microsoft Teams</a> in order to cut down on pings, limit distractions and make the tools even more powerful. Business and Enterprise customers get access to Jira, GitHub &amp; Okta integrations.</p>
 
                 <div class="d-flex flex__center gs16 ff-row-wrap">
-            <a href="/teams/integrations/slack" class="flex--item d-flex ai-center jc-center fc-black-900 d:fc-black-900 bg-white d:p-bg-dark-tint bar-md bs-sm h:bs-md w64 h64" data-controller="s-tooltip" data-s-tooltip-placement="top" aria-describedby="--stacks-s-tooltip-9iqad2n9">    
-<svg aria-hidden="true" class="native w48 h48 wmx75 svg-icon iconSlack" width="18" height="18" viewBox="0 0 18 18"><path fill="#E01E5A" d="M6.5 16A1.5 1.5 0 0 1 5 14.5v-4a1.5 1.5 0 1 1 3 0v4c0 .83-.67 1.5-1.5 1.5Zm-4-4a1.5 1.5 0 0 1 0-3H4v1.5c0 .83-.67 1.5-1.5 1.5Z"></path><path fill="#36C5F0" d="M2.5 5h4a1.5 1.5 0 1 1 0 3h-4a1.5 1.5 0 1 1 0-3Zm4-4C7.33 1 8 1.67 8 2.5V4H6.5a1.5 1.5 0 1 1 0-3Z"></path><path fill="#ECB22E" d="M10.5 9h4a1.5 1.5 0 0 1 0 3h-4a1.5 1.5 0 0 1 0-3Zm0 7A1.5 1.5 0 0 1 9 14.5V13h1.5a1.5 1.5 0 0 1 0 3Z"></path><path fill="#2EB67D" d="M10.5 1c.83 0 1.5.67 1.5 1.5v4a1.5 1.5 0 0 1-3 0v-4c0-.83.67-1.5 1.5-1.5Zm4 4a1.5 1.5 0 0 1 0 3H13V6.5c0-.83.67-1.5 1.5-1.5Z"></path></svg>        </a><div id="--stacks-s-tooltip-9iqad2n9" class="s-popover s-popover__tooltip" role="tooltip">Slack<div class="s-popover--arrow"></div></div>
+            <a href="/teams/integrations/slack" class="flex--item d-flex ai-center jc-center fc-black-900 d:fc-black-900 bg-white d:p-bg-dark-tint bar-md bs-sm h:bs-md w64 h64" data-controller="s-tooltip" data-s-tooltip-placement="top" aria-describedby="--stacks-s-tooltip-q49pupov">    
+<svg aria-hidden="true" class="native w48 h48 wmx75 svg-icon iconSlack" width="18" height="18" viewBox="0 0 18 18"><path fill="#E01E5A" d="M6.5 16A1.5 1.5 0 0 1 5 14.5v-4a1.5 1.5 0 1 1 3 0v4c0 .83-.67 1.5-1.5 1.5Zm-4-4a1.5 1.5 0 0 1 0-3H4v1.5c0 .83-.67 1.5-1.5 1.5Z"></path><path fill="#36C5F0" d="M2.5 5h4a1.5 1.5 0 1 1 0 3h-4a1.5 1.5 0 1 1 0-3Zm4-4C7.33 1 8 1.67 8 2.5V4H6.5a1.5 1.5 0 1 1 0-3Z"></path><path fill="#ECB22E" d="M10.5 9h4a1.5 1.5 0 0 1 0 3h-4a1.5 1.5 0 0 1 0-3Zm0 7A1.5 1.5 0 0 1 9 14.5V13h1.5a1.5 1.5 0 0 1 0 3Z"></path><path fill="#2EB67D" d="M10.5 1c.83 0 1.5.67 1.5 1.5v4a1.5 1.5 0 0 1-3 0v-4c0-.83.67-1.5 1.5-1.5Zm4 4a1.5 1.5 0 0 1 0 3H13V6.5c0-.83.67-1.5 1.5-1.5Z"></path></svg>        </a><div id="--stacks-s-tooltip-q49pupov" class="s-popover s-popover__tooltip" role="tooltip">Slack<div class="s-popover--arrow"></div></div>
 
-            <a href="/teams/integrations/microsoft-teams" class="flex--item d-flex ai-center jc-center fc-black-900 d:fc-black-900 bg-white d:p-bg-dark-tint bar-md bs-sm h:bs-md w64 h64" data-controller="s-tooltip" data-s-tooltip-placement="top" aria-describedby="--stacks-s-tooltip-qg490xfa">    
+            <a href="/teams/integrations/microsoft-teams" class="flex--item d-flex ai-center jc-center fc-black-900 d:fc-black-900 bg-white d:p-bg-dark-tint bar-md bs-sm h:bs-md w64 h64" data-controller="s-tooltip" data-s-tooltip-placement="top" aria-describedby="--stacks-s-tooltip-3ajv6asg">    
                 <img src="https://cdn.sstatic.net/Img/product/teams/microsoft-integration/microsoft-teams-logo.svg?v=00361aadd408" width="48" height="48" class="native w48 h48 wmx75" alt="">
-        </a><div id="--stacks-s-tooltip-qg490xfa" class="s-popover s-popover__tooltip" role="tooltip">Microsoft Teams<div class="s-popover--arrow"></div></div>
+        </a><div id="--stacks-s-tooltip-3ajv6asg" class="s-popover s-popover__tooltip" role="tooltip">Microsoft Teams<div class="s-popover--arrow"></div></div>
 
-            <a href="/teams/integrations/github" class="flex--item d-flex ai-center jc-center fc-black-900 d:fc-black-900 bg-white d:p-bg-dark-tint bar-md bs-sm h:bs-md w64 h64" data-controller="s-tooltip" data-s-tooltip-placement="top" aria-describedby="--stacks-s-tooltip-yogdibug">    
-<svg aria-hidden="true" class="w48 h48 wmx75 svg-icon iconGitHub" width="18" height="18" viewBox="0 0 18 18"><path fill="#010101" d="M9 1a8 8 0 0 0-2.53 15.59c.4.07.55-.17.55-.38l-.01-1.49c-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.42 7.42 0 0 1 4 0c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48l-.01 2.2c0 .21.15.46.55.38A8.01 8.01 0 0 0 9 1Z"></path></svg>        </a><div id="--stacks-s-tooltip-yogdibug" class="s-popover s-popover__tooltip" role="tooltip">GitHub<div class="s-popover--arrow"></div></div>
+            <a href="/teams/integrations/github" class="flex--item d-flex ai-center jc-center fc-black-900 d:fc-black-900 bg-white d:p-bg-dark-tint bar-md bs-sm h:bs-md w64 h64" data-controller="s-tooltip" data-s-tooltip-placement="top" aria-describedby="--stacks-s-tooltip-9ggbfot6">    
+<svg aria-hidden="true" class="w48 h48 wmx75 svg-icon iconGitHub" width="18" height="18" viewBox="0 0 18 18"><path fill="#010101" d="M9 1a8 8 0 0 0-2.53 15.59c.4.07.55-.17.55-.38l-.01-1.49c-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.42 7.42 0 0 1 4 0c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48l-.01 2.2c0 .21.15.46.55.38A8.01 8.01 0 0 0 9 1Z"></path></svg>        </a><div id="--stacks-s-tooltip-9ggbfot6" class="s-popover s-popover__tooltip" role="tooltip">GitHub<div class="s-popover--arrow"></div></div>
 
-            <a href="/teams/integrations/jira" class="flex--item d-flex ai-center jc-center fc-black-900 d:fc-black-900 bg-white d:p-bg-dark-tint bar-md bs-sm h:bs-md w64 h64" data-controller="s-tooltip" data-s-tooltip-placement="top" aria-describedby="--stacks-s-tooltip-qfcteuve">    
-<svg aria-hidden="true" class="native w48 h48 wmx75 svg-icon iconJira" width="18" height="18" viewBox="0 0 18 18"><path fill="#2684FF" d="M16.36 1H8.78a3.42 3.42 0 0 0 3.42 3.42h1.4v1.35A3.42 3.42 0 0 0 17 9.2V1.66a.66.66 0 0 0-.64-.66Z"></path><path fill="url(#Jiraa)" d="M12.33 5H4.74a3.42 3.42 0 0 0 3.42 3.43h1.4v1.35a3.42 3.42 0 0 0 3.42 3.42V5.66a.66.66 0 0 0-.65-.66Z"></path><path fill="url(#Jirab)" d="M8.36 9H.76a3.42 3.42 0 0 0 3.44 3.42h1.4v1.35a3.42 3.42 0 0 0 3.42 3.43V9.66A.66.66 0 0 0 8.36 9Z"></path><defs><linearGradient id="Jiraa" x1="12.82" x2="9.6" y1="5.02" y2="8.34" gradientUnits="userSpaceOnUse"><stop offset=".18" stop-color="#0052CC"></stop><stop offset="1" stop-color="#2684FF"></stop></linearGradient><linearGradient id="Jirab" x1="346.65" x2="210.84" y1="327.03" y2="460.17" gradientUnits="userSpaceOnUse"><stop offset=".18" stop-color="#0052CC"></stop><stop offset="1" stop-color="#2684FF"></stop></linearGradient></defs></svg>        </a><div id="--stacks-s-tooltip-qfcteuve" class="s-popover s-popover__tooltip" role="tooltip">Jira<div class="s-popover--arrow"></div></div>
+            <a href="/teams/integrations/jira" class="flex--item d-flex ai-center jc-center fc-black-900 d:fc-black-900 bg-white d:p-bg-dark-tint bar-md bs-sm h:bs-md w64 h64" data-controller="s-tooltip" data-s-tooltip-placement="top" aria-describedby="--stacks-s-tooltip-2rt4jsen">    
+<svg aria-hidden="true" class="native w48 h48 wmx75 svg-icon iconJira" width="18" height="18" viewBox="0 0 18 18"><path fill="#2684FF" d="M16.36 1H8.78a3.42 3.42 0 0 0 3.42 3.42h1.4v1.35A3.42 3.42 0 0 0 17 9.2V1.66a.66.66 0 0 0-.64-.66Z"></path><path fill="url(#Jiraa)" d="M12.33 5H4.74a3.42 3.42 0 0 0 3.42 3.43h1.4v1.35a3.42 3.42 0 0 0 3.42 3.42V5.66a.66.66 0 0 0-.65-.66Z"></path><path fill="url(#Jirab)" d="M8.36 9H.76a3.42 3.42 0 0 0 3.44 3.42h1.4v1.35a3.42 3.42 0 0 0 3.42 3.43V9.66A.66.66 0 0 0 8.36 9Z"></path><defs><linearGradient id="Jiraa" x1="12.82" x2="9.6" y1="5.02" y2="8.34" gradientUnits="userSpaceOnUse"><stop offset=".18" stop-color="#0052CC"></stop><stop offset="1" stop-color="#2684FF"></stop></linearGradient><linearGradient id="Jirab" x1="346.65" x2="210.84" y1="327.03" y2="460.17" gradientUnits="userSpaceOnUse"><stop offset=".18" stop-color="#0052CC"></stop><stop offset="1" stop-color="#2684FF"></stop></linearGradient></defs></svg>        </a><div id="--stacks-s-tooltip-2rt4jsen" class="s-popover s-popover__tooltip" role="tooltip">Jira<div class="s-popover--arrow"></div></div>
 
-            <a href="/teams/integrations/okta" class="flex--item d-flex ai-center jc-center fc-black-900 d:fc-black-900 bg-white d:p-bg-dark-tint bar-md bs-sm h:bs-md w64 h64" data-controller="s-tooltip" data-s-tooltip-placement="top" aria-describedby="--stacks-s-tooltip-6q1a9msa">    
-<svg aria-hidden="true" class="native w48 h48 wmx75 svg-icon iconOkta" width="18" height="18" viewBox="0 0 18 18"><path fill="#007DC1" d="M9 17A8 8 0 1 0 9 1a8 8 0 0 0 0 16Zm0-4a4 4 0 1 1 0-8 4 4 0 0 1 0 8Z"></path></svg>        </a><div id="--stacks-s-tooltip-6q1a9msa" class="s-popover s-popover__tooltip" role="tooltip">Okta<div class="s-popover--arrow"></div></div>
+            <a href="/teams/integrations/okta" class="flex--item d-flex ai-center jc-center fc-black-900 d:fc-black-900 bg-white d:p-bg-dark-tint bar-md bs-sm h:bs-md w64 h64" data-controller="s-tooltip" data-s-tooltip-placement="top" aria-describedby="--stacks-s-tooltip-ctvtk38j">    
+<svg aria-hidden="true" class="native w48 h48 wmx75 svg-icon iconOkta" width="18" height="18" viewBox="0 0 18 18"><path fill="#007DC1" d="M9 17A8 8 0 1 0 9 1a8 8 0 0 0 0 16Zm0-4a4 4 0 1 1 0-8 4 4 0 0 1 0 8Z"></path></svg>        </a><div id="--stacks-s-tooltip-ctvtk38j" class="s-popover s-popover__tooltip" role="tooltip">Okta<div class="s-popover--arrow"></div></div>
 
 </div>
 
@@ -1235,29 +1235,29 @@ your communities            </h3>
     <div class="d-flex flex__fl-grow1 ta-center jc-center sm:fd-column" style="transform: rotate(-180deg)">
         <div class="flex--item ps-relative sm:d-none d-flex">
             <div class="js-io-animation p-io-animation ps-relative z-active m-auto ws3 z-active d-flex ai-center jc-center ff-row-wrap l0 r0 t0 b0">
-                        <a href="https://apple.stackexchange.com" data-animation-type="show" class="flex--item m24 w128 h128 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-m3m16brh">
+                        <a href="https://apple.stackexchange.com" data-animation-type="show" class="flex--item m24 w128 h128 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-0d78jy8x">
             <img class="d-block wmx100 h-auto m-auto" width="79" height="79" src="https://cdn.sstatic.net/Sites/apple/Img/apple-touch-icon.png?v=daa7ff1d953e" alt="Ask Different icon">
-        </a><div id="--stacks-s-tooltip-m3m16brh" class="s-popover s-popover__tooltip" role="tooltip">Ask Different<div class="s-popover--arrow"></div></div>
+        </a><div id="--stacks-s-tooltip-0d78jy8x" class="s-popover s-popover__tooltip" role="tooltip">Ask Different<div class="s-popover--arrow"></div></div>
 
-                        <a href="https://unix.stackexchange.com" data-animation-type="show" class="flex--item m24 w64 h64 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-mkpfdbw1">
+                        <a href="https://unix.stackexchange.com" data-animation-type="show" class="flex--item m24 w64 h64 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-3jhq0cc2">
             <img class="d-block wmx100 h-auto m-auto" width="79" height="79" src="https://cdn.sstatic.net/Sites/unix/Img/apple-touch-icon.png?v=5cf7fe716a89" alt="Unix &amp; Linux icon">
-        </a><div id="--stacks-s-tooltip-mkpfdbw1" class="s-popover s-popover__tooltip" role="tooltip">Unix &amp; Linux<div class="s-popover--arrow"></div></div>
+        </a><div id="--stacks-s-tooltip-3jhq0cc2" class="s-popover s-popover__tooltip" role="tooltip">Unix &amp; Linux<div class="s-popover--arrow"></div></div>
 
-                        <a href="https://ai.stackexchange.com" data-animation-type="show" class="flex--item m24 w64 h64 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-f2dqhcsl">
+                        <a href="https://ai.stackexchange.com" data-animation-type="show" class="flex--item m24 w64 h64 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-u91mg4np">
             <img class="d-block wmx100 h-auto m-auto" width="79" height="79" src="https://cdn.sstatic.net/Sites/ai/Img/apple-touch-icon.png?v=f14d741b295c" alt="Artificial Intelligence icon">
-        </a><div id="--stacks-s-tooltip-f2dqhcsl" class="s-popover s-popover__tooltip" role="tooltip">Artificial Intelligence<div class="s-popover--arrow"></div></div>
+        </a><div id="--stacks-s-tooltip-u91mg4np" class="s-popover s-popover__tooltip" role="tooltip">Artificial Intelligence<div class="s-popover--arrow"></div></div>
 
-                        <a href="https://softwareengineering.stackexchange.com" data-animation-type="show" class="flex--item m24 w64 h64 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-udok2xrm">
+                        <a href="https://softwareengineering.stackexchange.com" data-animation-type="show" class="flex--item m24 w64 h64 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-mj7huo9x">
             <img class="d-block wmx100 h-auto m-auto" width="79" height="79" src="https://cdn.sstatic.net/Sites/softwareengineering/Img/apple-touch-icon.png?v=5e581fc45e58" alt="Software Engineering icon">
-        </a><div id="--stacks-s-tooltip-udok2xrm" class="s-popover s-popover__tooltip" role="tooltip">Software Engineering<div class="s-popover--arrow"></div></div>
+        </a><div id="--stacks-s-tooltip-mj7huo9x" class="s-popover s-popover__tooltip" role="tooltip">Software Engineering<div class="s-popover--arrow"></div></div>
 
-                        <a href="https://askubuntu.com/" data-animation-type="show" class="flex--item m24 w128 h128 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-x4j2f94c">
+                        <a href="https://askubuntu.com/" data-animation-type="show" class="flex--item m24 w128 h128 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-adonvide">
             <img class="d-block wmx100 h-auto m-auto" width="79" height="79" src="https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon.png?v=e16e1315edd6" alt="Ask Ubuntu icon">
-        </a><div id="--stacks-s-tooltip-x4j2f94c" class="s-popover s-popover__tooltip" role="tooltip">Ask Ubuntu<div class="s-popover--arrow"></div></div>
+        </a><div id="--stacks-s-tooltip-adonvide" class="s-popover s-popover__tooltip" role="tooltip">Ask Ubuntu<div class="s-popover--arrow"></div></div>
 
-                        <a href="https://salesforce.stackexchange.com" data-animation-type="show" class="flex--item m24 w64 h64 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-j0u1kzzo">
+                        <a href="https://salesforce.stackexchange.com" data-animation-type="show" class="flex--item m24 w64 h64 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-uh1q83cb">
             <img class="d-block wmx100 h-auto m-auto" width="79" height="79" src="https://cdn.sstatic.net/Sites/salesforce/Img/apple-touch-icon.png?v=4c87c90207b3" alt="Salesforce icon">
-        </a><div id="--stacks-s-tooltip-j0u1kzzo" class="s-popover s-popover__tooltip" role="tooltip">Salesforce<div class="s-popover--arrow"></div></div>
+        </a><div id="--stacks-s-tooltip-uh1q83cb" class="s-popover s-popover__tooltip" role="tooltip">Salesforce<div class="s-popover--arrow"></div></div>
 
             </div>
 
@@ -1272,29 +1272,29 @@ your communities            </h3>
         </div>
         <div class="flex--item ps-relative sm:d-none d-flex">
             <div class="js-io-animation p-io-animation ps-relative z-active m-auto ws3 z-active d-flex ai-center jc-center ff-row-wrap l0 r0 t0 b0">
-                        <a href="https://serverfault.com/" data-animation-type="show" class="flex--item m24 w96 h96 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-jgswypjj">
+                        <a href="https://serverfault.com/" data-animation-type="show" class="flex--item m24 w96 h96 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-76ph351b">
             <img class="d-block wmx100 h-auto m-auto" width="79" height="79" src="https://cdn.sstatic.net/Sites/serverfault/Img/apple-touch-icon.png?v=6c3100d858bb" alt="Server Fault icon">
-        </a><div id="--stacks-s-tooltip-jgswypjj" class="s-popover s-popover__tooltip" role="tooltip">Server Fault<div class="s-popover--arrow"></div></div>
+        </a><div id="--stacks-s-tooltip-76ph351b" class="s-popover s-popover__tooltip" role="tooltip">Server Fault<div class="s-popover--arrow"></div></div>
 
-                        <a href="https://superuser.com/" data-animation-type="show" class="flex--item m24 w64 h64 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-6xvjwcs4">
+                        <a href="https://superuser.com/" data-animation-type="show" class="flex--item m24 w64 h64 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-h13iaoca">
             <img class="d-block wmx100 h-auto m-auto" width="79" height="79" src="https://cdn.sstatic.net/Sites/superuser/Img/apple-touch-icon.png?v=0ad5b7a83e49" alt="Super User icon">
-        </a><div id="--stacks-s-tooltip-6xvjwcs4" class="s-popover s-popover__tooltip" role="tooltip">Super User<div class="s-popover--arrow"></div></div>
+        </a><div id="--stacks-s-tooltip-h13iaoca" class="s-popover s-popover__tooltip" role="tooltip">Super User<div class="s-popover--arrow"></div></div>
 
-                        <a href="https://dba.stackexchange.com" data-animation-type="show" class="flex--item m24 w64 h64 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-galwmakn">
+                        <a href="https://dba.stackexchange.com" data-animation-type="show" class="flex--item m24 w64 h64 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-s4rhhiu1">
             <img class="d-block wmx100 h-auto m-auto" width="79" height="79" src="https://cdn.sstatic.net/Sites/dba/Img/apple-touch-icon.png?v=cdcd5ff7b29e" alt="Database Administrators icon">
-        </a><div id="--stacks-s-tooltip-galwmakn" class="s-popover s-popover__tooltip" role="tooltip">Database Administrators<div class="s-popover--arrow"></div></div>
+        </a><div id="--stacks-s-tooltip-s4rhhiu1" class="s-popover s-popover__tooltip" role="tooltip">Database Administrators<div class="s-popover--arrow"></div></div>
 
-                        <a href="https://quantumcomputing.stackexchange.com" data-animation-type="show" class="flex--item m24 w128 h128 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-yj0eorlt">
+                        <a href="https://quantumcomputing.stackexchange.com" data-animation-type="show" class="flex--item m24 w128 h128 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-2nuqu9iu">
             <img class="d-block wmx100 h-auto m-auto" width="79" height="79" src="https://cdn.sstatic.net/Sites/quantumcomputing/Img/apple-touch-icon.png?v=2af3cc2b87e8" alt="Quantum Computing icon">
-        </a><div id="--stacks-s-tooltip-yj0eorlt" class="s-popover s-popover__tooltip" role="tooltip">Quantum Computing<div class="s-popover--arrow"></div></div>
+        </a><div id="--stacks-s-tooltip-2nuqu9iu" class="s-popover s-popover__tooltip" role="tooltip">Quantum Computing<div class="s-popover--arrow"></div></div>
 
-                        <a href="https://gamedev.stackexchange.com" data-animation-type="show" class="flex--item m24 w64 h64 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-zvee64zr">
+                        <a href="https://gamedev.stackexchange.com" data-animation-type="show" class="flex--item m24 w64 h64 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-f7i5ufzu">
             <img class="d-block wmx100 h-auto m-auto" width="79" height="79" src="https://cdn.sstatic.net/Sites/gamedev/Img/apple-touch-icon.png?v=0cfb55927bd2" alt="Game Development icon">
-        </a><div id="--stacks-s-tooltip-zvee64zr" class="s-popover s-popover__tooltip" role="tooltip">Game Development<div class="s-popover--arrow"></div></div>
+        </a><div id="--stacks-s-tooltip-f7i5ufzu" class="s-popover s-popover__tooltip" role="tooltip">Game Development<div class="s-popover--arrow"></div></div>
 
-                        <a href="https://networkengineering.stackexchange.com" data-animation-type="show" class="flex--item m24 w96 h96 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-j7g1enon">
+                        <a href="https://networkengineering.stackexchange.com" data-animation-type="show" class="flex--item m24 w96 h96 bg-white d:bg-black bar-lg bs-sm h:bs-lg h:bg-black-050 d-flex p16 is-ready" data-controller="s-tooltip" aria-describedby="--stacks-s-tooltip-v30c7rnm">
             <img class="d-block wmx100 h-auto m-auto" width="79" height="79" src="https://cdn.sstatic.net/Sites/networkengineering/Img/apple-touch-icon.png?v=d66b1118cec8" alt="Network Engineering icon">
-        </a><div id="--stacks-s-tooltip-j7g1enon" class="s-popover s-popover__tooltip" role="tooltip">Network Engineering<div class="s-popover--arrow"></div></div>
+        </a><div id="--stacks-s-tooltip-v30c7rnm" class="s-popover s-popover__tooltip" role="tooltip">Network Engineering<div class="s-popover--arrow"></div></div>
 
             </div>
 
@@ -1578,7 +1578,7 @@ Site design / logo © 2023 Stack Exchange Inc; user contributions licensed under
                 StackExchange.ga.setDimension('dimension3', 'Home/Index');
 
 
-                StackExchange.ga.setDimension('dimension7', "1676155552.695988602");
+                StackExchange.ga.setDimension('dimension7', "1676221469.353362805");
 
                 StackExchange.ga.trackPageView();
             });

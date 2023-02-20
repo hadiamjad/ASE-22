@@ -50,7 +50,7 @@ for i in df.index:
             )
             driver.get(r"https://www." + df["website"][i])
 
-            time.sleep(20)
+            time.sleep(90)
 
             # Collecting Metrics
             # 1: page HTML

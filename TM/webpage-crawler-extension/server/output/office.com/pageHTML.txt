@@ -46,7 +46,7 @@
 
 <script async="" type="text/javascript" charset="UTF-8" src="https://js.monitor.azure.com/scripts/c/ms.shared.analytics.mectrl-3.2.6.gbl.min.js" crossorigin="anonymous"></script></head>
 <body style="display: none">
-    <script nonce="EWuYtfmTesh9Mi1qoJnM1Q==">
+    <script nonce="+cKyS7UpYGzelqWJ+EPKGw==">
         var isSessionStorageAvailable = (function() {
             try {
                 return !!window['sessionStorage'];
@@ -667,7 +667,7 @@
 
 
 
-<div style="display: none;" id="sharedClientStartupContext">{"ariaCollectorUrl":"https://browser.pipe.aria.microsoft.com/Collector/3.0/","ariaTenant":"ea6758984c4b43529f9929667d8d3198-c52d4a8b-47fe-4fdf-99b8-5f897ff4e33b-7365","buildDateUtc":"2023-02-06 02:35:22Z","buildId":"40087b78-02fc-e9ba-f41d-75e7e6ac30b1","clientOTelMediumSchedulePriorityEnabled":false,"clientOTelHighSchedulePriorityEnabled":false,"clientOTelImmediateSchedulePriorityEnabled":true,"corpNet":false,"correlationId":"1601fa09-2aeb-4780-a77c-e7eec7cfd565","deploymentEnvironment":"prod","devEnvironment":"ServiceFabric","ecsRing":"WorldWide","flights":"templatesmlv3cf,P-R-1050304-2-4,P-R-1050613-2-2,P-R-1052893-2-8,P-R-1050538-2-2,P-R-1049154-2-9,P-R-1048795-2-16,P-R-1045844-2-7,P-R-1041556-2-15,P-R-1038765-10-16,P-R-1035877-4-5,P-R-1034124-2-15,P-R-1020934-8-54,P-R-1020323-2-4,P-R-1019936-2-4,P-R-1018575-12-18,P-R-1004015-2-18,P-R-1000295-2-22,P-R-108797-2-7,P-R-108833-2-6,P-R-108875-2-6,P-R-110074-16-13,P-R-106573-4-4,P-R-95756-2-11,P-R-93960-2-24,P-R-88009-6-9,P-D-1058394-2-4,P-D-1058393-1-4,P-D-1050380-2-2,P-D-1050371-1-2,P-D-1050381-1-3,P-D-1049641-1-3,P-D-1042850-1-6,P-D-116695-2-13,P-D-116687-1-5,P-D-109195-1-7,P-D-68024-5-178","geoName":"eus","domainOrigin":"Office","requestOrigin":"Direct","sessionId":"4617f1d2-01d1-4172-9cad-c54553a179da","testTraffic":false,"cookieConsentRequired":false,"officeMarketLcid":1033,"useMruS2SFlow":false,"useFeedApi":true,"oTelAriaTenant":"eba120086311400a9b62c4718c0934d3-7ec73bd2-d8e8-450d-84d0-7f0a2ade31ce-7166","oTelAppName":"OfficeTaosHub","oTelAppPlatform":"Web","oTelClickEnabled":true,"oTelDiagnosticEnabled":false,"oTelEnabled":true,"oTelErrorEnabled":true,"oTelEudbEndpointEnabled":false,"oTelFeatureEnabled":true,"oTelImpressionEnabled":true,"oTelNameSpace":"Office.Taos.Hub","oTelRequestEnabled":true,"oTelSamplingEnabled":false,"oTelSamplingPerformanceEnabled":false,"oTelSamplingRequestEnabled":false,"oTelPageViewEnabled":true,"oTelPerfEnabled":true,"oTelWin11DetectionEnabled":true,"pwaV2TokenEnabled":true}</div>
+<div style="display: none;" id="sharedClientStartupContext">{"ariaCollectorUrl":"https://browser.pipe.aria.microsoft.com/Collector/3.0/","ariaTenant":"ea6758984c4b43529f9929667d8d3198-c52d4a8b-47fe-4fdf-99b8-5f897ff4e33b-7365","buildDateUtc":"2023-02-06 02:35:22Z","buildId":"40087b78-02fc-e9ba-f41d-75e7e6ac30b1","clientOTelMediumSchedulePriorityEnabled":false,"clientOTelHighSchedulePriorityEnabled":false,"clientOTelImmediateSchedulePriorityEnabled":true,"corpNet":false,"correlationId":"c1f7e5e4-06f6-49c8-8140-7b25231c9e9d","deploymentEnvironment":"prod","devEnvironment":"ServiceFabric","ecsRing":"WorldWide","flights":"templatesmlv3cf,P-R-1050304-2-4,P-R-1050613-2-2,P-R-1052893-2-8,P-R-1050538-2-2,P-R-1049154-2-9,P-R-1048795-2-16,P-R-1045844-2-7,P-R-1041556-2-15,P-R-1038765-10-16,P-R-1035877-4-5,P-R-1034124-2-15,P-R-1020934-8-54,P-R-1020323-2-4,P-R-1019936-2-4,P-R-1018575-12-18,P-R-1004015-2-18,P-R-1000295-2-22,P-R-108797-2-7,P-R-108833-2-6,P-R-108875-2-6,P-R-110074-16-13,P-R-106573-4-4,P-R-95756-2-11,P-R-93960-2-24,P-R-88009-6-9,P-D-1058394-2-4,P-D-1058393-1-4,P-D-1050380-2-2,P-D-1050371-1-2,P-D-1050381-1-3,P-D-1049641-1-3,P-D-1042850-1-6,P-D-116695-2-13,P-D-116687-1-5,P-D-109195-1-7,P-D-68024-5-178","geoName":"eus","domainOrigin":"Office","requestOrigin":"Direct","sessionId":"b9246e29-d7cc-41df-8ccd-67289b7e842c","testTraffic":false,"cookieConsentRequired":false,"officeMarketLcid":1033,"useMruS2SFlow":false,"useFeedApi":true,"oTelAriaTenant":"eba120086311400a9b62c4718c0934d3-7ec73bd2-d8e8-450d-84d0-7f0a2ade31ce-7166","oTelAppName":"OfficeTaosHub","oTelAppPlatform":"Web","oTelClickEnabled":true,"oTelDiagnosticEnabled":false,"oTelEnabled":true,"oTelErrorEnabled":true,"oTelEudbEndpointEnabled":false,"oTelFeatureEnabled":true,"oTelImpressionEnabled":true,"oTelNameSpace":"Office.Taos.Hub","oTelRequestEnabled":true,"oTelSamplingEnabled":false,"oTelSamplingPerformanceEnabled":false,"oTelSamplingRequestEnabled":false,"oTelPageViewEnabled":true,"oTelPerfEnabled":true,"oTelWin11DetectionEnabled":true,"pwaV2TokenEnabled":true}</div>
 
 <div id="unauthConfig" style="display: none;">
     {"pathAndQuery":"/","loginUrl":"https://www.office.com/login?es=Click&amp;ru=%2F","userConsentStatus":{"IsCookieConsentRequired":false,"EssentialCookiesConsented":true,"AdvertisingCookiesConsented":false,"AnalyticsCookiesConsented":false,"SocialMediaCookiesConsented":false},"accountRemovedString":"Account removed","accountRemoveFailedString":"Failed to remove the account. Please try again."}
@@ -2062,13 +2062,13 @@
         </div>
     </div>
 
-    <div id="TraceInfoDiv" style="display: none">SID:4617f1d2-01d1-4172-9cad-c54553a179da CID:1601fa09-2aeb-4780-a77c-e7eec7cfd565 AUTH:Unknown GEO:eus IN:_ohome_12 DEP:f415b2c6-4f23-48d4-bd80-f9e5a23769ed FLT:templatesmlv3cf,P-R-1050304-2-4,P-R-1050613-2-2,P-R-1052893-2-8,P-R-1050538-2-2,P-R-1049154-2-9,P-R-1048795-2-16,P-R-1045844-2-7,P-R-1041556-2-15,P-R-1038765-10-16,P-R-1035877-4-5,P-R-1034124-2-15,P-R-1020934-8-54,P-R-1020323-2-4,P-R-1019936-2-4,P-R-1018575-12-18,P-R-1004015-2-18,P-R-1000295-2-22,P-R-108797-2-7,P-R-108833-2-6,P-R-108875-2-6,P-R-110074-16-13,P-R-106573-4-4,P-R-95756-2-11,P-R-93960-2-24,P-R-88009-6-9,P-D-1058394-2-4,P-D-1058393-1-4,P-D-1050380-2-2,P-D-1050371-1-2,P-D-1050381-1-3,P-D-1049641-1-3,P-D-1042850-1-6,P-D-116695-2-13,P-D-116687-1-5,P-D-109195-1-7,P-D-68024-5-178 FTR: R:Unknown PLT:Unknown FR:Unknown FD: Unknown D:2023-02-12 14:44:48Z ECS Ring: WorldWide</div>
-    <script src="https://res.cdn.office.net/officehub/bundles/unauth-vendor-d78f09b728.js" crossorigin="anonymous" integrity="sha256-462BLa98gfjPOPy2t2dhkk0kwvpq9LfPQOEl1CeUzM4=" nonce="EWuYtfmTesh9Mi1qoJnM1Q=="></script>
-    <script src="https://res.cdn.office.net/officehub/bundles/sharedscripts-ff1c847af5.js" crossorigin="anonymous" integrity="sha256-h8tZC8T1Ifm3bEQQTcerKLNOsl46uCpJE3Zh7sR6J70=" nonce="EWuYtfmTesh9Mi1qoJnM1Q=="></script>
-    <script src="https://res.cdn.office.net/officehub/bundles/unauth-b7a05a61fd.js" crossorigin="anonymous" integrity="sha256-/sQ8h8jcG4FWjVsQJzTk+C7IAr20zaKP6rEF5gLDvLU=" nonce="EWuYtfmTesh9Mi1qoJnM1Q=="></script>
-        <script src="https://res.cdn.office.net/officehub/bundles/otel-logger-84c494deb9736c573d12.js" crossorigin="anonymous" integrity="sha256-49vREXkxscCeDK2Jt5G4gvr7tKhILFCuXk7iHrNCpes=" nonce="EWuYtfmTesh9Mi1qoJnM1Q=="></script>
+    <div id="TraceInfoDiv" style="display: none">SID:b9246e29-d7cc-41df-8ccd-67289b7e842c CID:c1f7e5e4-06f6-49c8-8140-7b25231c9e9d AUTH:Unknown GEO:eus IN:_ohome_5 DEP:269048f1-6f02-489f-8370-76cbab2e7aa9 FLT:templatesmlv3cf,P-R-1050304-2-4,P-R-1050613-2-2,P-R-1052893-2-8,P-R-1050538-2-2,P-R-1049154-2-9,P-R-1048795-2-16,P-R-1045844-2-7,P-R-1041556-2-15,P-R-1038765-10-16,P-R-1035877-4-5,P-R-1034124-2-15,P-R-1020934-8-54,P-R-1020323-2-4,P-R-1019936-2-4,P-R-1018575-12-18,P-R-1004015-2-18,P-R-1000295-2-22,P-R-108797-2-7,P-R-108833-2-6,P-R-108875-2-6,P-R-110074-16-13,P-R-106573-4-4,P-R-95756-2-11,P-R-93960-2-24,P-R-88009-6-9,P-D-1058394-2-4,P-D-1058393-1-4,P-D-1050380-2-2,P-D-1050371-1-2,P-D-1050381-1-3,P-D-1049641-1-3,P-D-1042850-1-6,P-D-116695-2-13,P-D-116687-1-5,P-D-109195-1-7,P-D-68024-5-178 FTR: R:Unknown PLT:Unknown FR:Unknown FD: Unknown D:2023-02-12 23:31:24Z ECS Ring: WorldWide</div>
+    <script src="https://res.cdn.office.net/officehub/bundles/unauth-vendor-d78f09b728.js" crossorigin="anonymous" integrity="sha256-462BLa98gfjPOPy2t2dhkk0kwvpq9LfPQOEl1CeUzM4=" nonce="+cKyS7UpYGzelqWJ+EPKGw=="></script>
+    <script src="https://res.cdn.office.net/officehub/bundles/sharedscripts-ff1c847af5.js" crossorigin="anonymous" integrity="sha256-h8tZC8T1Ifm3bEQQTcerKLNOsl46uCpJE3Zh7sR6J70=" nonce="+cKyS7UpYGzelqWJ+EPKGw=="></script>
+    <script src="https://res.cdn.office.net/officehub/bundles/unauth-b7a05a61fd.js" crossorigin="anonymous" integrity="sha256-/sQ8h8jcG4FWjVsQJzTk+C7IAr20zaKP6rEF5gLDvLU=" nonce="+cKyS7UpYGzelqWJ+EPKGw=="></script>
+        <script src="https://res.cdn.office.net/officehub/bundles/otel-logger-84c494deb9736c573d12.js" crossorigin="anonymous" integrity="sha256-49vREXkxscCeDK2Jt5G4gvr7tKhILFCuXk7iHrNCpes=" nonce="+cKyS7UpYGzelqWJ+EPKGw=="></script>
 
-    <script nonce="EWuYtfmTesh9Mi1qoJnM1Q==">
+    <script nonce="+cKyS7UpYGzelqWJ+EPKGw==">
         $(function () {
             HomePage.init();
             var cookieConsentBannerNeeded = false;
@@ -2378,8 +2378,8 @@
     </script>
 
     
-<script nonce="EWuYtfmTesh9Mi1qoJnM1Q==" src="https://www.microsoft.com/onerfstatics/marketingsites-eus-prod/shell/_scrf/js/themes=default/8e-e88b64/82-2a4f02/49-a00ab0/92-02e55d/7c-dcea75/75-fca72d/ed-e77ee7/d5-bf34c0/a9-078595/7a-7ea8cc/2d-40bdad/23-e8cd2b/96-eb5423/e6-6b0cce/d1-98d78a/c6-082272/a7-f7a340/1e-addbef/2e-ca165a/fc-169dd8/8e-60935c/87-fecbed/96-6ed6eb/c3-eb62e0/ad-ffd6bf/35-621acc/3b-84517a/b0-07f293/1e-9d9d16/52-f0367f/1f-b57352/bf-517249/e1-ed258e/20-0b10e2/6b-0f1117/fb-5e9831/a2-598841?ver=2.0&amp;_cf=02242021_3231&amp;iife=1"></script><script nonce="EWuYtfmTesh9Mi1qoJnM1Q==" src="https://mem.gfx.ms/meversion?partner=office&amp;market=en-us&amp;uhf=1" defer=""></script>
-    <script nonce="EWuYtfmTesh9Mi1qoJnM1Q==">
+<script nonce="+cKyS7UpYGzelqWJ+EPKGw==" src="https://www.microsoft.com/onerfstatics/marketingsites-eus-prod/shell/_scrf/js/themes=default/8e-e88b64/82-2a4f02/49-a00ab0/92-02e55d/7c-dcea75/75-fca72d/ed-e77ee7/d5-bf34c0/a9-078595/7a-7ea8cc/2d-40bdad/23-e8cd2b/96-eb5423/e6-6b0cce/d1-98d78a/c6-082272/a7-f7a340/1e-addbef/2e-ca165a/fc-169dd8/8e-60935c/87-fecbed/96-6ed6eb/c3-eb62e0/ad-ffd6bf/35-621acc/3b-84517a/b0-07f293/1e-9d9d16/52-f0367f/1f-b57352/bf-517249/e1-ed258e/20-0b10e2/6b-0f1117/fb-5e9831/a2-598841?ver=2.0&amp;_cf=02242021_3231&amp;iife=1"></script><script nonce="+cKyS7UpYGzelqWJ+EPKGw==" src="https://mem.gfx.ms/meversion?partner=office&amp;market=en-us&amp;uhf=1" defer=""></script>
+    <script nonce="+cKyS7UpYGzelqWJ+EPKGw==">
         var el = document.getElementById('unauthConfig');
         var config = el && JSON.parse(el.textContent) || {};
         var signInUrl = config.loginUrl;
@@ -2482,10 +2482,10 @@
             }
                 </script>
 
-    <script type="text/javascript" nonce="EWuYtfmTesh9Mi1qoJnM1Q==">
+    <script type="text/javascript" nonce="+cKyS7UpYGzelqWJ+EPKGw==">
         var aadUserForgetUrlFormat = "https://login.microsoftonline.com/forgetuser?sessionid=";
     </script>
-    <script type="text/javascript" nonce="EWuYtfmTesh9Mi1qoJnM1Q==">function clearStorage() {
+    <script type="text/javascript" nonce="+cKyS7UpYGzelqWJ+EPKGw==">function clearStorage() {
     try {
         if (window && window.sessionStorage) {
             clearStorageWithExceptions(window.sessionStorage, ['DefaultSignInCalledBefore', 'msameid']);

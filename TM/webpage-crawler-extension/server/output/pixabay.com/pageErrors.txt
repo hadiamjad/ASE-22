@@ -1,1 +1,1 @@
-[{'level': 'SEVERE', 'message': 'https://pixabay.com/ 26:365 Uncaught SyntaxError: Unexpected identifier', 'source': 'javascript', 'timestamp': 1676215404536}]
+[{'level': 'SEVERE', 'message': 'https://pixabay.com/ 26:365 Uncaught SyntaxError: Unexpected identifier', 'source': 'javascript', 'timestamp': 1676250840773}, {'level': 'SEVERE', 'message': 'https://pixabay.com/bootstrap/80675e7cf1b255221058e3e79457c64b0329c1fccb8affff717308097a039716.json - Failed to load resource: the server responded with a status of 404 ()', 'source': 'network', 'timestamp': 1676250841018}]

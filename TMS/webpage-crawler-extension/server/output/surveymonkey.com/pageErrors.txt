@@ -1,1 +1,1 @@
-[{'level': 'SEVERE', 'message': 'https://www.googletagmanager.com/gtm.js?id=GTM-NGMP3BG - Failed to load resource: net::ERR_BLOCKED_BY_CLIENT', 'source': 'network', 'timestamp': 1676175942878}]
+[{'level': 'SEVERE', 'message': 'https://www.googletagmanager.com/gtm.js?id=GTM-NGMP3BG - Failed to load resource: net::ERR_BLOCKED_BY_CLIENT', 'source': 'network', 'timestamp': 1676235960826}]

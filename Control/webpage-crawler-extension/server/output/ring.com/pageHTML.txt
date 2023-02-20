@@ -917,7 +917,7 @@
 
 
     <div class="announcement-bar background__blue">
-        <div class="announcement-content"><div class="announcement"><a class="announcement-link" href="/virtual-security-guard-real-time-monitoring"></a><p><a class="announcement-link" href="/virtual-security-guard-real-time-monitoring">NEW! With Virtual Security Guard, trained professionals can visually monitor your property so you don’t have to. </a><a href="/virtual-security-guard-real-time-monitoring">Learn more</a>.</p></div></div>
+        <div class="announcement-content"><div class="announcement"><a class="announcement-link" href="/collections/offers"><p><strong>Free Shipping &amp; Free Returns</strong></p></a></div></div>
     </div>
 
 
@@ -2567,7 +2567,7 @@
     
   
 </footer>
-<div class="mini-cart is-empty" data-mc-locale="en-us" tabindex="0" style="top: 289px;" aria-labelledby="mcEmpty">
+<div class="mini-cart is-empty" data-mc-locale="en-us" tabindex="0" style="top: 164px;" aria-labelledby="mcEmpty">
     <div class="mc-header">
         <div class="mc-ctas">
             <a class="btn btn--default btn--outlined visible--desktop visible--tablet visible--mobile" href="/cart">
@@ -2584,7 +2584,7 @@
             <span id="mcTotalPrice" class="mc-total-price"></span>
         </h5>
     </div>
-    <div class="mc-items" data-qty-label="QTY: " style="padding-bottom: 225px;"></div>
+    <div class="mc-items" data-qty-label="QTY: " style="padding-bottom: 100px;"></div>
     <div class="mc-empty" id="mcEmpty">Your cart is empty.</div>
 </div>
     </section>

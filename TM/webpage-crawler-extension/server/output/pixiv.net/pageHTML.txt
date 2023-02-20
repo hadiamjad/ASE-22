@@ -63,7 +63,7 @@ var pageLoadStartTime = +(new Date);
         value: "https:\/\/source.pixiv.net\/www\/js\/build\/"
     })
 </script>
-<meta id="meta-pixiv-tests" name="pixiv-tests" content="{&quot;ab_manga_new_viewer&quot;:true,&quot;touch_top_jack&quot;:true,&quot;touch_premium_popular_search_modal&quot;:true,&quot;toggles&quot;:{&quot;toggle_commission_jcb_logo&quot;:true,&quot;toggle_novel_word_count&quot;:true}}">
+<meta id="meta-pixiv-tests" name="pixiv-tests" content="{&quot;ab_manga_new_viewer&quot;:true,&quot;touch_top_jack&quot;:true,&quot;toggles&quot;:{&quot;toggle_commission_jcb_logo&quot;:true,&quot;toggle_novel_word_count&quot;:true}}">
 
 
 <link rel="stylesheet" href="https://source.pixiv.net/www/js/build/pixiv.cb9af9e5edf8615fa7f5.css" crossorigin="anonymous"><script src="https://source.pixiv.net/www/js/build/4.30b27b9482718992c141.js" charset="utf8" crossorigin="anonymous"></script><script src="https://source.pixiv.net/www/js/build/vendors~clipstudio~dashboard~pixiv~preview~spa.illust~spa.illustSeries~spa.novel~spa.novelSeries~spa~393f50c8.ea714cc7d2fbffc7895f.js" charset="utf8" crossorigin="anonymous"></script><script src="https://source.pixiv.net/www/js/build/pixiv.14f64be18ef783e6edb1.js" charset="utf8" crossorigin="anonymous"></script>
@@ -73,7 +73,7 @@ var pageLoadStartTime = +(new Date);
     pixiv.commonSourcePath = "https:\/\/source.pixiv.net\/common\/";
     pixiv.config.sketchUrlBase = "https:\/\/sketch.pixiv.net";
     pixiv.config.oneSignalAppId = "b2af994d-2a00-40ba-b1fa-684491f6760a";
-    pixiv.context.token = "880e84fe0a395a2551b9f0bedaeb4f46";
+    pixiv.context.token = "ef54b2406c2a8a99aa39b9e4e27b13ac";
     
     </script>
     <script>
@@ -273,7 +273,7 @@ var pageLoadStartTime = +(new Date);
             _gaq.push(['_setCustomVar', 1, 'login', 'no', 3]);
         }
 
-        _gaq.push(['_setCustomVar', 25, 'first_visit_datetime_pc', "2023-02-13 00:14:44", 3]);
+        _gaq.push(['_setCustomVar', 25, 'first_visit_datetime_pc', "2023-02-13 09:54:47", 3]);
 
         (function() {
             // クッキーあれば、一回でもログインした人とみなす
@@ -458,45 +458,45 @@ pixiv.text.femaleRanking = 'Popularity Ranking (Females)';
         </div>
     </noscript>
 
-    <div id="background-slideshow"><div class=" slide"><div class="wallpaper" style="background-image:url('https://i.pximg.net/img-master/img/2013/12/09/20/52/42/40191798_p0_master1200.jpg')">
+    <div id="background-slideshow"><div class=" slide"><div class="wallpaper" style="background-image:url('https://i.pximg.net/img-master/img/2016/05/27/00/12/07/57080648_p0_master1200.jpg')">
     <div class="user-info">
-        <a href="https://www.pixiv.net/en/users/3351039" target="_blank">
-            <div class="user-icon" style="background-image:url('https://i.pximg.net/user-profile/img/2013/03/21/15/52/43/5990070_c93b9aa0b1fd1da49dcf7bc9d4edbdca_50.jpg')">
+        <a href="https://www.pixiv.net/en/users/211515" target="_blank">
+            <div class="user-icon" style="background-image:url('https://i.pximg.net/user-profile/img/2022/07/15/08/55/33/23026086_450dd6ca370eeac91a8774e86057410d_50.jpg')">
             </div>
         </a>
         <div class="description">
             <div class="illust-title">
-                <a href="https://www.pixiv.net/en/artworks/40191798" target="_blank">
-                    下がってて
+                <a href="https://www.pixiv.net/en/artworks/57080648" target="_blank">
+                    夢風のラプソディー
                 </a>
             </div>
             <div class="user-name">
-                <a href="https://www.pixiv.net/en/users/3351039" target="_blank">
-                    pskさんの作品
+                <a href="https://www.pixiv.net/en/users/211515" target="_blank">
+                    防人さんの作品
                 </a>
             </div>
         </div>
     </div>
-</div></div><div class=" slide"><div class="wallpaper" style="background-image:url('https://i.pximg.net/img-master/img/2012/02/10/00/12/59/24958388_p0_master1200.jpg')">
+</div></div><div class=" slide"><div class="wallpaper" style="background-image:url('https://i.pximg.net/img-master/img/2014/12/18/23/09/24/47621790_p0_master1200.jpg')">
     <div class="user-info">
-        <a href="https://www.pixiv.net/en/users/27087" target="_blank">
-            <div class="user-icon" style="background-image:url('https://i.pximg.net/user-profile/img/2014/05/29/18/32/16/7926046_bcd4d216d7d0c8fbfeb1062bf70617f5_50.png')">
+        <a href="https://www.pixiv.net/en/users/202175" target="_blank">
+            <div class="user-icon" style="background-image:url('https://i.pximg.net/user-profile/img/2012/02/06/20/44/48/4172636_cf06fd6cfd7be58ee2990a9f97db6cb8_50.jpg')">
             </div>
         </a>
         <div class="description">
             <div class="illust-title">
-                <a href="https://www.pixiv.net/en/artworks/24958388" target="_blank">
-                    探偵のブランチ
+                <a href="https://www.pixiv.net/en/artworks/47621790" target="_blank">
+                    朝の海港
                 </a>
             </div>
             <div class="user-name">
-                <a href="https://www.pixiv.net/en/users/27087" target="_blank">
-                    雨さんの作品
+                <a href="https://www.pixiv.net/en/users/202175" target="_blank">
+                    ArseniXCさんの作品
                 </a>
             </div>
         </div>
     </div>
-</div></div></div><div id="search-bar"><div class="charcoal-token" data-theme="default"><div class="_3t-4thH"><a class="_369FxZ0" href="/en/"></a><form class="_3wjhj7j"><input class="_2tR5RNf" type="text" placeholder="Search pixiv" value=""></form></div></div></div><div class="signup-form"><div class="signup-form__logo-box"><div class="signup-form__logo"></div><div class="signup-form__catchphrase">Spice up your creating process</div></div><div><a href="/signup.php?ref=wwwtop_accounts_index" class="signup-form__submit js-click-trackable" data-click-category="signup_pc_page" data-click-action="step1" data-click-label="mail">Create an account</a><a href="/login.php?ref=wwwtop_accounts_index" class="signup-form__submit--login">Login</a></div><div class="signup-form__sns-btn-area"><div class="signup-form__sns-btn-area index"><div>Begin with an existing account</div><div class="sns-button-list"><form method="POST" action="https://accounts.pixiv.net/pigya/start" class="sns-login-form"><input type="hidden" name="tt" value="880e84fe0a395a2551b9f0bedaeb4f46"><input type="hidden" name="mode" value="signin"><input type="hidden" name="provider" value="apple"><input type="hidden" name="lang" value="en"><input type="hidden" name="source" value="pc"><input type="hidden" name="view_type" value="page"><button type="submit" class="btn-item js-click-trackable compact index btn-apple" data-category="signup_page_pc" data-action="step1" data-label="apple">Continue with Apple</button></form><form method="POST" action="https://accounts.pixiv.net/pigya/start" class="sns-login-form"><input type="hidden" name="tt" value="880e84fe0a395a2551b9f0bedaeb4f46"><input type="hidden" name="mode" value="signin"><input type="hidden" name="provider" value="twitter"><input type="hidden" name="lang" value="en"><input type="hidden" name="source" value="pc"><input type="hidden" name="view_type" value="page"><button type="submit" class="btn-item js-click-trackable compact index btn-twitter" data-category="signup_page_pc" data-action="step1" data-label="twitter">Continue with Twitter</button></form><form method="POST" action="https://accounts.pixiv.net/pigya/start" class="sns-login-form"><input type="hidden" name="tt" value="880e84fe0a395a2551b9f0bedaeb4f46"><input type="hidden" name="mode" value="signin"><input type="hidden" name="provider" value="googleplus"><input type="hidden" name="lang" value="en"><input type="hidden" name="source" value="pc"><input type="hidden" name="view_type" value="page"><button type="submit" class="btn-item js-click-trackable compact index btn-gplus" data-category="signup_page_pc" data-action="step1" data-label="googleplus">Continue with Google</button></form><form method="POST" action="https://accounts.pixiv.net/pigya/start" class="sns-login-form"><input type="hidden" name="tt" value="880e84fe0a395a2551b9f0bedaeb4f46"><input type="hidden" name="mode" value="signin"><input type="hidden" name="provider" value="facebook"><input type="hidden" name="lang" value="en"><input type="hidden" name="source" value="pc"><input type="hidden" name="view_type" value="page"><button type="submit" class="btn-item js-click-trackable compact index btn-facebook" data-category="signup_page_pc" data-action="step1" data-label="facebook">Continue with Facebook</button></form></div></div></div><div class="recaptcha-terms">
+</div></div></div><div id="search-bar"><div class="charcoal-token" data-theme="default"><div class="_3t-4thH"><a class="_369FxZ0" href="/en/"></a><form class="_3wjhj7j"><input class="_2tR5RNf" type="text" placeholder="Search pixiv" value=""></form></div></div></div><div class="signup-form"><div class="signup-form__logo-box"><div class="signup-form__logo"></div><div class="signup-form__catchphrase">Spice up your creating process</div></div><div><a href="/signup.php?ref=wwwtop_accounts_index" class="signup-form__submit js-click-trackable" data-click-category="signup_pc_page" data-click-action="step1" data-click-label="mail">Create an account</a><a href="/login.php?ref=wwwtop_accounts_index" class="signup-form__submit--login">Login</a></div><div class="signup-form__sns-btn-area"><div class="signup-form__sns-btn-area index"><div>Begin with an existing account</div><div class="sns-button-list"><form method="POST" action="https://accounts.pixiv.net/pigya/start" class="sns-login-form"><input type="hidden" name="tt" value="ef54b2406c2a8a99aa39b9e4e27b13ac"><input type="hidden" name="mode" value="signin"><input type="hidden" name="provider" value="apple"><input type="hidden" name="lang" value="en"><input type="hidden" name="source" value="pc"><input type="hidden" name="view_type" value="page"><button type="submit" class="btn-item js-click-trackable compact index btn-apple" data-category="signup_page_pc" data-action="step1" data-label="apple">Continue with Apple</button></form><form method="POST" action="https://accounts.pixiv.net/pigya/start" class="sns-login-form"><input type="hidden" name="tt" value="ef54b2406c2a8a99aa39b9e4e27b13ac"><input type="hidden" name="mode" value="signin"><input type="hidden" name="provider" value="twitter"><input type="hidden" name="lang" value="en"><input type="hidden" name="source" value="pc"><input type="hidden" name="view_type" value="page"><button type="submit" class="btn-item js-click-trackable compact index btn-twitter" data-category="signup_page_pc" data-action="step1" data-label="twitter">Continue with Twitter</button></form><form method="POST" action="https://accounts.pixiv.net/pigya/start" class="sns-login-form"><input type="hidden" name="tt" value="ef54b2406c2a8a99aa39b9e4e27b13ac"><input type="hidden" name="mode" value="signin"><input type="hidden" name="provider" value="googleplus"><input type="hidden" name="lang" value="en"><input type="hidden" name="source" value="pc"><input type="hidden" name="view_type" value="page"><button type="submit" class="btn-item js-click-trackable compact index btn-gplus" data-category="signup_page_pc" data-action="step1" data-label="googleplus">Continue with Google</button></form><form method="POST" action="https://accounts.pixiv.net/pigya/start" class="sns-login-form"><input type="hidden" name="tt" value="ef54b2406c2a8a99aa39b9e4e27b13ac"><input type="hidden" name="mode" value="signin"><input type="hidden" name="provider" value="facebook"><input type="hidden" name="lang" value="en"><input type="hidden" name="source" value="pc"><input type="hidden" name="view_type" value="page"><button type="submit" class="btn-item js-click-trackable compact index btn-facebook" data-category="signup_page_pc" data-action="step1" data-label="facebook">Continue with Facebook</button></form></div></div></div><div class="recaptcha-terms">
     This site is protected by reCAPTCHA Enterprise and the Google
     <a href="https://policies.google.com/privacy"> Privacy Policy</a> and
     <a href="https://policies.google.com/terms"> Terms of Service</a> apply.
@@ -529,7 +529,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             event_params['login'] = 'no';
         }
 
-    event_params['first_visit_datetime_pc'] = "2023-02-13 00:14:44";
+    event_params['first_visit_datetime_pc'] = "2023-02-13 09:54:47";
         (function() {
             // クッキーあれば、一回でもログインした人とみなす
             if (pixiv.user && window.colon && colon.storage) {
@@ -564,5 +564,5 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     event_params['default_service_is_touch'] = 'no';gtag('set', 'user_properties', {...user_properties});gtag('config', 'G-75BBYNYN9J', {...event_params});</script>
 <script id="capybara-status-check" data-t-code="0ec06063442619c76e42d6ebed9fa6dd" data-m-code="5276059c3a4531f3da239d1ea8771242"></script>
 
-<script>(function(){var js = "window['__CF$cv$params']={r:'7986469208b81fec',m:'ILejqgDObNnjaKzZrRWkyylsZ9mK4GWU2ufMJM4FF6w-1676214884-0-AYXT3jk8uKZXMcfTtwE9zc72Bw/LU9S0IW0OcZxerSyaVo9bho0sZnYD8km2kAlHm+57s5KNUAXeHFKWdyEygvsJlguJvL5Rwa1lRUFx1whS/T7ak381EvNcysFRmqjEcw==',s:[0xb7d107bd82,0x7cafba2b89],u:'/cdn-cgi/challenge-platform/h/b'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/b/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7989984568d00571',m:'U9rjJvln4yRcjSi021hmVSyja8SD8bp1S7G_I4WpU1U-1676249688-0-AQ91RbzMWkqhv71DmEtvLEevgZXSrs36ZjYiLF3m37C294+SsDTZ7E5vF3qfO4MqvPNctTafIMrOvKiCOhC4x7N+mmMhYIVf7IShBT3bMUMMnMCvuCNcpJNteFBTNtEgHA==',s:[0x4ea65de0f5,0xaefa60a619],u:'/cdn-cgi/challenge-platform/h/b'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/b/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe>
 <div id="fb-root"></div><div style="display: none;"><div id="gtm-var-theme-kind" class="sc-ozhiiy-0 eyYyYV">default</div><div class="charcoal-token" data-theme="default"><div></div></div></div><div><div class="charcoal-token" data-theme="default"><div id="toolbar-items"><div style="transform: translateY(0%); opacity: 1;"></div></div></div></div></body></html>

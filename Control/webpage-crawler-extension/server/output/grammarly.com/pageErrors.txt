@@ -1,1 +1,1 @@
-[{'level': 'SEVERE', 'message': 'https://tag.segmetrics.io/aZBxp9.js - Failed to load resource: the server responded with a status of 403 ()', 'source': 'network', 'timestamp': 1676156812892}]
+[{'level': 'SEVERE', 'message': 'https://tag.segmetrics.io/aZBxp9.js - Failed to load resource: the server responded with a status of 403 ()', 'source': 'network', 'timestamp': 1676224997569}, {'level': 'SEVERE', 'message': 'https://cdn.pdst.fm/ping.min.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED', 'source': 'network', 'timestamp': 1676225012172}]

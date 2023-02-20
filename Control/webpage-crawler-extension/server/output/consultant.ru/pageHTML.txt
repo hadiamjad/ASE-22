@@ -12,7 +12,7 @@
     <meta name="theme-color" content="#ffffff">
     <title>"КонсультантПлюс" - законодательство РФ: кодексы, законы, указы, постановления Правительства Российской Федерации, нормативные акты</title>
     <meta name="csrf-param" content="_csrf">
-<meta name="csrf-token" content="l4B96MbpU8wNUNTR_IJFNrBEz7fMWObyWbc3UBYRG8D8zByk9YYHjVxhi7qe-gZm9Se33LU9qqc-3kdgL3pYrQ==">
+<meta name="csrf-token" content="CHXr8MMMYCt1bJIsvVJjSnSToOt1BNLRV-j5iInokK07BaqVlX9NaTAA5GfEBwkuOMyXox1XgrsRjZTc5p6n7w==">
     <meta name="backend-number" content="1">
 <meta name="app-version" content="release-2022.4.2.611188">
 <meta name="description" content="КонсультантПлюс - законодательство РФ кодексы и законы в последней редакции. Удобный поиск законов кодексов приказов и других документов. Ежедневные обзоры законов. Консультации по бухучету и налогообложению">
@@ -271,7 +271,7 @@
 </div>
 
 <div class="bn width-container index-page__bn">
-    <div id="ban__148" class="bn__inner" data-banner-zone="148" data-banner-flash="0"><div class="banner-container banner-container-148"><iframe src="//banner.consultant.ru/files/html/6431/?ban_id=6431;zone=148;from=https%3A%2F%2Fwww.consultant.ru%2F" border="0" scrolling="no" allowtransparency="true" style="border:0;max-width:1200px;max-height:92px;width:100%;"></iframe></div></div>
+    <div id="ban__148" class="bn__inner" data-banner-zone="148" data-banner-flash="0"><div class="banner-container banner-container-148"><iframe src="//banner.consultant.ru/files/html/6473/?ban_id=6473;zone=148;from=https%3A%2F%2Fwww.consultant.ru%2F" border="0" scrolling="no" allowtransparency="true" style="border:0;max-width:1200px;max-height:92px;width:100%;"></iframe></div></div>
 </div>
 </div>
 

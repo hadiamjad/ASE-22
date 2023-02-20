@@ -231,7 +231,7 @@
                  //blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEimtbw80CCLtvcJuebH4o_KxaZHMu9gxhLmRp46gbDVHGgUn9s1DRTADU62y1MQOJIdzNxmufhFojbyyuBrQ2ffuzi-9YZyM3f4Zy7S7KB2qRfltzNhAHxFaFKMSoUliMnOD6NlV9arnQKZDP4RUeiqtLvskDI/w1200 1200w,
                  //blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEiyQ6GtlXVOmmMLLo_DBHN1okIk17WLxfB2vcHB6_1KHxz-6wCUdRSNWjcZe5gPIKSIblqQ0zqopBWzdtqE-wggkvDJ89hkUYmLF4heuGdwQIuDqwWKExzgGcoq7GXulTZhYzu8che7grqDOuMFtaZW4xYzbtY/d 1600w">
     </div>
-    <div class="theme js-theme blue">
+    <div class="theme js-theme blue active">
     <img src="//blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEh2laDeXB7n-ii0OHD9xbs92MYm-ioXglO5bnjdCeKjqlVbxT92fsX327KoETejypS8KmBQ7j-q-q74d7g40Be3CgppbECd-lddWaSsLibm6OL8Lvj3LFkrKvBoyvfzDP80QF7pth-br1HL-ruRqstq6ZC_51s/d" class="theme--layer theme--layer-1 drone" alt="Drone" sizes="24vw" srcset="//blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEhacMpJwBeb-w2SSxMNGDoTKL1bJaJreCbVvlxE5JJM-X1WIjQu53dV1o-02ikWYp5E-FUIdRGvRsHWheW-w2Je8orHGKuLHK4mMjNPL7E9iuOAA7KL23wobf9SCP2SfYR5Nz0DzYESpCxmJVMky2osjexSzyE/w32 32w,
                  //blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEiBUnz0Fme6mIx6-nz4hWdTckAQRTeAdQOEo_sO-IvrgWBFmWSGogC9kKhpqewvQsP9XdYAjFFsNwB-JzkyGF9osCSjVXJXrku7OIRpCb198I_NsDsPiZXFaXMQ171e_88KF2mpucUjyfLml-JSEDQn8mLr1yo/w48 48w,
                  //blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgQ7KJX5GI0j6SKgplRJxpsvKsKzWSMQDZn6yt28oca5SkR1L2dBRN8MVk-qwttK2ElF2gIhYchA9_xB260VIiLcnQOWLdZLGPritSZpzlpl-CaARdUlUUaK61MSMGWGtyBP1NneGLaD7uNk011tVbbcRUyHLw/w64 64w,
@@ -324,7 +324,7 @@
                  //blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEiTNsfPA9sHAw6l3C2zRSoG545NWaxjDa2zUbVwVZh1XeatXSlCHLr-vjyUfhIohSKIZKVQCZpnJQYpg0jG-Bvv-f9ZHNJHH6G-oyX3JZClmj-_d10X7S23JSpwLNohceQVf1Ks6RKKIJ0hxbVv6uN0ti_S8w/w1200 1200w,
                  //blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgIrJKZ_4spl718d30Rj3kSfOP4JTC-hBxwdV29Pi8rOjxJGWneEbxI0hoosk3YIHg_lQTqfh-ccINxEq2aGr4P4UUIG5y2waucqQFVRElz5EcARIMVYTdvIMOl4k4AnPsjhsBpFwIC2KULqoH8ZiEXs0A5ZA/d 1600w">
     </div>
-    <div class="theme js-theme red active">
+    <div class="theme js-theme red">
     <img src="//blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEhUmhE5cafow6wd42UUaCmDR_nKMXjs8aIc9ssXduyBqn-SNlMD6z1LjzuscTbRsxrrXErRj6lqa6KL4JTRnuygGI1R0SKZvw5tuhfSeEQtHTdAgIUwT4kdvz4EdAIQneLeNILKxTV7dhjFRvAbwIvHG1UV0Q/d" class="theme--layer theme--layer-1 spoon" alt="Spoon" sizes="21vw" srcset="//blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEi2pp0gqzj6nFsLn79ZTvF-1YDW9qmUIZcdArg82Iuc4_ZzwRCxUOheJ2wAnyRsU-sUtqT51xZvDQMcDOlwz7McH3CqpJlB4qy9-Zojpp0TbzTlubgSIsJ9CTyhqH5eO7lRno-OKO-Uu6vhPAaxXnb8w0NNBQ/w32 32w,
                  //blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEjVB5ae4V3BckfmVNvuP9VBpYV3tBoGNkrAsB6qF0o9S-fwxNSH3k1mbwDLBCn98ODiPH4bI51qFbEM4J3yrZ0OCsB-CIrlRiCSLhNFXm3VaTFFd1RS9q6K1pko58_kMLCxx4xa4kBjlX-f82uxSRwz12HqUQ/w48 48w,
                  //blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEiCyDChfP7VHRV8Oq0vwsQ_SSMbcXZCNENcl3ISednwYCna25TI01HsZZZ2s9CJDqc4JQE6oXu0Hmx5sh-bcQV9CJamjkgTyz-EdNfQubq8HZaTOfOErB3GedQ7_sFsNUjkQioT7iyoJ2lejGAMIwC_i5SmPA/w64 64w,

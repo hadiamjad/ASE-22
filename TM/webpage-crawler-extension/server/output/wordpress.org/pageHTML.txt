@@ -94,11 +94,11 @@ body{--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset-
 <style id="core-block-supports-inline-css">
 .wp-container-6.wp-container-6{flex-direction:column;align-items:flex-start;}.wp-container-10.wp-container-10 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:22rem;margin-left:0 !important;margin-right:auto !important;}.wp-container-10.wp-container-10 > .alignwide{max-width:22rem;}.wp-container-11.wp-container-11{flex-wrap:nowrap;gap:var(--wp--preset--spacing--50) var(--wp--preset--spacing--50);}.wp-container-12.wp-container-12.wp-container-12.wp-container-12 > * + *{margin-block-start:var(--wp--preset--spacing--60);margin-block-end:0;}.wp-container-19.wp-container-19 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:520px;margin-left:auto !important;margin-right:auto !important;}.wp-container-19.wp-container-19 > .alignwide{max-width:520px;}.wp-container-21.wp-container-21.wp-container-21.wp-container-21 > * + *{margin-block-start:5px;margin-block-end:0;}.wp-container-28.wp-container-28{justify-content:space-between;}.wp-container-31.wp-container-31{flex-wrap:nowrap;gap:var(--wp--preset--spacing--20);flex-direction:column;align-items:flex-start;}.wp-elements-e094d78191d054effdc000b473c42c7d a{color:var(--wp--preset--color--blueberry-1);}.wp-container-39.wp-container-39{justify-content:flex-start;}.wp-container-54.wp-container-54.wp-container-54.wp-container-54 > * + *{margin-block-start:60px;margin-block-end:0;}.wp-container-56.wp-container-56.wp-container-56.wp-container-56 > * + *{margin-block-start:0px;margin-block-end:0;}.wp-container-68.wp-container-68{flex-wrap:nowrap;justify-content:flex-start;}.wp-container-10.wp-container-10 .alignfull,.wp-container-19.wp-container-19 .alignfull{max-width:none;}.wp-container-12.wp-container-12 > *,.wp-container-17.wp-container-17 > *,.wp-container-21.wp-container-21 > *,.wp-container-27.wp-container-27 > *,.wp-container-54.wp-container-54 > *,.wp-container-56.wp-container-56 > *{margin-block-start:0;margin-block-end:0;}.wp-container-15.wp-container-15,.wp-container-26.wp-container-26,.wp-container-42.wp-container-42,.wp-container-49.wp-container-49,.wp-container-53.wp-container-53{flex-wrap:nowrap;gap:0px;}.wp-container-17.wp-container-17.wp-container-17.wp-container-17 > * + *,.wp-container-27.wp-container-27.wp-container-27.wp-container-27 > * + *{margin-block-start:30px;margin-block-end:0;}.wp-elements-1b98fadf6cdf2c39fec402247b767054 a,.wp-elements-4d0ba1a45b20ce11930a5af3c1367e7c a{color:var(--wp--preset--color--blueberry-2);}.wp-container-22.wp-container-22,.wp-container-36.wp-container-36{flex-wrap:nowrap;gap:100px;}.wp-elements-bcc5e606e94441989a2069c9eb0441a6 a,.wp-elements-5eaf603cd69e261856ec5be1becba9b3 a{color:var(--wp--preset--color--white);}
 </style>
-<link rel="stylesheet" id="wporg-global-fonts-css" href="https://wordpress.org/wp-content/mu-plugins/pub-sync/global-fonts/style.css?ver=1675219972" media="all">
-<link rel="stylesheet" id="wporg-parent-2021-style-css" href="https://wordpress.org/wp-content/themes/wporg-parent-2021/build/style.css?ver=1675895592" media="all">
-<link rel="stylesheet" id="wporg-main-2022-style-css" href="https://wordpress.org/wp-content/themes/wporg-main-2022/build/style/style-index.css?ver=1675900014" media="all">
-<link rel="stylesheet" id="wporg-parent-block-styles-css" href="https://wordpress.org/wp-content/themes/wporg-parent-2021/build/block-styles.css?ver=1675370635" media="all">
-<link rel="stylesheet" id="wporg-global-header-footer-css" href="https://wordpress.org/wp-content/mu-plugins/pub-sync/blocks/global-header-footer/build/style.css?ver=1675904999" media="all">
+<link rel="stylesheet" id="wporg-global-fonts-css" href="https://wordpress.org/wp-content/mu-plugins/pub-sync/global-fonts/style.css?ver=1675219904" media="all">
+<link rel="stylesheet" id="wporg-parent-2021-style-css" href="https://wordpress.org/wp-content/themes/wporg-parent-2021/build/style.css?ver=1675895532" media="all">
+<link rel="stylesheet" id="wporg-main-2022-style-css" href="https://wordpress.org/wp-content/themes/wporg-main-2022/build/style/style-index.css?ver=1675899952" media="all">
+<link rel="stylesheet" id="wporg-parent-block-styles-css" href="https://wordpress.org/wp-content/themes/wporg-parent-2021/build/block-styles.css?ver=1675370562" media="all">
+<link rel="stylesheet" id="wporg-global-header-footer-css" href="https://wordpress.org/wp-content/mu-plugins/pub-sync/blocks/global-header-footer/build/style.css?ver=1675904923" media="all">
 <link rel="stylesheet" id="jetpack_css-css" href="https://wordpress.org/wp-content/plugins/jetpack/css/jetpack.css?ver=11.8" media="all">
 <script src="https://wordpress.org/wp-content/plugins/gutenberg/build/block-library/blocks/navigation/view.min.js?ver=aa58d4d058136adf2722" id="wp-block-navigation-view-js"></script>
 <script src="https://wordpress.org/wp-content/plugins/gutenberg/build/block-library/blocks/navigation/view-modal.min.js?ver=774770b5630ff20f41e1" id="wp-block-navigation-view-modal-js"></script>
@@ -486,7 +486,7 @@ var _zxcvbnSettings = {"src":"https:\/\/wordpress.org\/wp-includes\/js\/zxcvbn.m
 <div class="wp-block-group alignfull is-layout-constrained" style="padding-right:var(--wp--preset--spacing--edge-space);padding-left:var(--wp--preset--spacing--edge-space)">
 <div class="wp-block-group alignwide is-layout-flow wp-container-17" id="intro" style="padding-top:120px;padding-right:0px;padding-bottom:120px;padding-left:0px">
 <div class="wp-block-columns is-layout-flex wp-container-15">
-<div class="wp-block-column is-layout-flow" style="flex-basis:80%"><h1 class="wp-block-wporg-random-heading has-heading-cta-font-size">WordPress: Publish your <em>passion</em></h1></div>
+<div class="wp-block-column is-layout-flow" style="flex-basis:80%"><h1 class="wp-block-wporg-random-heading has-heading-cta-font-size">WordPress: Flex your <em>freedom</em></h1></div>
 
 
 
@@ -945,7 +945,7 @@ var _zxcvbnSettings = {"src":"https:\/\/wordpress.org\/wp-includes\/js\/zxcvbn.m
 <script id="wporg-global-header-script-js-extra">
 var wporgGlobalHeaderI18n = {"openSearchLabel":"Open Search","closeSearchLabel":"Close Search","overflowMenuLabel":"More menu"};
 </script>
-<script src="https://wordpress.org/wp-content/mu-plugins/pub-sync/blocks/global-header-footer/js/view.js?ver=1659374909" id="wporg-global-header-script-js"></script>
+<script src="https://wordpress.org/wp-content/mu-plugins/pub-sync/blocks/global-header-footer/js/view.js?ver=1659374805" id="wporg-global-header-script-js"></script>
 	<script src="https://stats.wp.com/e-202306.js" defer=""></script>
 	<script>
 		_stq = window._stq || [];

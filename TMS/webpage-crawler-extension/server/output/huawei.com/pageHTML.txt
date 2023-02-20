@@ -44,7 +44,7 @@
 <body>
     <form method="post" action="/en/?ic_medium=direct&amp;ic_source=surlent" id="form1">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="KZZQZPFGwopxomd91nR/3hicoEvYTa33+u1D0rdwZvgoQ0n1CKf7i/+3kmKP2DVtQQmHS1K4Uw4jRxQHgW37crzmbW59YjgDsB4s6Qxle5zYPzMOtnZ6eAFud/SdKiMMgSRj7Q==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="7S2OP2QkaIRKEnVq+fUngsrZtJFILKoUpB1O9qrysQj+QYrKULLN9YyfS7T+//tKbCK1JM9xpOkMT298ecLcXr/JPrPqO06n1gIjgFV1W4HMQGSNTDdOlhQBs8775ebkuYanug==">
 </div>
 </form>
     
@@ -141,7 +141,7 @@
                 </a>
                 
         
-            <a href="https://www.huawei.com/en/account/login?redirect=https%3a%2f%2fwww.huawei.com%2fen%2f%3fic_medium%3ddirect%26ic_source%3dsurlent%26inajax%3d1&amp;lang=en" onclick="ga('send', 'event', 'header', 'login');" data-id="{BDDE876F-D975-4EDE-B534-33EDF05110B0}" style="">
+            <a href="https://www.huawei.com/en/account/login?redirect=https%3a%2f%2fwww.huawei.com%2fen%2f%3futm_source%3dbonree&amp;lang=en" onclick="ga('send', 'event', 'header', 'login');" data-id="{BDDE876F-D975-4EDE-B534-33EDF05110B0}" style="">
                 <span class="iconfont icon-header-login" style=""></span>
                 <span class="text">
                     Log in
@@ -159,7 +159,7 @@
         
     
         
-            <a href="/en/account/loginout?rediurl=https%3a%2f%2fwww.huawei.com%2fen%2f%3fic_medium%3ddirect%26ic_source%3dsurlent%26inajax%3d1" onclick="ga('send', 'event', 'header', 'logout');" data-id="{E48CF523-1FCA-446D-AD7E-B07CCF967A8E}" style="display:none;">
+            <a href="/en/account/loginout?rediurl=https%3a%2f%2fwww.huawei.com%2fen%2f%3futm_source%3dbonree" onclick="ga('send', 'event', 'header', 'logout');" data-id="{E48CF523-1FCA-446D-AD7E-B07CCF967A8E}" style="display:none;">
                 <span class="iconfont icon-header-login" style=""></span>
                 <span class="text">
                     Log out
@@ -1163,7 +1163,7 @@ Back to Main Menu
     
     <div class="panel-img-list-mobile-slide hidden-md hidden-lg">
         <div class="swiper-container js-swiper-container swiper-container-initialized swiper-container-horizontal" data-slides-per-view="1" data-slides-per-group="1" data-loop="true" data-autoplay="{&quot;delay&quot;:4000, &quot;disableOnInteraction&quot;: true}">
-            <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-360px, 0px, 0px);"><div class="swiper-slide slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="2" style="width: 180px;">
+            <div class="swiper-wrapper" style="transition-duration: 300ms; transform: translate3d(-720px, 0px, 0px);"><div class="swiper-slide slide swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="2" style="width: 180px;">
                             <a href="https://consumer.huawei.com/en/headphones/freebuds-pro-2/?ic_medium=hwdc&amp;ic_source=corp_boxrow2left_freebuds-pro-2/" target="_blank" onclick="ga('send','event', 'corp_hp_clicks','box_row2_left', 'freebuds-pro-2');" rel="noopener nofollow">    
                             <div class="img-box">
                                 <div class="mask"></div>
@@ -1179,7 +1179,7 @@ Back to Main Menu
                             </a>
                         </div>
                 
-                        <div class="swiper-slide slide swiper-slide-prev" data-swiper-slide-index="0" style="width: 180px;">
+                        <div class="swiper-slide slide swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 180px;">
                             <a href="https://consumer.huawei.com/en/laptops/matebook-x-pro-2022-12th-gen-core/?ic_medium=hwdc&amp;ic_source=corp_boxrow1left_matebook-x-pro-2022-12th-gen-core/" target="_blank" onclick="ga('send', 'event', 'corp_hp_clicks', 'box_row1_left', 'matebookxpro2022');" rel="noopener nofollow">    
                             <div class="img-box">
                                 <div class="mask"></div>
@@ -1195,7 +1195,7 @@ Back to Main Menu
                             </a>
                         </div>
                     
-                        <div class="swiper-slide slide swiper-slide-active" data-swiper-slide-index="1" style="width: 180px;">
+                        <div class="swiper-slide slide" data-swiper-slide-index="1" style="width: 180px;">
                             <a href="https://consumer.huawei.com/en/wearables/watch-gt3-pro-ceramic/?ic_medium=hwdc&amp;ic_source=corp_boxrow1right_watch-gt-3-pro-ceramic/" target="_blank" onclick="ga('send', 'event','corp_hp_clicks', 'box_row1_right', 'watch-gt-3-pro');" rel="noopener nofollow">    
                             <div class="img-box">
                                 <div class="mask"></div>
@@ -1211,7 +1211,7 @@ Back to Main Menu
                             </a>
                         </div>
                     
-                        <div class="swiper-slide slide swiper-slide-next" data-swiper-slide-index="2" style="width: 180px;">
+                        <div class="swiper-slide slide swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="2" style="width: 180px;">
                             <a href="https://consumer.huawei.com/en/headphones/freebuds-pro-2/?ic_medium=hwdc&amp;ic_source=corp_boxrow2left_freebuds-pro-2/" target="_blank" onclick="ga('send','event', 'corp_hp_clicks','box_row2_left', 'freebuds-pro-2');" rel="noopener nofollow">    
                             <div class="img-box">
                                 <div class="mask"></div>
@@ -1227,7 +1227,7 @@ Back to Main Menu
                             </a>
                         </div>
                     
-            <div class="swiper-slide slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 180px;">
+            <div class="swiper-slide slide swiper-slide-duplicate swiper-slide-active" data-swiper-slide-index="0" style="width: 180px;">
                             <a href="https://consumer.huawei.com/en/laptops/matebook-x-pro-2022-12th-gen-core/?ic_medium=hwdc&amp;ic_source=corp_boxrow1left_matebook-x-pro-2022-12th-gen-core/" target="_blank" onclick="ga('send', 'event', 'corp_hp_clicks', 'box_row1_left', 'matebookxpro2022');" rel="noopener nofollow">    
                             <div class="img-box">
                                 <div class="mask"></div>
@@ -1243,7 +1243,7 @@ Back to Main Menu
                             </a>
                         </div></div>
         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-        <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span></div>
+        <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span></div>
     </div>
     <div class="panel-img-list">
         

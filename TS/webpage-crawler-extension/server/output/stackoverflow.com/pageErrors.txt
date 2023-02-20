@@ -1,0 +1,1 @@
+[{'level': 'WARNING', 'message': "security - Error with Feature-Policy header: Unrecognized feature: 'speaker'.", 'source': 'security', 'timestamp': 1676757550574}, {'level': 'SEVERE', 'message': 'https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ - Failed to load resource: net::ERR_BLOCKED_BY_CLIENT', 'source': 'network', 'timestamp': 1676757550802}]

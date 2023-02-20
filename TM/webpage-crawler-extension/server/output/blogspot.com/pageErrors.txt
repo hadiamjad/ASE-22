@@ -1,1 +1,1 @@
-[{'level': 'SEVERE', 'message': 'https://www.blogger.com/about/?bpli=1 48:241 Uncaught SyntaxError: Unexpected identifier', 'source': 'javascript', 'timestamp': 1676213351632}]
+[{'level': 'SEVERE', 'message': 'https://www.blogger.com/about/?bpli=1 48:241 Uncaught SyntaxError: Unexpected identifier', 'source': 'javascript', 'timestamp': 1676245721236}]

@@ -1,1 +1,1 @@
-[{'level': 'SEVERE', 'message': 'https://static.snapchat.com/snapchat-dot-com/_next/static/chunks/framework-fe45520d1523d111.js 0:109370 Uncaught ReferenceError: notxi is not defined', 'source': 'javascript', 'timestamp': 1676214268994}]
+[{'level': 'SEVERE', 'message': 'https://static.snapchat.com/snapchat-dot-com/_next/static/chunks/framework-fe45520d1523d111.js 0:109370 Uncaught ReferenceError: notxi is not defined', 'source': 'javascript', 'timestamp': 1676248167139}]

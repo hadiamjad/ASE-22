@@ -220,7 +220,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </a>
         </div>
         
-      </div>      <div id="J_shopCategories" class="shop-categories c-white">
+      </div>      <div id="J_shopCategories" class="shop-categories c-black">
         <div class="categories-wrapper">
                   <dl>
           <dt class="main-category">
@@ -702,7 +702,7 @@ Clear 1080p images | Certified Android TV™</p>
 		<img class="slide-image" data-ot-info="{&quot;tip&quot;:{&quot;d&quot;:3},&quot;elementName&quot;:&quot;3&quot;,&quot;linkUrl&quot;:&quot;https://www.mi.com/us/product/redmi-buds-3-lite/&quot;,&quot;elementTitle&quot;:&quot;3&quot;}" src="https://i01.appmifile.com/webfile/globalimg/ykd/3lite.jpg" alt="Redmi Buds 3 Lite" style="width: auto; height: 100%; margin-left: -960px; margin-top: -385px;">
 	</a>
 	<div>
-		<div class="txt c-black" data-color="c-black" style="top: 50%; margin-top: -148px; left: 50%; margin-left: -513px;" data-layout="layout_1">
+		<div class="txt c-black leave" data-color="c-black" style="top: 50%; margin-top: -148px; left: 50%; margin-left: -513px;" data-layout="layout_1">
       <h3 class="title" style="font-size: 60px;">Redmi Buds 3 Lite</h3>
               <p class="descp">Secure and comfortable | Easy connections | Bluetooth 5.2 | Up to 18 hours long battery life | Superior sound quality | IP54 dust and water-resistance</p>
   			<p class="price follow">
@@ -714,12 +714,12 @@ Clear 1080p images | Certified Android TV™</p>
         
       
     
-        <div class="slider" style="float: none; list-style: none; position: absolute; width: 1226px; z-index: 0; display: block; opacity: 0.0810215;">
+        <div class="slider" style="float: none; list-style: none; position: absolute; width: 1226px; z-index: 50; display: block;">
 	<a class="onetrack-slide" target="_blank" href="https://www.mi.com/us/product/redmi-buds-3-pro/overview" onclick="Xiaomi.utils.trackGALink(this,'Redmi Buds 3 Pro-slider');_msq.push(['trackEvent', 'event', 'index', '-banner-banner4_click', 'https://www.mi.com/us/product/redmi-buds-3-pro/overview']);" data-stat-aid="HWAA13cdaebfdcd60385aa5d2f902d7e6ab1" data-stat-pid="49_362_3">
 		<img class="slide-image" data-ot-info="{&quot;tip&quot;:{&quot;d&quot;:4},&quot;elementName&quot;:&quot;4&quot;,&quot;linkUrl&quot;:&quot;https://www.mi.com/us/product/redmi-buds-3-pro/overview&quot;,&quot;elementTitle&quot;:&quot;4&quot;}" src="https://i01.appmifile.com/webfile/globalimg/ykd/Top-Banner.jpg" alt="Redmi Buds 3 Pro" style="width: auto; height: 100%; margin-left: -960px; margin-top: -385px;">
 	</a>
 	<div>
-		<div class="txt c-black leave" data-color="c-black" style="top: 50%; margin-top: -148px; left: 50%; margin-left: -513px;" data-layout="layout_1">
+		<div class="txt c-black enter" data-color="c-black" style="top: 50%; margin-top: -148px; left: 50%; margin-left: -513px;" data-layout="layout_1">
       <h3 class="title" style="font-size: 60px;">Redmi Buds 3 Pro</h3>
               <p class="descp">35dB Smart noise cancellation | Dual-device connectivity 
 Wireless charging | 28h long battery life</p>
@@ -732,12 +732,12 @@ Wireless charging | 28h long battery life</p>
         
       
     
-        <div class="slider" style="float: none; list-style: none; position: absolute; width: 1226px; z-index: 51; display: block; opacity: 0.918978;">
+        <div class="slider" style="float: none; list-style: none; position: absolute; width: 1226px; z-index: 0; display: none;">
 	<a class="onetrack-slide" target="_blank" href="https://www.mi.com/us/product/mi-33w-wall-charger-type-a-type-c-us/overview" onclick="Xiaomi.utils.trackGALink(this,'Mi 33W Wall Charger (Type-A + Type-C)-slider');_msq.push(['trackEvent', 'event', 'index', '-banner-banner5_click', 'https://www.mi.com/us/product/mi-33w-wall-charger-type-a-type-c-us/overview']);" data-stat-aid="HWAA15167d435e6d1400c39191f25df19df3" data-stat-pid="49_362_4">
 		<img class="slide-image" data-ot-info="{&quot;tip&quot;:{&quot;d&quot;:5},&quot;elementName&quot;:&quot;5&quot;,&quot;linkUrl&quot;:&quot;https://www.mi.com/us/product/mi-33w-wall-charger-type-a-type-c-us/overview&quot;,&quot;elementTitle&quot;:&quot;5&quot;}" src="https://i01.appmifile.com/webfile/globalimg/ykd/Top-Banner-Design-Code-PC.jpg" alt="Mi 33W Wall Charger (Type-A + Type-C)" style="width: auto; height: 100%; margin-left: -960px; margin-top: -385px;">
 	</a>
 	<div>
-		<div class="txt c-white enter" data-color="c-white" style="top: 50%; margin-top: -148px; left: 50%; margin-left: -513px;" data-layout="layout_1">
+		<div class="txt c-white" data-color="c-white" style="top: 50%; margin-top: -148px; left: 50%; margin-left: -513px;" data-layout="layout_1">
       <h3 class="title" style="font-size: 60px;">Mi 33W Wall Charger (Type-A + Type-C)</h3>
               <p class="descp">33W high power output | PD fast charging | Dual output ports | Foldable plug</p>
   			<p class="price follow">
@@ -748,7 +748,7 @@ Wireless charging | 28h long battery life</p>
 </div>
         
       
-    </div></div><div class="ui-controls ui-has-pager ui-has-controls-direction"><div class="ui-pager ui-default-pager"><div class="ui-pager-item"><a href="" data-slide-index="0" class="ui-pager-link">1</a></div><div class="ui-pager-item"><a href="" data-slide-index="1" class="ui-pager-link">2</a></div><div class="ui-pager-item"><a href="" data-slide-index="2" class="ui-pager-link">3</a></div><div class="ui-pager-item"><a href="" data-slide-index="3" class="ui-pager-link">4</a></div><div class="ui-pager-item"><a href="" data-slide-index="4" class="ui-pager-link active">5</a></div></div><div class="ui-controls-direction"><a class="ui-prev" href="">Previous</a><a class="ui-next" href="">Next</a></div></div></div>
+    </div></div><div class="ui-controls ui-has-pager ui-has-controls-direction"><div class="ui-pager ui-default-pager"><div class="ui-pager-item"><a href="" data-slide-index="0" class="ui-pager-link">1</a></div><div class="ui-pager-item"><a href="" data-slide-index="1" class="ui-pager-link">2</a></div><div class="ui-pager-item"><a href="" data-slide-index="2" class="ui-pager-link">3</a></div><div class="ui-pager-item"><a href="" data-slide-index="3" class="ui-pager-link active">4</a></div><div class="ui-pager-item"><a href="" data-slide-index="4" class="ui-pager-link">5</a></div></div><div class="ui-controls-direction"><a class="ui-prev" href="">Previous</a><a class="ui-next" href="">Next</a></div></div></div>
     <div class="home-promo">
       <ul class="home-promo-list full-img">
             <li>

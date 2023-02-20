@@ -1,0 +1,213 @@
+<html lang="en"><head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="GloTorrents Download Movies, TV, Music, Softwares and more..">
+        <meta name="author" content="">
+        <title>Home | GloTorrents Torrent Database..</title>
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+        <link href="themes/V2/css/animate.min_41da0b294842bc5d9bae8b5bfb087972.css" rel="stylesheet">
+        <link href="themes/V2/css/lightbox_f01ed4c07a0a7a04602b0607f4f2b5e1.css" rel="stylesheet">
+        <link href="themes/V2/css/main-1_2fe2ef7e2c91fd63f7c215cf9dfd67a6.css" rel="stylesheet">
+        <link href="themes/V2/css/responsive-1_fae968315ef0e1d7f039a0c705a116af.css" rel="stylesheet">
+        <link href="themes/V2/css/new_1d8b4251d80f452470a07f3a96a1c69e.css" rel="stylesheet">
+
+        <!--[if lt IE 9]>
+        <script src="themes/V2/js/html5shiv.js"></script>
+        <script src="themes/V2/js/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="themes/V2/images/ico/favicon.ico">
+        <link rel="apple-touch-icon" sizes="180x180" href="themes/V2/images/ico/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="themes/V2/images/ico/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="themes/V2/images/ico/favicon-16x16.png">
+        <link rel="manifest" href="themes/V2/images/ico/site.webmanifest">
+    </head><!--/head-->
+
+<body>
+<header id="header">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 overflow">
+                <div class="social-icons pull-right">
+                    <ul class="nav nav-pills">
+                        <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                        <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                        <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href=""><i class="fa fa-dribbble"></i></a></li>
+                        <li><a href=""><i class="fa fa-linkedin"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="navbar navbar-inverse" role="banner">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+
+
+            </div>
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active"><a href="home.php">Home</a></li>
+                    <li class="dropdown"><a href="browse.php">Browse Torrents <i class="fa fa-angle-down"></i></a>
+                        <ul role="menu" class="sub-menu">
+                            <li><a href="search.php?cat=41">TV</a></li>
+                            <li><a href="search.php?cat=1">Movies</a></li>
+                            <li><a href="search.php?cat=51">Books</a></li>
+                            <li><a href="search.php?cat=70">Pictures</a></li>
+                            <li><a href="search.php?cat=22">Music</a></li>
+                            <li><a href="search.php?cat=10">Games</a></li>
+                            <li><a href="search.php?cat=50">Adult XXX</a></li>
+                            <li><a href="today.php">Today's</a></li>
+                        </ul>
+                    </li>
+                    
+                    <li><a href="https://forums.glodls.to">Forums</a>
+                    </li>
+                    <li><a href="staff.php">Staff</a></li>
+                    
+
+                </ul>
+            </div>
+            <div class="search">
+                <form role="form">
+                    <i class="fa fa-search"></i>
+                    <div class="field-toggle">
+                        <input type="text" class="search-form" autocomplete="off" placeholder="Search">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</header>
+<!--/#header-->
+                    <section id="home-slider">
+
+
+                <div class="container">
+                    <style>
+                        .icontainer{
+                            /*width: 100%;*/
+                            text-align: center;
+                        }
+
+                    </style>
+
+
+                    <center><img src="/themes/V2/images/logo-big.png" class="img-responsive " alt="logo"></center>
+                    <div class="icontainer">
+                        <a href="auth.php" class="btn btn-common">Sign Up or Login</a>
+
+                        <a href="home.php" class="btn btn-common">Click Here to Access Full Home</a><br><br>
+                    </div>
+                    <div>
+                        <div>
+
+                                <style>
+                                    .inner-addon {
+                                        position: relative;
+                                    }
+
+                                    /* style icon */
+                                    .inner-addon .glyphicon {
+                                        position: absolute;
+                                        padding: 10px;
+                                        pointer-events: none;
+                                    }
+
+                                    /* align icon */
+                                    .left-addon .glyphicon  { left:  0px;}
+                                    .right-addon .glyphicon { right: 0px;}
+
+                                    /* add padding  */
+                                    .left-addon input  { padding-left:  30px; }
+                                    .right-addon input { padding-right: 30px; }
+
+                                    .form-control {
+                                        border: 1px solid #d99c4e;
+                                        font-weight: 300;
+                                        outline: none;
+                                        -webkit-box-shadow: none;
+                                        box-shadow: none;
+                                        height: 40px;
+                                        display: block;
+                                        width: 100%;
+                                        padding: 6px 12px;
+                                        font-size: 14px;
+                                        line-height: 1.42857143;
+                                        color: #555;
+                                        background-color: #fff;
+                                        background-image: none;
+                                        border-radius: 4px;
+                                    }
+
+                                </style>
+
+        <form method="get" action="/search_results.php">
+                                    <div class="inner-addon right-addon">
+                                        <i class="glyphicon glyphicon-search"></i>
+         <input type="text" class="form-control" autocomplete="off" placeholder="Search for torrents here..." value="" name="search" id="q">
+          <input name="incldead" value="Search" type="hidden">
+
+
+
+                                    </div>
+                                </form>
+                                </div> <!------ slider text ---->
+
+
+                        </div><!------ main slider ---->
+
+                    </div><!------ div container ---->
+
+                
+            </section><!------ section ---->
+
+            
+<!--/#home-slider-->
+
+<footer id="footer">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-sm-12">
+                <div class="text-center">
+                    <p>Official Domains: <a href="https://gtdb.cc">https://gtdb.cc</a>
+                    <a href="https://gtdb.to">https://gtdb.to</a>
+                    <!-- <a href="https://glodls.wtf">https://glodls.wtf</a> --> </p>
+
+                </div>
+            </div>
+
+            <div class="col-sm-12">
+                <div class="text-center">
+                    <h4>© GloTorrents 2013 - 2022</h4>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--/#footer-->
+<script src="https://code.jquery.com/jquery-1.11.0.min.js" integrity="sha256-spTpc4lvj4dOkKjrGokIrHkJgNA0xMS98Pw9N7ir9oI=" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/hemes/V2/js/lightbox.min.js"></script>
+<script type="text/javascript" src="/themes/V2/js/wow.min.js"></script>
+<script type="text/javascript" src="/themes/V2/js/main.js"></script>
+
+
+
+
+
+
+
+
+</body></html>

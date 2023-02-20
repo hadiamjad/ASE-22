@@ -7,7 +7,7 @@
       .vjs-fluid:not(.vjs-audio-only-mode) {
         padding-top: 56.25%
       }
-    </style><script nonce="" src="/common/js/marriottCommon.js?seed=AEBiCEaGAQAApvbZlCFc71XPY-8mI-usnFMH8rcuqYKTDikd5_7ucVV8KY44&amp;X-aZnN0eCb--z=q" id="9fb03b66da9eff929adf028b552a4150"></script>
+    </style><script nonce="" src="/common/js/marriottCommon.js?seed=AIBN20eGAQAADyQrkW5LXhirzo_XR3i3lP-S6W1Iwq2wREYdYM3TUbQBpVw1&amp;X-aZnN0eCb--z=q" id="7642ffcf06eb4e192333701c627ff8b1"></script>
     <meta charset="UTF-8">
     <title>Marriott Bonvoy Hotels | Book Directly &amp; Get Exclusive Rates</title>
 
@@ -103,7 +103,7 @@
 
 
 <script type="text/javascript" src="https://www.marriott.com/resources/b5ff879424406f938b23f5e9f0ee55b0f0aafa2feb045"></script><script>var Pipe=(function(n,e){function t(){for(var n,e=c.length-1;e>=0;e--)if((n=c[e]).hasAttribute("data-pipe"))return n.removeAttribute("data-pipe"),n}function o(){0!==l.length||!n.readyState||"complete"!==n.readyState&&"interactive"!==n.readyState||v.onDone()}function r(n){return null!=n&&"object"==typeof n&&"function"==typeof n.then}function i(n,e,t,i){v.onBeforeInit(t,i);var a=n(e),f=function(){l.pop(),v.onAfterInit(t,i),o(t)};r(a)?a.then(f).catch(f):f()}function a(n,t){!1 in e||p.push({name:n,duration:Number(t),entryType:"tailor",startTime:e.now()||Date.now()-e.timing.navigationStart})}function f(n){return function(e){v[n]=e}}var u={},d={},c=n.getElementsByTagName("script"),l=[],p=[],s=function(){},v={onStart:s,onBeforeInit:s,onAfterInit:s,onDone:s},z=[];return{placeholder:function(n){u[n]=t()},start:function(n,e,o){d[n]=t(),e&&(l.push(n),v.onStart(o,n),!function(n,t,c){if(z.indexOf(e)!==-1)return !1;z.push(e);window.addEventListener("DOMContentLoaded",function(){if(n.getElementById(c))return !1;var r=n.createElement(t);(r.id=c),(r.defer=!0),(r.src=e),n.body.appendChild(r);})}(document,"script","esm-"+n))},end:function(n,e,r){var a,f=u[n],c=d[n],p=t(),s=c;if(f){do{a=s,s=s.nextSibling,f.parentNode.insertBefore(a,f)}while(a!==p);f.parentNode.removeChild(f)}for(a=c.nextSibling;a&&1!==a.nodeType;)a=a.nextSibling;a===p&&(a=void 0),c.parentNode.removeChild(c),p.parentNode.removeChild(p),e&&function(b){b=b&&b.__esModule?b["default"]:b;if("function"!=typeof b)return l.pop(),v.onBeforeInit(r,n),v.onAfterInit(r,n),void o();i(b,a,r,n)}(e);},loadCSS:/* @preserve - loadCSS: load a CSS file asynchronously. [c]2016 @scottjehl, Filament Group, Inc. Licensed MIT */function(e){function t(e){if(n.body)return e();setTimeout(function(){t(e)})}function o(){i.addEventListener&&i.removeEventListener("load",o),i.media="all"}var r,i=n.createElement("link"),a=(n.body||n.getElementsByTagName("head")[0]).childNodes;r=a[a.length-1];var f=n.styleSheets;i.rel="stylesheet",i.href=e,i.media="only x",t(function(){r.parentNode.insertBefore(i,r.nextSibling)});var u=function(n){for(var e=i.href,t=f.length;t--;)if(f[t].href===e)return n();setTimeout(function(){u(n)})};return i.addEventListener&&i.addEventListener("load",o),i.onloadcssdefined=u,u(o),i},onStart:f("onStart"),onBeforeInit:f("onBeforeInit"),onAfterInit:f("onAfterInit"),onDone:function(n){var e=v.onDone;v.onDone=function(){e(),n()}},addPerfEntry:a,addTTFMPEntry:function(n){a("ttfmp",n)},getEntries:function(){return p}}})(window.document,window.performance);</script>
-<script id="miDataLayer" data-reactroot="">var dataLayer = {"env_is_prod":"true","env_platform":"AEM-prod","roomkey_api_key":"a9bc92520c8acea6eadbc930b2ce2874","roomkey_api_version":"1.5.1","env_site_id":"US","memState":"unauthenticated","mr_prof_authentication_state":"unauthenticated","sessionId":"24481BEB-E5E2-56A2-AA68-C585A6F029A7","session_jsession_id":"24481BEB-E5E2-56A2-AA68-C585A6F029A7","page_url_path_branch":"/default","cookie_mi_site":"www.marriott.com","env_date_time":"02/12/23 14:01:24","env_site_name":"www.marriott.com","page_domain_name":"www.marriott.com","device_language_preferred":"en_US","cookie_mi_visitor":"24481BEB-E5E2-56A2-AA68-C585A6F029A7","env_img_path":"https://cache.marriott.com","mr_isLinkedUser":"false","page_requested_uri":"/default","ensighten_settings":"ON;SYNCH","prof_address_state":"unauthenticated","brwsrLang":"en_US","env_jacket":"MR","browser_akamai_loc_lat":"28.5987","browser_akamai_loc_long":"-81.3537","browser_akamai_loc_country":"US","rk_enabled":"true","rk_roomKeyBaseURL":"//www.roomkey.com/referrals","rk_errorMessage":"id='error-messages'","rk_isProfileAuthenticated":"false","rk_currency":"AR: ARS,AM: AMD,AW: AWG,AU: AUD,AT: EUR,BE: EUR,BR: BRL,CA: CAD,KY: KYD,CL: CLP,CN: CNY,CR: CRC,CZ: CZK,DK: DKK,DO: DOP,EC: ,EG: EGP,SV: SVC,FR: EUR,GE: GEL,DE: EUR,GR: EUR,GU: ,HU: HUF,IN: INR,ID: IDR,IE: EUR,IL: ILS,IT: EUR,JP: JPY,JO: JOD,KW: KWD,MY: MYR,MX: MXN,NL: EUR,PK: PKR,PA: PAB,PH: PHP,PT: EUR,PE: PEN,PL: PLN,PR: ,QA: QAR,RO: RON,RU: RUB,KN: ,SA: SAR,SG: SGD,KR: KRW,ES: EUR,CH: CHF,TH: THB,TT: TTD,TR: TRY,US: USD,AE: AED,GB: GBP,VE: ,VN: VND,VI: ,CW: ,HN: HNL,BH: BHD,KZ: KZT,SE: SEK,SR: SRD,CO: COP,OM: OMR,JM: JMD,BS: BSD,DZ: DZD,LY: LYD,BB: BBD,AZ: AZN,VG:","rk_cList":"enable.rewards.members: false| enable.successfully.booked: false| enable.redemption.points: false| enable.remember.me: true| enable.mobile: false| enable.session.timeout: false| enable.special.rates.aaa: true| enable.special.rates.senior: true| enable.special.rates.gov: false| enable.users.sgo: false| number.of.pages: -1| enable.presented.hd.solution: true| enable.to.industry_solutions.users: false| enable.to.brand: true| percentage.users.to.show: 100| percentage.users.to.show.incremental: 1| enable.associate.users: false| exclude.special.rates.corpcode: MW1, IBM, EMP, ACC, H77, GEE, TVL, GDY, PEP, ORA, HPQ, DTC, ATT, MEB, TOY, PCW, SAP, T77, SIE, BOE, M11, BOA, WEL, A4Y, MCO, MOD, VZN, EMC, ZG4, G2D, JOH, UAL, UTC, DEL, LAC, LK6, GMC, RAY, MM4, MMB, MMF, MMP| enable.special.rates.corpcode: | user.prevent.roomkey.pop: 0| enable.rewards.basic: true| enable.rewards.silver: true|     enable.rewards.gold: false| enable.rewards.platinum: false| enable.users.corpcode: false| enable.users.groupcode: false| browser.useragent: GomezAgent, iPhone, iPad, Silk, BlackBerry, Trident / 4.0| enable.concur.users: false| enable.hd.solution: true| enable.domains.US: true| enable.domains.GB: true| enable.domains.DE: false| enable.domains.FR: false| enable.domains.AU: true| enable.domains.CN: false| enable.domains.JP: false| enable.domains.ES: true| enable.domains.BR: false| enable.domains.KR: false","mvp_prequal_endpoint":"/aries-common/v1/sendPrequalFOCConfirmation","page_data_layer_ready":"false","request_id":"default.mi~X~3cf5e037463c8c031b38949da9b319fa"}; var mvpOffers = {};</script>
+<script id="miDataLayer" data-reactroot="">var dataLayer = {"env_is_prod":"true","env_platform":"AEM-prod","roomkey_api_key":"a9bc92520c8acea6eadbc930b2ce2874","roomkey_api_version":"1.5.1","env_site_id":"US","memState":"unauthenticated","mr_prof_authentication_state":"unauthenticated","sessionId":"1547B39B-E30D-575A-AB34-B3E459CB692C","session_jsession_id":"1547B39B-E30D-575A-AB34-B3E459CB692C","page_url_path_branch":"/default","cookie_mi_site":"www.marriott.com","env_date_time":"02/12/23 22:44:57","env_site_name":"www.marriott.com","page_domain_name":"www.marriott.com","device_language_preferred":"en_US","cookie_mi_visitor":"1547B39B-E30D-575A-AB34-B3E459CB692C","env_img_path":"https://cache.marriott.com","mr_isLinkedUser":"false","page_requested_uri":"/default","page_url_query_string":"propertyId=NYCZW&amp;brandCode=WI&amp;marshaCode=NYCZW","ensighten_settings":"ON;SYNCH","prof_address_state":"unauthenticated","env_server_id":"prod8","brwsrLang":"en_US","env_jacket":"MR","browser_akamai_loc_lat":"41.8858","browser_akamai_loc_long":"-87.6229","browser_akamai_loc_country":"US","rk_enabled":"true","rk_roomKeyBaseURL":"//www.roomkey.com/referrals","rk_errorMessage":"id='error-messages'","rk_isProfileAuthenticated":"false","rk_currency":"AR: ARS,AM: AMD,AW: AWG,AU: AUD,AT: EUR,BE: EUR,BR: BRL,CA: CAD,KY: KYD,CL: CLP,CN: CNY,CR: CRC,CZ: CZK,DK: DKK,DO: DOP,EC: ,EG: EGP,SV: SVC,FR: EUR,GE: GEL,DE: EUR,GR: EUR,GU: ,HU: HUF,IN: INR,ID: IDR,IE: EUR,IL: ILS,IT: EUR,JP: JPY,JO: JOD,KW: KWD,MY: MYR,MX: MXN,NL: EUR,PK: PKR,PA: PAB,PH: PHP,PT: EUR,PE: PEN,PL: PLN,PR: ,QA: QAR,RO: RON,RU: RUB,KN: ,SA: SAR,SG: SGD,KR: KRW,ES: EUR,CH: CHF,TH: THB,TT: TTD,TR: TRY,US: USD,AE: AED,GB: GBP,VE: ,VN: VND,VI: ,CW: ,HN: HNL,BH: BHD,KZ: KZT,SE: SEK,SR: SRD,CO: COP,OM: OMR,JM: JMD,BS: BSD,DZ: DZD,LY: LYD,BB: BBD,AZ: AZN,VG:","rk_cList":"enable.rewards.members: false| enable.successfully.booked: false| enable.redemption.points: false| enable.remember.me: true| enable.mobile: false| enable.session.timeout: false| enable.special.rates.aaa: true| enable.special.rates.senior: true| enable.special.rates.gov: false| enable.users.sgo: false| number.of.pages: -1| enable.presented.hd.solution: true| enable.to.industry_solutions.users: false| enable.to.brand: true| percentage.users.to.show: 100| percentage.users.to.show.incremental: 1| enable.associate.users: false| exclude.special.rates.corpcode: MW1, IBM, EMP, ACC, H77, GEE, TVL, GDY, PEP, ORA, HPQ, DTC, ATT, MEB, TOY, PCW, SAP, T77, SIE, BOE, M11, BOA, WEL, A4Y, MCO, MOD, VZN, EMC, ZG4, G2D, JOH, UAL, UTC, DEL, LAC, LK6, GMC, RAY, MM4, MMB, MMF, MMP| enable.special.rates.corpcode: | user.prevent.roomkey.pop: 0| enable.rewards.basic: true| enable.rewards.silver: true|     enable.rewards.gold: false| enable.rewards.platinum: false| enable.users.corpcode: false| enable.users.groupcode: false| browser.useragent: GomezAgent, iPhone, iPad, Silk, BlackBerry, Trident / 4.0| enable.concur.users: false| enable.hd.solution: true| enable.domains.US: true| enable.domains.GB: true| enable.domains.DE: false| enable.domains.FR: false| enable.domains.AU: true| enable.domains.CN: false| enable.domains.JP: false| enable.domains.ES: true| enable.domains.BR: false| enable.domains.KR: false","mvp_prequal_endpoint":"/aries-common/v1/sendPrequalFOCConfirmation","page_data_layer_ready":"false","request_id":"default.mi~X~d4552058d4c4a793cf034600a669ab54"}; var mvpOffers = {};</script>
 
 
 
@@ -155,9 +155,9 @@
 
 
 
-<script>bazadebezolkohpepadr="684002575"</script><script type="text/javascript" src="https://www.marriott.com/akam/13/28c50f97" defer=""></script><style>.resize-polyfill-wrapper {position: relative;top: auto !important;left: auto !important;}
+<script>bazadebezolkohpepadr="684002575"</script><script type="text/javascript" src="https://www.marriott.com/akam/13/28c50f93" defer=""></script><style>.resize-polyfill-wrapper {position: relative;top: auto !important;left: auto !important;}
 .resize-polyfill-polyfilled textarea {width: 100%;height: 100%;}
-.resize-polyfill-br {background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAALUlEQVR42mNgwAH279//H4QZyFYAAv///5fBqQurCQQVEHQMVjaMAQQc2BQAABXMU79BvB5bAAAAAElFTkSuQmCC") no-repeat center center;border: 2px solid transparent;bottom: 0px;cursor: se-resize;height: 8px;position: absolute;right: 0px;width: 8px;}</style><style data-styled="active" data-styled-version="5.3.6"></style><link href="/aries/595728aa4/standards/css/foundation.css" rel="preload" as="style"><script charset="utf-8" src="/aries/595728aa4/standards/js/mi-vendors~picturefill.js"></script><link href="https://www.marriott.com/hybrid/homepage/ef3ce92f4a52705893f3/search-form/0.js" rel="preload" as="script"><link href="https://www.marriott.com/hybrid/homepage/ef3ce92f4a52705893f3/search-form/1.js" rel="preload" as="script"><link href="https://www.marriott.com/hybrid/homepage/ef3ce92f4a52705893f3/search-form/3.js" rel="preload" as="script"><link href="https://www.marriott.com/hybrid/homepage/ef3ce92f4a52705893f3/search-form/4.js" rel="preload" as="script"><link href="https://www.marriott.com/hybrid/homepage/ef3ce92f4a52705893f3/search-form/5.js" rel="preload" as="script"><link href="https://www.marriott.com/hybrid/homepage/ef3ce92f4a52705893f3/search-form/6.js" rel="preload" as="script"></head>
+.resize-polyfill-br {background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAALUlEQVR42mNgwAH279//H4QZyFYAAv///5fBqQurCQQVEHQMVjaMAQQc2BQAABXMU79BvB5bAAAAAElFTkSuQmCC") no-repeat center center;border: 2px solid transparent;bottom: 0px;cursor: se-resize;height: 8px;position: absolute;right: 0px;width: 8px;}</style><style data-styled="active" data-styled-version="5.3.6"></style><script charset="utf-8" src="/aries/595728aa4/standards/js/mi-vendors~picturefill.js"></script><link href="/aries/595728aa4/standards/css/foundation.css" rel="preload" as="style"><link href="https://www.marriott.com/hybrid/homepage/ef3ce92f4a52705893f3/search-form/0.js" rel="preload" as="script"><link href="https://www.marriott.com/hybrid/homepage/ef3ce92f4a52705893f3/search-form/1.js" rel="preload" as="script"><link href="https://www.marriott.com/hybrid/homepage/ef3ce92f4a52705893f3/search-form/3.js" rel="preload" as="script"><link href="https://www.marriott.com/hybrid/homepage/ef3ce92f4a52705893f3/search-form/4.js" rel="preload" as="script"><link href="https://www.marriott.com/hybrid/homepage/ef3ce92f4a52705893f3/search-form/5.js" rel="preload" as="script"><link href="https://www.marriott.com/hybrid/homepage/ef3ce92f4a52705893f3/search-form/6.js" rel="preload" as="script"></head>
     <body class="page basepage basicpage" id="page-8f232c8f99">
 
     <!-- /* Inject HTML in body top section*/ -->
@@ -2251,7 +2251,7 @@
         </div>
     </div>
     <div>
-    <a class="cd-cl__link custom_click_track cd-cl__link-external cd-cl__spcl-effect-img track-completed" href="https://www.ritzcarlton.com/en/hotels/new-york/nomad#Hotel" target="_blank" rel="noopener noreferrer" aria-labelledby="card1676051487868_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-recently-viewed-label="Recently Viewed" data-custom_click_track_value="hp-featured-properties|The Ritz-Carlton New York, NoMad|external|">
+    <a class="cd-cl__link custom_click_track cd-cl__link-external cd-cl__spcl-effect-img track-completed" href="https://www.ritzcarlton.com/en/hotels/new-york/nomad#Hotel" target="_blank" rel="noopener noreferrer" aria-labelledby="card1676052896992_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-recently-viewed-label="Recently Viewed" data-custom_click_track_value="hp-featured-properties|The Ritz-Carlton New York, NoMad|external|">
     
     
 
@@ -2312,7 +2312,7 @@
     </a>
     </div>
     
-    <span class="sr-only" id="card1676051487868_" aria-hidden="true">
+    <span class="sr-only" id="card1676052896992_" aria-hidden="true">
         Couches and chairs in the lobby of The Ritz-Carlton New York, NoMad  The Ritz-Carlton New York, NoMad  Opens a new window
     </span>
 
@@ -2385,7 +2385,7 @@
         </div>
     </div>
     <div>
-    <a class="cd-cl__link custom_click_track cd-cl__spcl-effect-img track-completed" href="/en-us/hotels/saojw-jw-marriott-hotel-sao-paulo/overview/" aria-labelledby="card1676051487881_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-recently-viewed-label="Recently Viewed" data-custom_click_track_value="hp-featured-properties|JW Marriott Hotel Sao Paulo|internal|">
+    <a class="cd-cl__link custom_click_track cd-cl__spcl-effect-img track-completed" href="/en-us/hotels/saojw-jw-marriott-hotel-sao-paulo/overview/" aria-labelledby="card1676052897002_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-recently-viewed-label="Recently Viewed" data-custom_click_track_value="hp-featured-properties|JW Marriott Hotel Sao Paulo|internal|">
     
     
 
@@ -2446,7 +2446,7 @@
     </a>
     </div>
     
-    <span class="sr-only" id="card1676051487881_" aria-hidden="true">
+    <span class="sr-only" id="card1676052897002_" aria-hidden="true">
         Lounge chairs and umbrella next to pool and plant-covered wall  JW Marriott Hotel Sao Paulo  
     </span>
 
@@ -2519,7 +2519,7 @@
         </div>
     </div>
     <div>
-    <a class="cd-cl__link custom_click_track cd-cl__spcl-effect-img track-completed" href="/en-us/hotels/madeb-the-madrid-edition/overview/" aria-labelledby="card1676051487896_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-recently-viewed-label="Recently Viewed" data-custom_click_track_value="hp-featured-properties|The Madrid EDITION|internal|">
+    <a class="cd-cl__link custom_click_track cd-cl__spcl-effect-img track-completed" href="/en-us/hotels/madeb-the-madrid-edition/overview/" aria-labelledby="card1676052897012_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-recently-viewed-label="Recently Viewed" data-custom_click_track_value="hp-featured-properties|The Madrid EDITION|internal|">
     
     
 
@@ -2580,7 +2580,7 @@
     </a>
     </div>
     
-    <span class="sr-only" id="card1676051487896_" aria-hidden="true">
+    <span class="sr-only" id="card1676052897012_" aria-hidden="true">
         Couches and lamps at end of stylish hallway  The Madrid EDITION  
     </span>
 
@@ -2632,7 +2632,7 @@
         </div>
     </div>
     <div>
-    <a class="cd-cl__link custom_click_track cd-cl__spcl-effect-img track-completed" href="/en-us/hotels/snawa-the-westin-anaheim-resort/overview/" aria-labelledby="card1676051487905_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-recently-viewed-label="Recently Viewed" data-custom_click_track_value="hp-featured-properties|The Westin Anaheim Resort|internal|">
+    <a class="cd-cl__link custom_click_track cd-cl__spcl-effect-img track-completed" href="/en-us/hotels/snawa-the-westin-anaheim-resort/overview/" aria-labelledby="card1676052897018_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-recently-viewed-label="Recently Viewed" data-custom_click_track_value="hp-featured-properties|The Westin Anaheim Resort|internal|">
     
     
 
@@ -2693,7 +2693,7 @@
     </a>
     </div>
     
-    <span class="sr-only" id="card1676051487905_" aria-hidden="true">
+    <span class="sr-only" id="card1676052897018_" aria-hidden="true">
         Palm trees and roller coaster  The Westin Anaheim Resort  
     </span>
 
@@ -3225,7 +3225,7 @@
         </div>
     </div>
     <div>
-    <a class="cd-cl__link custom_click_track cd-cl__link-external cd-cl__spcl-effect-img track-completed" href="https://www.ritzcarlton.com/en/hotels/new-york/nomad#Hotel" target="_blank" rel="noopener noreferrer" aria-labelledby="card1676051488001_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-recently-viewed-label="Recently Viewed" data-custom_click_track_value="hp-featured-properties|The Ritz-Carlton New York, NoMad|external|">
+    <a class="cd-cl__link custom_click_track cd-cl__link-external cd-cl__spcl-effect-img track-completed" href="https://www.ritzcarlton.com/en/hotels/new-york/nomad#Hotel" target="_blank" rel="noopener noreferrer" aria-labelledby="card1676052897122_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-recently-viewed-label="Recently Viewed" data-custom_click_track_value="hp-featured-properties|The Ritz-Carlton New York, NoMad|external|">
     
     
 
@@ -3286,7 +3286,7 @@
     </a>
     </div>
     
-    <span class="sr-only" id="card1676051488001_" aria-hidden="true">
+    <span class="sr-only" id="card1676052897122_" aria-hidden="true">
         Couches and chairs in the lobby of The Ritz-Carlton New York, NoMad  The Ritz-Carlton New York, NoMad  Opens a new window
     </span>
 
@@ -3359,7 +3359,7 @@
         </div>
     </div>
     <div>
-    <a class="cd-cl__link custom_click_track cd-cl__spcl-effect-img track-completed" href="/en-us/hotels/saojw-jw-marriott-hotel-sao-paulo/overview/" aria-labelledby="card1676051488014_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-recently-viewed-label="Recently Viewed" data-custom_click_track_value="hp-featured-properties|JW Marriott Hotel Sao Paulo|internal|" tabindex="-1">
+    <a class="cd-cl__link custom_click_track cd-cl__spcl-effect-img track-completed" href="/en-us/hotels/saojw-jw-marriott-hotel-sao-paulo/overview/" aria-labelledby="card1676052897128_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-recently-viewed-label="Recently Viewed" data-custom_click_track_value="hp-featured-properties|JW Marriott Hotel Sao Paulo|internal|" tabindex="-1">
     
     
 
@@ -3420,7 +3420,7 @@
     </a>
     </div>
     
-    <span class="sr-only" id="card1676051488014_" aria-hidden="true">
+    <span class="sr-only" id="card1676052897128_" aria-hidden="true">
         Lounge chairs and umbrella next to pool and plant-covered wall  JW Marriott Hotel Sao Paulo  
     </span>
 
@@ -3493,7 +3493,7 @@
         </div>
     </div>
     <div>
-    <a class="cd-cl__link custom_click_track cd-cl__spcl-effect-img track-completed" href="/en-us/hotels/madeb-the-madrid-edition/overview/" aria-labelledby="card1676051488025_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-recently-viewed-label="Recently Viewed" data-custom_click_track_value="hp-featured-properties|The Madrid EDITION|internal|" tabindex="-1">
+    <a class="cd-cl__link custom_click_track cd-cl__spcl-effect-img track-completed" href="/en-us/hotels/madeb-the-madrid-edition/overview/" aria-labelledby="card1676052897134_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-recently-viewed-label="Recently Viewed" data-custom_click_track_value="hp-featured-properties|The Madrid EDITION|internal|" tabindex="-1">
     
     
 
@@ -3554,7 +3554,7 @@
     </a>
     </div>
     
-    <span class="sr-only" id="card1676051488025_" aria-hidden="true">
+    <span class="sr-only" id="card1676052897134_" aria-hidden="true">
         Couches and lamps at end of stylish hallway  The Madrid EDITION  
     </span>
 
@@ -3606,7 +3606,7 @@
         </div>
     </div>
     <div>
-    <a class="cd-cl__link custom_click_track cd-cl__spcl-effect-img track-completed" href="/en-us/hotels/snawa-the-westin-anaheim-resort/overview/" aria-labelledby="card1676051488032_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-recently-viewed-label="Recently Viewed" data-custom_click_track_value="hp-featured-properties|The Westin Anaheim Resort|internal|" tabindex="-1">
+    <a class="cd-cl__link custom_click_track cd-cl__spcl-effect-img track-completed" href="/en-us/hotels/snawa-the-westin-anaheim-resort/overview/" aria-labelledby="card1676052897138_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-recently-viewed-label="Recently Viewed" data-custom_click_track_value="hp-featured-properties|The Westin Anaheim Resort|internal|" tabindex="-1">
     
     
 
@@ -3667,7 +3667,7 @@
     </a>
     </div>
     
-    <span class="sr-only" id="card1676051488032_" aria-hidden="true">
+    <span class="sr-only" id="card1676052897138_" aria-hidden="true">
         Palm trees and roller coaster  The Westin Anaheim Resort  
     </span>
 
@@ -3838,7 +3838,7 @@
             </div>
             
         </div>
-        <a class="custom_click_track cd-cl__link-external track-completed" href="https://traveler.marriott.com/romantic-getaways/" target="_blank" rel="noopener noreferrer" aria-labelledby="card1676051488223_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-custom_click_track_value="Where Will You Go Next? |Fall in Love with the World’s Most Romantic Escapes|external">
+        <a class="custom_click_track cd-cl__link-external track-completed" href="https://traveler.marriott.com/romantic-getaways/" target="_blank" rel="noopener noreferrer" aria-labelledby="card1676052897167_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-custom_click_track_value="Where Will You Go Next? |Fall in Love with the World’s Most Romantic Escapes|external">
             <div class="cd-cl__content-wrap">
                 <p class="cd-cl__eyebrow t-overline-normal">Romantic Getaways</p>
                 <h3 class="cd-cl__title t-subtitle-l hz-line">Fall in Love with the World’s Most Romantic Escapes</h3>
@@ -3919,7 +3919,7 @@
             </div>
             
         </div>
-        <a class="custom_click_track cd-cl__link-external track-completed" href="https://traveler.marriott.com/travel-by-design/" target="_blank" rel="noopener noreferrer" aria-labelledby="card1676051488236_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-custom_click_track_value="Where Will You Go Next? |Discover the Design of Extraordinary Hotels|external">
+        <a class="custom_click_track cd-cl__link-external track-completed" href="https://traveler.marriott.com/travel-by-design/" target="_blank" rel="noopener noreferrer" aria-labelledby="card1676052897173_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-custom_click_track_value="Where Will You Go Next? |Discover the Design of Extraordinary Hotels|external">
             <div class="cd-cl__content-wrap">
                 <p class="cd-cl__eyebrow t-overline-normal">Travel by Design</p>
                 <h3 class="cd-cl__title t-subtitle-l hz-line">Discover the Design of Extraordinary Hotels</h3>
@@ -4000,7 +4000,7 @@
             </div>
             
         </div>
-        <a class="custom_click_track cd-cl__link-external track-completed" href="https://traveler.marriott.com/beach-travel/" target="_blank" rel="noopener noreferrer" aria-labelledby="card1676051488248_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-custom_click_track_value="Where Will You Go Next? |Find Your Paradise: Ultimate Beach Getaways|external">
+        <a class="custom_click_track cd-cl__link-external track-completed" href="https://traveler.marriott.com/beach-travel/" target="_blank" rel="noopener noreferrer" aria-labelledby="card1676052897178_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-custom_click_track_value="Where Will You Go Next? |Find Your Paradise: Ultimate Beach Getaways|external">
             <div class="cd-cl__content-wrap">
                 <p class="cd-cl__eyebrow t-overline-normal">Beach Travel</p>
                 <h3 class="cd-cl__title t-subtitle-l hz-line">Find Your Paradise: Ultimate Beach Getaways</h3>
@@ -4081,7 +4081,7 @@
             </div>
             
         </div>
-        <a class="custom_click_track cd-cl__link-external track-completed" href="https://traveler.marriott.com/travel-better/" target="_blank" rel="noopener noreferrer" aria-labelledby="card1676051488261_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-custom_click_track_value="Where Will You Go Next? |How to Travel Better: Sustainable Ways to Explore|external">
+        <a class="custom_click_track cd-cl__link-external track-completed" href="https://traveler.marriott.com/travel-better/" target="_blank" rel="noopener noreferrer" aria-labelledby="card1676052897183_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-custom_click_track_value="Where Will You Go Next? |How to Travel Better: Sustainable Ways to Explore|external">
             <div class="cd-cl__content-wrap">
                 <p class="cd-cl__eyebrow t-overline-normal">Tips + Trends</p>
                 <h3 class="cd-cl__title t-subtitle-l hz-line">How to Travel Better: Sustainable Ways to Explore</h3>
@@ -4162,7 +4162,7 @@
             </div>
             
         </div>
-        <a class="custom_click_track cd-cl__link-external track-completed" href="https://traveler.marriott.com/kid-friendly/" target="_blank" rel="noopener noreferrer" aria-labelledby="card1676051488272_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-custom_click_track_value="Where Will You Go Next? |Family Fun: Awesome Vacations for All Ages|external">
+        <a class="custom_click_track cd-cl__link-external track-completed" href="https://traveler.marriott.com/kid-friendly/" target="_blank" rel="noopener noreferrer" aria-labelledby="card1676052897189_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-custom_click_track_value="Where Will You Go Next? |Family Fun: Awesome Vacations for All Ages|external">
             <div class="cd-cl__content-wrap">
                 <p class="cd-cl__eyebrow t-overline-normal">Kid-Friendly</p>
                 <h3 class="cd-cl__title t-subtitle-l hz-line">Family Fun: Awesome Vacations for All Ages</h3>
@@ -4243,7 +4243,7 @@
             </div>
             
         </div>
-        <a class="custom_click_track cd-cl__link-external track-completed" href="https://traveler.marriott.com/pet-travel/" target="_blank" rel="noopener noreferrer" aria-labelledby="card1676051488283_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-custom_click_track_value="Where Will You Go Next? |Traveling With Your Pup? Best Pet-Friendly Spots|external">
+        <a class="custom_click_track cd-cl__link-external track-completed" href="https://traveler.marriott.com/pet-travel/" target="_blank" rel="noopener noreferrer" aria-labelledby="card1676052897194_" data-is-co-brand="false" data-is-click-track="true" data-is-impression-track="false" data-is-impression-count="false" data-custom_click_track_value="Where Will You Go Next? |Traveling With Your Pup? Best Pet-Friendly Spots|external">
             <div class="cd-cl__content-wrap">
                 <p class="cd-cl__eyebrow t-overline-normal">Pet Travel</p>
                 <h3 class="cd-cl__title t-subtitle-l hz-line">Traveling With Your Pup? Best Pet-Friendly Spots</h3>
@@ -7223,4 +7223,4 @@
 
     <script>window.__INITIAL_JSON__ = {"en":{"translations":{"cancel":"Cancel","rooms":"Rooms","recentSearchesHeading":"Recent Searches","skipCarousel":"skip {0} carousel","destinationSearchResult":"There are {x} search results. Keyboard users, use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.","numberOne":"01","carouselPreviousSlide":"Previous Slide","points":"Points","offersEyebrowText":"Valid through","children":"Children","previousTab":"Previous tab","signin":"SIGN IN","selectOneRate":"SELECT ONE RATE","selectLabel":"SELECT","ageLabel":"Age","currentLocationLabel":"Current Location","add":"Add","openMenu":"Open Menu","datesPlaceholderText":"Add Dates","months":"January,February,March,April,May,June,July,August,September,October,November,December","flexibleAlertMessage":"Flexible date searches cannot be completed requesting more than 3 rooms. Please revise your search","currentLocationText":"Search from current location below.","maxGuestsMsg":"Max: {x} total guests/room","edit":"Edit","specialRatesPoints":"Special Rates/Points","weekdays":"S,M,T,W,T,F,S","night":"Night","active":"active","remember_me_sign_in":"Sign In,","done":"Done","recentlyViewedHeading":"Recently Viewed","newSearchLabel":"New Search","clearRecentLabel":"Clear Recent","noResultFound":"No result found.","flexible":"Flexible","reset":"Reset Fields","guest":"Guest","childAgeRequired":"Child {x}: Age (Required)","hello":"Hello,","child":"Child","next":"Next","skipLink":"Skip to Content","cardDotAriaLabel":"Go to slide {x}","stayDates":"Dates","checkInLabel":"Check In","adults":"Adults","destination":"Destination","back":"Back","carouselSlideText":"Slide","addCorpOrPromoCode":"ADD CORP/PROMO CODE","closeMenu":"Close Menu","remove":"Remove","point":"Point","ageBasedRatesLabel":"Age-based rates may be available","myDatesFlexibleLabel":"My dates are flexible","NextTab":"Next tab","copyright1996":"© 1996 -","roomsGuestsHead":"Rooms & Guests","of":"of","copyrightInformation":"  Marriott International, Inc. All rights reserved. Marriott Proprietary Information","cardNumbersMsg":"with {0} cards.","weekdaysLong":"Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday","usePointsConfirmMessage":"Marriott Bonvoy points are not available for use when requesting more than 3 rooms.  Click \"OK\" to request a special group room rate. Click \"Cancel\" to revise your search.","enterCodeLabel":"Enter Code","previous":"Prev","applyLabel":"Apply","clear":"Clear Dates","lessThanLabel":"Less than 1","room":"Room","errorMsg":"The content could not be loaded","opensInNewTab":"Opens a new window","carouselNextSlide":"Next Slide","closeDialog":"Close Dialog","loadingMsg":"Loading...","nights":"Nights","closeAlertBanner":"Close alert banner","closeText":"Close","guests":"Guests","checkOutLabel":"Check Out","signInWithFacebook":"Sign in with Facebook","memberExclusiveText":"Member Exclusive","collapseLabel":"Collapse","usePointsCertificates":"Use Points/Certificates","openAlertBanner":"Open alert banner"}}}</script>
 
-<noscript><img src="https://www.marriott.com/akam/13/pixel_28c50f97?a=dD00NWViNGVhMjczNDgwYWY1ZTc4YTYyYTczYmUwODdjOWY1NjNkNDFkJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript><script type="text/javascript" src="/DjmRtLe4S/4A/Pw/IxRUtn1-jwd0pE/J35hpLbLS5fa/Rz9EDlMEJRE/G0/UASz0ffSs"></script><script id="esm-1" defer="" src="https://www.marriott.com/hybrid/homepage/ef3ce92f4a52705893f3/search-form/bundle.js"></script><script src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;client=gme-marriottinternational&amp;libraries=places,geometry&amp;signed_in=false&amp;region=" defer=""></script></body></html>
+<noscript><img src="https://www.marriott.com/akam/13/pixel_28c50f93?a=dD00NWViNGVhMjczNDgwYWY1ZTc4YTYyYTczYmUwODdjOWY1NjNkNDFkJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript><script type="text/javascript" src="/DjmRtLe4S/4A/Pw/IxRUtn1-jwd0pE/J35hpLbLS5fa/Rz9EDlMEJRE/G0/UASz0ffSs"></script><script id="esm-1" defer="" src="https://www.marriott.com/hybrid/homepage/ef3ce92f4a52705893f3/search-form/bundle.js"></script><script src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;client=gme-marriottinternational&amp;libraries=places,geometry&amp;signed_in=false&amp;region=" defer=""></script></body></html>
